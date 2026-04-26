@@ -1,0 +1,2137 @@
+{
+  "title": "Blood Biochemistry MCQ",
+  "questions": [
+    {
+      "id": "blood-1",
+      "question": "Which functions does blood fulfill in human organism?",
+      "options": [
+        "Protective function",
+        "Transport of metabolites",
+        "It takes part in hormonal regulation of metabolism",
+        "It takes part in thermoregulation in organism"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-2",
+      "question": "Blood plasma is the liquid part of blood. What does it differ from blood serum by?",
+      "options": [
+        "Presence of erythrocytes",
+        "Presence of leukocytes",
+        "Presence of fibrinogen",
+        "Presence of prothrombin",
+        "Presence of calcium ions",
+        "Capacity to coagulation",
+        "Presence of proteins"
+      ],
+      "correctAnswers": [
+        2,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-3",
+      "question": "pH is the most important physical-chemical constant of blood with very narrow diapason of differences. Which of listed pH levels corresponds to normal?",
+      "options": [
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-4",
+      "question": "What is the constancy of blood pH in human body maintained by?",
+      "options": [
+        "Presence of blood buffer systems",
+        "Presence of leukocytes",
+        "Work of excretory and respiratory systems",
+        "Direct hormonal control"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-5",
+      "question": "The base of blood plasma is the water desalting the high amount of organic and non-organic components. How much is their relative mass (solid residue of blood plasma)?",
+      "options": [
+        "1-2 %",
+        "4-5 %",
+        "9-10 %",
+        "15-16 %"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-6",
+      "question": "Which buffer systems are present in human blood?",
+      "options": [
+        "Citrate buffer system",
+        "Bicarbonate buffer system",
+        "Proteins",
+        "Phosphate buffer system",
+        "Hemoglobin-oxihemoglobin",
+        "Acetate buffer system"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-7",
+      "question": "Which biochemical parameters allow estimating the disturbances of acid-base balance?",
+      "options": [
+        "Concentration of hemoglobin in blood",
+        "Daily excretion of ammonium salts",
+        "Alkaline phosphatase activity",
+        "Concentration of urea in blood",
+        "Bicarbonate concentration in blood",
+        "Carbon dioxide concentration in blood"
+      ],
+      "correctAnswers": [
+        1,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-8",
+      "question": "What is the most probable change of acid-base balance in diabetes mellitus patient with insufficient insulin injection?",
+      "options": [
+        "Metabolic acidosis",
+        "Respiratory acidosis",
+        "Metabolic alkalosis",
+        "Respiratory alkalosis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-9",
+      "question": "What is the most probable change of acid-base balance in excessive lung ventilation?",
+      "options": [
+        "Metabolical acidosis",
+        "Respiratory acidosis",
+        "Metabolical alkalosis",
+        "Respiratory alkalosis"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-10",
+      "question": "Which character would acid-base balance disturbance have in human with acetic acid intoxication?",
+      "options": [
+        "Metabolical acidosis",
+        "Respiratory acidosis",
+        "Metabolical alkalosis",
+        "Respiratory alkalosis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-11",
+      "question": "Buffer systems play significant role in maintenance of blood pH constancy. Which components are included in bicarbonate buffer system?",
+      "options": [
+        "Hydrophosphates",
+        "Bicarbonates",
+        "Dihydrophosphates",
+        "Carbonic acid",
+        "Hemoglobin",
+        "Oxigemoglobin"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-12",
+      "question": "Which components are included in phosphate buffer system of blood plasma?",
+      "options": [
+        "Dihydrophosphates",
+        "Hemoglobin",
+        "Oxygemoglobin",
+        "Bicarbonates",
+        "Hydro-phosphates",
+        "Carbonic acid",
+        "Phosphates"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-13",
+      "question": "Which components are included in hemoglobin-oxygemoglobin buffer system of blood?",
+      "options": [
+        "Hydrophosphates",
+        "Hemoglobin",
+        "Dihydrophosphates",
+        "Carbonic acid",
+        "Bicarbonates",
+        "Oxygemoglobin"
+      ],
+      "correctAnswers": [
+        1,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-14",
+      "question": "Blood contains number of buffer systems including protein buffer. What do blood plasma proteins participate in maintenance of blood pH because of?",
+      "options": [
+        "Peptide bond presence",
+        "Hydrogen bond presence",
+        "Free amino groups presence",
+        "Free carboxylic groups presence",
+        "Tryptophan residue presence"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-15",
+      "question": "Which is the common concentration of proteins in human blood plasma?",
+      "options": [
+        "20-30 g/L",
+        "30-40 g/L",
+        "40-50 g/L",
+        "50-60 g/L",
+        "60-80 g/L"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-16",
+      "question": "How much is the concentration of albumins in human blood plasma?",
+      "options": [
+        "10-20 g/L",
+        "20-30 g/L",
+        "30-40 g/L",
+        "40-50 g/L",
+        "50-60 g/L"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-17",
+      "question": "Changes in blood protein concentration can be the result of their synthesis disturbances. Where are blood proteins synthesized in human body mostly?",
+      "options": [
+        "In liver",
+        "In spleen",
+        "In skeletal muscles",
+        "In blood сells",
+        "In red bone marrow"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-18",
+      "question": "Name the main reason of hypoproteinemia in patient with the damage of liver parenchyma?",
+      "options": [
+        "Loss of blood proteins with urine",
+        "Enhanced blood protein catabolism",
+        "Disorder of blood protein synthesis"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-19",
+      "question": "Proteins are the important nitrogenous compounds of blood plasma. What functions do they fulfill in blood plasma composition?",
+      "options": [
+        "Transport",
+        "Formation of blood plasma oncotic pressure",
+        "Blood clotting",
+        "Amino acid stock in protein starvation",
+        "Maintain the blood pH"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-20",
+      "question": "The buffer capacity is equal to:",
+      "options": [
+        "Δn / ΔpH",
+        "pH / Δn",
+        "± 1pKa",
+        "± 2pKa"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-21",
+      "question": "Albumins/globulins quotient has clinical significance. What is quantitative relationship of albumins and globulins in blood plasma of normal human?",
+      "options": [
+        "1.2-1.5",
+        "1.5-1.9",
+        "1.9-2.5"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-22",
+      "question": "Which of blood protein electrophoretic fractions is the most important in formation of blood plasma oncotic pressure?",
+      "options": [
+        "Albumins",
+        "alpha-1-globulins",
+        "alpha-2-globulins",
+        "betta-globulins",
+        "gamma-globulins"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-23",
+      "question": "Which blood protein fraction are antibodies included in?",
+      "options": [
+        "Albumins",
+        "α1-globulin",
+        "α2-globulins",
+        "β-globulins",
+        "γ-globulins"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-24",
+      "question": "How many fractions are blood plasma proteins divided to during paper electrophoresis?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-25",
+      "question": "Which of proteins being nearly completely absent in normal blood can appear in blood plasma in disease?",
+      "options": [
+        "Prothrombin",
+        "C-reactive protein",
+        "Transferrin",
+        "Crioglobulin",
+        "Fetoproteins",
+        "Haptoglobin",
+        "Ceruloplasmin"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-26",
+      "question": "Which of blood plasma proteins provides hemoglobin transport to reticuloendothelial cells in intravascular hemolysis?",
+      "options": [
+        "Ceruloplasmin",
+        "Haptoglobin",
+        "Immunoglobulins"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-27",
+      "question": "Ceruloplasmin is the most important protein of α2-globulin fraction. Which function does this protein fulfill in our organism?",
+      "options": [
+        "Provides copper transport",
+        "Participates in blood clotting",
+        "Oxidative enzyme",
+        "Participates in oxygen transport by blood",
+        "It’s involved in blood lipoprotein composition"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-28",
+      "question": "How many classes of immunoglobulins does human blood contain?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-29",
+      "question": "How much is the quantity of globulins in human blood plasma?",
+      "options": [
+        "20-30 g/L",
+        "30-40 g/L",
+        "40-50 g/L"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-30",
+      "question": "How much is the quantity of fibrinogen in human blood plasma?",
+      "options": [
+        "0.5-1.0 g/L",
+        "1-2 g/L",
+        "2-4 g/L"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-31",
+      "question": "Which place in human body are blood plasma albumins synthesized in?",
+      "options": [
+        "In liver",
+        "In skeletal muscles",
+        "In blood cells",
+        "In spleen"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-32",
+      "question": "Hemoglobin A1 is the main type of healthy adult hemoglobin. Which types of polypeptide chains does hemoglobin A1 contain?",
+      "options": [
+        "2 α-chains and 2 β-chains",
+        "2 α-chains and 2 γ-chains",
+        "2 α-chains and 2 δ-chains"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-33",
+      "question": "Which types of polypeptide chains does fetal hemoglobin F contain?",
+      "options": [
+        "2 α-chains and 2 β-chains",
+        "2 α-chains and 2 γ-chains",
+        "2 α-chains and 2 δ-chains"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-34",
+      "question": "Which of erythrocyte enzymes are included in composition of antioxidant system and protect membranes from injuring action of oxygen toxic forms?",
+      "options": [
+        "Glutathione peroxidase",
+        "Superoxide dismutase",
+        "Catalase",
+        "ATP-ase",
+        "Glutathione reductase"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-35",
+      "question": "Which of metabolic pathways is the main source of energy in erythrocytes?",
+      "options": [
+        "Citric acid cycle",
+        "Anaerobic glycolysis",
+        "Pentose-phosphate pathway",
+        "Ornithine cycle"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-36",
+      "question": "How much is the quantity of hemoglobin in blood plasma of adults?",
+      "options": [
+        "80-100 g/L",
+        "100-120 g/L",
+        "140-160 g/L",
+        "160-200 g/L"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-37",
+      "question": "What is the S-shape of the hemoglobin oxygen-binding curve conditioned by?",
+      "options": [
+        "Gradient of oxygen partial pressure in blood and alveoli",
+        "Cooperative change of hemoglobin polypeptide chains which influences on affinity of hemoglobin to oxygen",
+        "Change of carbon dioxide concentration in blood"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-38",
+      "question": "Which of hemoglobin derivatives is formed in blood in carbon monoxide poisoning?",
+      "options": [
+        "Oxyhemoglobin",
+        "Carbhemoglobin",
+        "Carboxyhemoglobin",
+        "Methemoglobin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-39",
+      "question": "Which of hemoglobin derivatives is formed in blood in oxidizer action?",
+      "options": [
+        "Oxyhemoglobin",
+        "Carbhemoglobin",
+        "Carboxyhemoglobin",
+        "Methemoglobin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-40",
+      "question": "Which of blood physical-chemical parameters depends dramatically on value of hematocrit index?",
+      "options": [
+        "Osmotic pressure",
+        "Viscosity",
+        "Blood pH"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-41",
+      "question": "What is the reason of hemoglobinopathy development?",
+      "options": [
+        "Genetically conditioned replacement of amino acids in hemoglobin polypeptide chains",
+        "Inherited disturbances some hemoglobin polypeptide chain synthesis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-42",
+      "question": "What is the reason of thalassemia development?",
+      "options": [
+        "Genetically conditioned replacement of amino acids in hemoglobin polypeptide chains",
+        "nherited disturbances some hemoglobin polypeptide chain synthesis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-43",
+      "question": "Tick states in which oxygen is transported by blood",
+      "options": [
+        "In dissolved condition",
+        "In oxihemoglobin state",
+        "In bicarbonate structure",
+        "In lipoprotein composition"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-44",
+      "question": "Which of listed factors influences the level of hemoglobin saturation by oxygen?",
+      "options": [
+        "Surrounding pH",
+        "Partial pressure of oxygen",
+        "Temperature",
+        "Partial pressure of carbon dioxide",
+        "2,3-diphosphoglycerate concentration in erythrocytes",
+        "Blood glucose level"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-45",
+      "question": "Tick the states in which carbon dioxide is transported by blood",
+      "options": [
+        "In bicarbonate structure",
+        "In carbhemoglobin composition",
+        "In carboxihemoglobin composition",
+        "In dissolved condition",
+        "In lipoprotein composition",
+        "In complex with bilirubin"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-46",
+      "question": "Which of the following is false?",
+      "options": [
+        "Heme consists of a complex organic ring structure, protoporphyrin",
+        "Protoporphyrin is bound to a single iron atom in its Fe+2 state",
+        "Iron atom has 6 coordination bonds",
+        "Heme is found in a number of oxygen transporting proteins"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-47",
+      "question": "Myoglobin is particularly abundant in:",
+      "options": [
+        "Nerves",
+        "Muscles",
+        "Blood cells",
+        "Skin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-48",
+      "question": "Myoglobin binding of O2 depends on",
+      "options": [
+        "Hemoglobin concentration",
+        "O2 concentration and affinity of myoglobin for O2",
+        "Ka",
+        "Kd"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-49",
+      "question": "In the binding of oxygen to myoglobin, the relationship between the concentration of oxygen and the fraction of binding sites occupied can best be described as:",
+      "options": [
+        "Hyperbolic",
+        "Linear with a negative slope",
+        "Linear with a positive slope",
+        "Parabolic"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-50",
+      "question": "Myoglobin and the subunits of hemoglobin have:",
+      "options": [
+        "Very different primary and tertiary structures",
+        "Very similar primary and tertiary structures",
+        "Very similar primary structures, but different tertiary structures",
+        "Very similar tertiary structures, but different primary structures"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-51",
+      "question": "When oxygen binds to a heme-containing protein, the two open coordination bonds of Fe2+ are occupied by:",
+      "options": [
+        "One O atom and one amino acid atom",
+        "One O2 molecule and one amino acid atom",
+        "One O2 molecule and one heme atom",
+        "Two O atoms"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-52",
+      "question": "Plasma proteins are composed of mostly glycoproteins, lipoproteins, and immunoglobulins that function in the immune system; binding and transport of nutrients, toxic substances, metals etc. The normal reference range for total plasma proteins are",
+      "options": [
+        "2.5-4.5 gm/dl",
+        "4.5-6.0 gm/dl",
+        "6.0-8.3 gm/dl",
+        ">8.3gm/dl"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-53",
+      "question": "Which of the following proteins is present in the gamma-globulin fraction?",
+      "options": [
+        "Transthyretin",
+        "Ceruloplasmin",
+        "Haptoglobin",
+        "Immunoglobulin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-54",
+      "question": "C-reactive protein, a plasma protein that is elevated during inflammation and infections. C-reactive protein falls into the category",
+      "options": [
+        "Transport proteins",
+        "Clotting proteins",
+        "Plasma Enzymes",
+        "Acute phase proteins"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-55",
+      "question": "Albumin (69kDa) is the major plasma protein constituting 60% of total plasma proteins. Which of the following is not the function of albumins?",
+      "options": [
+        "Maintenance of osmotic pressure",
+        "Binding and transport of fatty acids and bilirubin",
+        "Transport of iron",
+        "Transport of drugs such as sulphonamides"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-56",
+      "question": "Which of the following protein has a half-life of approximately 48 hours and also measured as a biomarker for acute hepatic failure or malnutrition.",
+      "options": [
+        "Albumin",
+        "Transthyretin",
+        "Ceruloplasmin",
+        "Haptoglobin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-57",
+      "question": "Which of the following plasma protein is not involved in iron homeostasis?",
+      "options": [
+        "Haptoglobin",
+        "Transferrin",
+        "Ferritin",
+        "Ceruloplasmin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-58",
+      "question": "The following condition has altered A: G (albumin/globulin) ratio less than 2 with decreased plasma albumin concentration:",
+      "options": [
+        "Chronic hepatic Cirrhosis",
+        "Acute hepatitis",
+        "Obstructive jaundice",
+        "Increased alcohol consumption"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-59",
+      "question": "The following fractions of blood plasma proteins can be isolated by electrophoresis on paper:",
+      "options": [
+        "albumins, globulins, fibrinogen;",
+        "albumine, α1-глобулины, α2-глобулины, fibrinogen;",
+        "albumine, α1-глобулины, α2-глобулины, β-globulins, γ-globulins",
+        "albumine, α1-глобулины, α2-глобулины, β-globulins",
+        "albumins, α 1-globulins, α 2-globulins, α 3-globulins, fibrinogen"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-60",
+      "question": "What of the the following can be detected by protein electrophoresis?",
+      "options": [
+        "Hypogammaglobulinemia;",
+        "paraproteinemiya;",
+        "disproteinemia;",
+        "hypoalbuminemia;",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-61",
+      "question": "The value of oncotic pressure is determined by:",
+      "options": [
+        "ions;",
+        "carbohydrates;",
+        "lipids;",
+        "proteins;",
+        "all options are correct."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-62",
+      "question": "Plasma proteins do not include:",
+      "options": [
+        "haptoglobin;",
+        "ceruloplasmin;",
+        "globulins;",
+        "myoglobin;",
+        "transcorin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-63",
+      "question": "The main physiological role of transferin is:",
+      "options": [
+        "hemoglobin binding;",
+        "transport of iron ions;",
+        "copper ions transport;",
+        "participation in blood clotting;",
+        "transport of lipids."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-64",
+      "question": "The main physiological role of haptoglobin is:",
+      "options": [
+        "hemoglobin binding;",
+        "transport of iron ions;",
+        "copper ions transport;",
+        "participation in blood clotting;",
+        "transport of lipids."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-65",
+      "question": "The main physiological role of ceruloplasmin is:",
+      "options": [
+        "hemoglobin binding;",
+        "transport of iron ions;",
+        "copper ions transport;",
+        "participation in blood clotting;",
+        "transport of lipids."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-66",
+      "question": "In case of acute inflammatory diseases in blood the content increases:",
+      "options": [
+        "γ-globulins;",
+        "α1-globulins and α2-globulins;",
+        "α-globulins and γ-globulins;",
+        "albumins and β-globulins;",
+        "albumins and α-globulins"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-67",
+      "question": "The following can be observed if the content of haptoglobin in blood decreases:",
+      "options": [
+        "Hyperbilirubinemiya;",
+        "Hemoglobinuria",
+        "Nitrogenemia",
+        "Atherosclerosis."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-68",
+      "question": "The main physiological role of fibrinogen is:",
+      "options": [
+        "hemoglobin binding;",
+        "transport of iron ions;",
+        "copper ion transport;",
+        "participation in blood clotting;",
+        "transport of lipids."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-69",
+      "question": "The fibrinogen content in blood may decrease at:",
+      "options": [
+        "myocardial infarction;",
+        "chronic liver diseases;",
+        "rheumatism;",
+        "diarrhea;",
+        "acute inflammation"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-70",
+      "question": "Anticoagulant system includes:",
+      "options": [
+        "prothrombin;",
+        "blood clotting factors;",
+        "platelets;",
+        "heparin;"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-71",
+      "question": "Prothrombin activation is carried out by the following mechanism:",
+      "options": [
+        "phosphorylation-dephosphorylation;",
+        "detaching the protein inhibitors;",
+        "allosteric activation;",
+        "partial proteolysis;",
+        "accessions of a cofactor."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-72",
+      "question": "Blood glucose reference values are:",
+      "options": [
+        "0.5-1.5 mmol/l;",
+        "2.5-5.5 mmol/l;",
+        "3.3-6.1 mmol/l;",
+        "3.9-6.0 mmol/l;",
+        "5.5-7.2 mmol/l."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-73",
+      "question": "Blood cholesterol reference value is:",
+      "options": [
+        "less than 1.5 mmol/l;",
+        "less than 5.5 mmol/l;",
+        "less than 6.1 mmol/l;",
+        "less than 5.2 mmol/l;",
+        "less than 7.2 mmol/l."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-74",
+      "question": "Urea reference values in blood are:",
+      "options": [
+        "0.24-0.29 mmol/l;",
+        "2.5-8.3 mmol/l;",
+        "2.5-5.5 mmol/l;",
+        "3.5-7.0 mmol/;",
+        "3.9-7.2 mmol/l."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-75",
+      "question": "Ketone bodies reference values in blood are::",
+      "options": [
+        "0.24-0.29 mmol/l;",
+        "0.2-0.5 mmol/l;",
+        "3.5-5.5 mmol/l;",
+        "3.5-7.0 mmol/l;",
+        "3.9-7.2 mmol/l."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-76",
+      "question": "Total bilirubin reference values in blood are:",
+      "options": [
+        "0.2-0.6 µmol/l;",
+        "3.5-7.0 µmol/l;",
+        "4.9-7.2 µmol/l;",
+        "8.5-20.5 µmol/l;",
+        "12–22 µmol/l."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-77",
+      "question": "Ca+2 concentration in blood plasma is:",
+      "options": [
+        "0.2-0.6 mmol/l;",
+        "2.2-2.75 mmol/l;",
+        "3.5-7.0 mmol/l;",
+        "4.9-7.2 mmol/l;",
+        "12–22 mmol/l."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-78",
+      "question": "Blood iron reference value is:",
+      "options": [
+        "0.2-0.6 µmol/l;",
+        "3.5-7.0 µmol/l;",
+        "9–31 µmol/l;",
+        "8-20.5 µmol/l;",
+        "12–22 µmol/l."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-79",
+      "question": "The source of blood plasma iron is:",
+      "options": [
+        "hemoglobin iron;",
+        "iron absorbed in the gastrointestinal tract;",
+        "depot iron;",
+        "iron of destroyed erythrocytes;",
+        "all options are correct."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-80",
+      "question": "Total amount of iron in an adult man is about:",
+      "options": [
+        "1–2 gm",
+        "2–3 gm",
+        "3–4 gm",
+        "6–7 gm"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-81",
+      "question": "Haemoglobin contains about:",
+      "options": [
+        "30% of the total body iron",
+        "50% of the total body iron",
+        "75% of the total body iron",
+        "90% of the total body iron"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-82",
+      "question": "About 5% of the total body iron is present in:",
+      "options": [
+        "Transferrin",
+        "Myoglobin",
+        "Cytochromes",
+        "Haemosiderin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-83",
+      "question": "Each hemoglobin molecule contains:",
+      "options": [
+        "1 iron atom",
+        "2 iron atoms",
+        "4 iron atoms",
+        "6 iron atoms"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-84",
+      "question": "Each myoglobin molecule contains:",
+      "options": [
+        "1 iron atom",
+        "2 iron atoms",
+        "4 iron atoms",
+        "6 iron atoms"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-85",
+      "question": "Total daily iron loss of an adult man is about:",
+      "options": [
+        "0.1 mg",
+        "1 mg",
+        "5 mg",
+        "10 mg"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-86",
+      "question": "Daily iron requirement of a woman of reproductive age is about:",
+      "options": [
+        "1 mg",
+        "2 mg",
+        "10 mg",
+        "20 mg"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-87",
+      "question": "All the following are good sources of iron except:",
+      "options": [
+        "milk",
+        "liver",
+        "kidney",
+        "meat"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-88",
+      "question": "Iron absorption from a mixed diet is about:",
+      "options": [
+        "1-5%",
+        "5-10%",
+        "20-25%",
+        "25-50%"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-89",
+      "question": "Iron deficiency causes:",
+      "options": [
+        "cirrhosis",
+        "nephrittis",
+        "aneamia",
+        "arteial hypertension"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-90",
+      "question": "Which of listed compounds are initial in heme biosynthesis?",
+      "options": [
+        "Succinyl-CoA",
+        "Delta-aminolevulinic acid",
+        "Glycine",
+        "Porfobilinogen",
+        "Uroporfirinogen"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-91",
+      "question": "Heme is a tetrapyrrole structure consisting of Fe+2 ions in the center of the porphyrin ring. Which of the following proteins consist of heme?",
+      "options": [
+        "Myoglobin",
+        "Hemoglobin",
+        "Cytochrome",
+        "All options are correct",
+        "High density lipoproteins"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-92",
+      "question": "Besides erythroid precursor cells, which of the following is the site for the synthesis of heme?",
+      "options": [
+        "Kidney",
+        "Spleen",
+        "Liver",
+        "Heart"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-93",
+      "question": "Which of the following is not the precursor for the synthesis of Heme?",
+      "options": [
+        "Glycine",
+        "Succinyl CoA",
+        "All options are correct",
+        "None of options is correct"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-94",
+      "question": "Which of the following is the rate-limiting enzyme for the synthesis of heme?",
+      "options": [
+        "δ-aminolevulinic acid synthase 1",
+        "Uroporphyrinogen synthase III",
+        "Protoporphyrinogen oxidase",
+        "Ferrochelatase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-95",
+      "question": "The synthesis of heme involves both cytosolic and mitochondrial cellular compartment. Which of the following enzyme-catalyzed reaction does not occur in the cytosol?",
+      "options": [
+        "δ-aminolevulinic acid synthase 1",
+        "Uroporphyrinogen synthase III",
+        "Protoporphyrinogen oxidase",
+        "Ferrochelatase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-96",
+      "question": "Lead positioning causes the increases the accumulation and urinary excretion of coproporphyrin III and ALA in the urine. Which of the following enzyme is inhibited by lead metal?",
+      "options": [
+        "ALA synthase and Protoporphyrin oxidase",
+        "ALA synthase and Ferrochelatase",
+        "ALA dehydratase and Protoporphyrin oxidase",
+        "ALA dehydratase and Ferrochelatase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-97",
+      "question": "The heme, hematin and Cytochrome P450 represses the synthesis of the following enzyme thereby reducing heme synthesis.",
+      "options": [
+        "delta-aminolevulinic acid synthase 1",
+        "Uroporphyrinogen synthase III",
+        "Protoporphyrinogen oxidase",
+        "Ferrochelatase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-98",
+      "question": "Which of the following intermediate of the heme synthetic pathway is water-insoluble and excreted with feces via biliary tract?",
+      "options": [
+        "delta-aminolevulinic acid",
+        "Porphobilinogen",
+        "Uroporphyrinogen",
+        "Protoporphyrin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-99",
+      "question": "The porphyrias are a group of metabolic disorders that result from partial deficiencies of the enzyme of the heme biosynthetic pathway. The porphyria may be classified as acute and non-acute. Which of the following porphyria is not acute type?",
+      "options": [
+        "Acute intermittent porphyria",
+        "Hereditary coproporphyria",
+        "Variegate porphyria",
+        "Porphyria Cutanea Tarda"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-100",
+      "question": "The intravenous administration of hemin is required for reducing symptoms during acute porphyria attacks. The hemin decreased the gene synthesis of the following enzyme:",
+      "options": [
+        "delta-aminolevulinic acid synthase 1",
+        "Uroporphyrinogen synthase III",
+        "Protoporphyrinogen oxidase",
+        "Ferrochelatase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-101",
+      "question": "Paraproteinemia is:",
+      "options": [
+        "increasing the concentration of total protein;",
+        "decrease of total protein concentration;",
+        "decrease of fibrinogen level;",
+        "appearance of \"abnormal\" proteins in blood;",
+        "disturbance of the ratio of plasma protein fractions."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-102",
+      "question": "The cause of paraproteinemia may be:",
+      "options": [
+        "nephritis;",
+        "diabetes;",
+        "miyeloma disease;",
+        "diarrhea;",
+        "hyperglycemia."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-103",
+      "question": "Dysproteinemia is:",
+      "options": [
+        "increasing the concentration of total protein;",
+        "decrease of total protein concentration;",
+        "decrease of fibrinogen level;",
+        "disturbance of the ratio of plasma protein fractions;",
+        "appearance of \"abnormal\" proteins in blood."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-104",
+      "question": "Hyperproteinemia occurs at:",
+      "options": [
+        "nephritis;",
+        "heavy diarrhea;",
+        "alimentary dystrophy;",
+        "liver diseases;",
+        "all options are correct"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-105",
+      "question": "Hyperproteinemia develops due to increase of:",
+      "options": [
+        "albumins;",
+        "globulins;",
+        "fibrinogen;",
+        "hemoglobin;",
+        "myoglobin."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-106",
+      "question": "Hypoproteinemia develops due to decrease of:",
+      "options": [
+        "albumins;",
+        "globulins;",
+        "fibrinogen;",
+        "hemoglobin;",
+        "myoglobin."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-107",
+      "question": "Hypoproteinemia occurs at:",
+      "options": [
+        "nephritis;",
+        "diarrhea;",
+        "acute respiratory infection;",
+        "macroglobulinemia;",
+        "all options are correct"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-108",
+      "question": "Nitrogen-free organic components of blood include:",
+      "options": [
+        "bilirubin;",
+        "urea;",
+        "uric acid;",
+        "ketone bodies;",
+        "amino acids."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-109",
+      "question": "Non-protein nitrogenous organic components of blood include:",
+      "options": [
+        "cholesterol;",
+        "urea;",
+        "glucose;",
+        "ketone bodies;",
+        "fatty acids."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-110",
+      "question": "\"Residual nitrogen\" includes:",
+      "options": [
+        "amino acids;",
+        "ammonia;",
+        "creatinine;",
+        "urea;",
+        "cholesterol."
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-111",
+      "question": "The main product of residual nitrogen in quantitative ratio is:",
+      "options": [
+        "amino acids;",
+        "ammonia;",
+        "creatinine;",
+        "urea;",
+        "bilirubin."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-112",
+      "question": "The source of creatine in the body is:",
+      "options": [
+        "synthesis in erythrocytes;",
+        "synthesis in the liver;",
+        "enters the body with food;",
+        "is formed in the central nervous system;",
+        "all options are correct."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-113",
+      "question": "Acidosis includes:",
+      "options": [
+        "increasing blood pH;",
+        "increase of OH-concentration in blood;",
+        "increasing blood H+ concentration;",
+        "decrease of ketone bodies level in blood;",
+        "reduction of lactate level in blood."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-114",
+      "question": "Alkalosis includes:",
+      "options": [
+        "blood pH reduction;",
+        "increasing blood pH;",
+        "decrease of concentration of OH-in blood;",
+        "increase of lactate in blood;",
+        "ncreasing ketone bodies in the blood."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-115",
+      "question": "The reasons of metabolic acidosis are:",
+      "options": [
+        "loss of bicarbonate at diarrhea;",
+        "diabetes;",
+        "disturbance of proton excretion by kidneys;",
+        "long starvation;"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-116",
+      "question": "Respiratory alkalosis is observed at:",
+      "options": [
+        "hypoventilation of lungs;",
+        "hyperventilations of lungs;",
+        "diabetes;",
+        "hypoglycemia;",
+        "disease of lungs."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-117",
+      "question": "Respiratory acidosis is observed at:",
+      "options": [
+        "fever;",
+        "hyperventilations of lungs;",
+        "diabetes;",
+        "hypoglycemia;",
+        "disease of lungs."
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-118",
+      "question": "Metabolic acidosis can be compensated by:",
+      "options": [
+        "delay of carbon dioxide excretion by lungs;",
+        "hyperventilations;",
+        "enhancing kidney bicarbonate excretion;",
+        "increasing the synthesis of hydrochloric acid;",
+        "all options are correct"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-119",
+      "question": "What of the following is characteristic for erythrocytes:",
+      "options": [
+        "are formed in red bone marrow cells;",
+        "are destroyed in the spleen and liver;",
+        "lifespan is 120 days;",
+        "do not contain core;",
+        "high mitochondrial content."
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-120",
+      "question": "Which type of bilirubin is received by venous blood from reticuloendothelial cells?",
+      "options": [
+        "Direct bilirubin",
+        "Indirect bilirubin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-121",
+      "question": "Which type of bilirubin is formed in hepatocytes by addition of glucuronic acid?",
+      "options": [
+        "Direct bilirubin",
+        "Indirect bilirubin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-122",
+      "question": "Which type of bilirubin can pass through hemotoencephalic barrier and manage toxic influence on brain tissue?",
+      "options": [
+        "Direct bilirubin",
+        "Indirect bilirubin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-123",
+      "question": "Which type of bilirubin can be filtrated by kidney and detected in urine in jaundices?",
+      "options": [
+        "Direct bilirubin",
+        "Indirect bilirubin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-124",
+      "question": "Which of hemoglobin metabolism products is contained in urine of adults?",
+      "options": [
+        "Bilirubin",
+        "Urobilin",
+        "Stercobilin",
+        "Heme"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-125",
+      "question": "The normal range of direct reacting (conjugated) serum bilirubin is:",
+      "options": [
+        "0–0.1 mg/100 ml",
+        "0.1–0.4 mg/100 ml",
+        "0.4–0.6 mg/100 ml",
+        "0.5–1 mg/100 ml"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-126",
+      "question": "The normal range of indirect (unconjugated) bilirubin in serum is:",
+      "options": [
+        "0–0.1 mg/100 ml",
+        "0.1–0.2 mg/100 ml",
+        "0.2–0.7 mg/100 ml",
+        "0.8–1.0 mg/100 ml"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-127",
+      "question": "Jaundice is visible when serum bilirubin is:",
+      "options": [
+        "0.5 mg/100 ml",
+        "0.8 mg/100 ml",
+        "1 mg/100 ml",
+        "2.4 mg/100"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-128",
+      "question": "An increase in serum unconjugated bilirubin occurs at:",
+      "options": [
+        "Hemolytic jaundice",
+        "Obstructive jaundice",
+        "Nephritis",
+        "Glomerulonephritis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-129",
+      "question": "Increased urobilinogen in urine and absence of bilirubin in the urine suggests:",
+      "options": [
+        "Obstructive jaundice",
+        "Hemolytic jaundice",
+        "Viral hepatitis",
+        "Toxic jaundice"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-130",
+      "question": "Fecal stercobilinogen is increased at:",
+      "options": [
+        "Hemolytic jaundice",
+        "Hepatic jaundice",
+        "Viral hepatitis",
+        "Obstructive jaundice"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-131",
+      "question": "Fecal urobilinogen is increased at:",
+      "options": [
+        "Hemolytic jaundice",
+        "Obstruction of biliary duct",
+        "Extrahepatic gall stones",
+        "Enlarged lymphatic nodes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-132",
+      "question": "A mixture of conjugated and unconjugated bilirubin is found at:",
+      "options": [
+        "Hemolytic jaundice",
+        "Hepatic jaundice",
+        "Obstructive jaundice",
+        "Post hepatic jaundice"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-133",
+      "question": "Fecal urobilinogen is decreased at:",
+      "options": [
+        "Obstruction of biliary duct",
+        "Hemolytic jaundice",
+        "Excess fat intake",
+        "Low fat intake"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-134",
+      "question": "The presence of bilirubin in the urine without urobilinogen suggests:",
+      "options": [
+        "Obstructive jaundice",
+        "Hemolytic jaundice",
+        "Pernicious anemia",
+        "Damage of the hepatic parenchyma"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-135",
+      "question": "Bilirubin transformation stages are:",
+      "options": [
+        "bilirubin, stercobilin, urobilinogen;",
+        "bilirubin, hemoglobin, urobiline;",
+        "bilirubin, diglucuronyl bilirubin, urobilinogen;",
+        "diglucuronil bilirubin, bilirubin, urobilinogen;",
+        "diglucuronil bilirubin, bilirubin, hemoglobin."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-136",
+      "question": "Indirect bilirubin:",
+      "options": [
+        "is bound to albumins;",
+        "is bound to globulins;",
+        "gives a color reaction with the Ehrlich diazoreactive;",
+        "is bound to glucuronic acid."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-137",
+      "question": "Direct bilirubin:",
+      "options": [
+        "is bound to albumins;",
+        "is bound to globulins;",
+        "gives a color reaction with the Ehrlich diazoreactive;",
+        "is bound to glucuronic acid."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-138",
+      "question": "A synonym of non-conjugated bilirubin is:",
+      "options": [
+        "Indirect;",
+        "Direct;",
+        "Not free;",
+        "The total:",
+        "Non-toxic"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-139",
+      "question": "How would blood clotting change if calcium ions were removed from blood plasma?",
+      "options": [
+        "It wouldn’t be changed",
+        "It would be increased",
+        "It would be decreased",
+        "It would be lost"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-140",
+      "question": "What is the most typical sign of vitamin K insufficiency?",
+      "options": [
+        "Neural system lesion",
+        "Enhanced bleedingness",
+        "Thrombosis",
+        "Osteomalacia"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-141",
+      "question": "The unique blood plasma protein undergoes proteolysis, polymerization and conversion into insoluble state in the thrombus formation during blood clotting. Tick this protein.",
+      "options": [
+        "Plasma albumin",
+        "Prothrombin",
+        "Antihemophilic globulin A",
+        "Antihemophilic globulin B",
+        "Immunoglobulins",
+        "Fibrinogen",
+        "Ceruloplasmin"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-142",
+      "question": "Conversion of fibrinogen to fibrin is in the base of blood thrombus formation. Which of the blood clotting factors catalyzes this process directly?",
+      "options": [
+        "Prothrombin",
+        "Proconvertin",
+        "Stuart-Prower factor",
+        "Thrombin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-143",
+      "question": "Which of the blood clotting factors is activated by contact with foreign and pathologically changed surface?",
+      "options": [
+        "Proconvertin",
+        "Proaccelerin",
+        "Tissue thromboplastin",
+        "Rosental factor",
+        "Prothrombin",
+        "Hageman factor"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-144",
+      "question": "Which vitamin plays the most significant role in biosynthesis of the blood clotting proteins in liver?",
+      "options": [
+        "Ascorbic acid",
+        "Thiamin",
+        "Vitamin K",
+        "Niacin (vitamin PP)",
+        "Riboflavin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "blood-145",
+      "question": "Which of the listed minerals participates directly in blood clotting?",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    }
+  ]
+}

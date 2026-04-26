@@ -1,0 +1,1028 @@
+{
+  "title": "Water-Salt Metabolism MCQ",
+  "questions": [
+    {
+      "id": "ws-1",
+      "question": "What damages are caused by vasopressin insufficiency in organism?",
+      "options": [
+        "Blood coagulation decreasing",
+        "Metabolic acidosis development",
+        "Diuresis increasing",
+        "Decrease in specific gravity of urine",
+        "Appearance of glucose in urine",
+        "Diuresis decreasing",
+        "Increase in specific gravity of urine"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-2",
+      "question": "The symptoms of disorder are polyuria and decrease in specific gravity of urine. What gland damage leads to these symptoms?",
+      "options": [
+        "Pancreas islets",
+        "Thyroid gland",
+        "Posterior pituitary gland",
+        "Anterior pituitary gland",
+        "Epiphysis",
+        "Thymus"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-3",
+      "question": "The symptoms of disorder are the polyuria, increase in specific gravity of urine at the expense of glucose presence. What gland damage causes this condition?",
+      "options": [
+        "Adenohypophysis",
+        "Neurohypophysis",
+        "Thyroid gland",
+        "Pancreas islets",
+        "Epiphysis"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-4",
+      "question": "The antagonists of aldosterone are used in medicine. What symptoms appear when aldosteron action is blocked in organism?",
+      "options": [
+        "Blood coagulation decreasing",
+        "Metabolic acidosis development",
+        "Diuresis increasing",
+        "Hyperkaliemia",
+        "Hyponatriemia",
+        "Hypokaliemiamia",
+        "Hypernatriemia"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-5",
+      "question": "In what case is the activation of rennin-angiotensine system possible?",
+      "options": [
+        "In acidosis",
+        "In hepatitis",
+        "In ischemia of renal tissue"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-6",
+      "question": "Choose the factors playing the most important role in phospho-calcium metabolism:",
+      "options": [
+        "Thiamin",
+        "Vitamin D",
+        "Insulin",
+        "Parathyroid hormone",
+        "Calcitonin",
+        "Riboflavin"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-7",
+      "question": "Tick the normal components of urine:",
+      "options": [
+        "Urea",
+        "Hemoglobin",
+        "Creatinine",
+        "Creatine",
+        "Uric acid",
+        "Protein",
+        "Amino acids",
+        "Glucose",
+        "Acetone bodies"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-8",
+      "question": "What urine compound appearance is witnessed about the pathology?",
+      "options": [
+        "Urea",
+        "Hemoglobin",
+        "Creatinine",
+        "Creatine",
+        "Bilirubin",
+        "Protein",
+        "Uric acid",
+        "Glucose",
+        "Acetone bodies"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-9",
+      "question": "What urine pathologic component appearance is witnessed about kidney damages?",
+      "options": [
+        "Blood pigments",
+        "Creatine",
+        "Bilirubin",
+        "Urobilin",
+        "Protein",
+        "Acetone bodies"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-10",
+      "question": "What urine component appearance is witnessed about tissue metabolism damages?",
+      "options": [
+        "Blood pigments",
+        "Creatine",
+        "Bilirubin",
+        "Urobilin",
+        "Protein",
+        "Glucose",
+        "Acetone bodies"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-11",
+      "question": "The percentage of water contained in the body of an individual is less because of",
+      "options": [
+        "High fat content",
+        "Low fat content",
+        "High protein content",
+        "Low protein content"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-12",
+      "question": "Water derived in gm from complete oxidation of each gm of carbohydrate is about",
+      "options": [
+        "0.15",
+        "0.25",
+        "0.35",
+        "0.55"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-13",
+      "question": "The oxidation of 100 gm of fat yields",
+      "options": [
+        "50 gm water",
+        "107 gm water",
+        "150 gm water",
+        "200 gm water"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-14",
+      "question": "Each gm of protein on complete oxidation yields",
+      "options": [
+        "0.21 gm water",
+        "0.31 gm water",
+        "0.41 gm water",
+        "0.51 gm water"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-15",
+      "question": "The daily water allowance for normal infant is about",
+      "options": [
+        "100–200 ml",
+        "250–300 ml",
+        "330–1000 ml",
+        "1000–2000 ml"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-16",
+      "question": "The daily water allowance for normal adult (60 kg) is about",
+      "options": [
+        "200–600 ml",
+        "500–800 ml",
+        "800–1500 ml",
+        "1800–2500 ml"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-17",
+      "question": "Insensible loss of body water of normal adult is about",
+      "options": [
+        "50–100 ml",
+        "100–200 ml",
+        "300–500 ml",
+        "600–1000 ml"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-18",
+      "question": "The predominant cation of plasma is",
+      "options": [
+        "Na+",
+        "K+",
+        "Ca+",
+        "Mg++"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-19",
+      "question": "Vasopressin (ADH)",
+      "options": [
+        "Enhance facultative reabsorption of water",
+        "Decreases reabsorption of water",
+        "Increases excretion of calcium",
+        "Decreases excretion of calcium"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-20",
+      "question": "Enhanced facultative reabsorption of water by Vasopressin is mediated by",
+      "options": [
+        "Cyclic AMP",
+        "Ca++",
+        "Cyclic GMP",
+        "Mg++"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-21",
+      "question": "Action of kinins is to",
+      "options": [
+        "Increase salt excretion",
+        "Decrease salt retention",
+        "Decrease water retention",
+        "Increase both salt and water excretion"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-22",
+      "question": "The activity of kinins is modulated by",
+      "options": [
+        "Prostaglandins",
+        "Ca++",
+        "Increased cAMP level",
+        "Increased cGMP level"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-23",
+      "question": "An important cause of water intoxication is",
+      "options": [
+        "Nephrogenic diabetes insipidus",
+        "Renal failure",
+        "Gastroenteritis",
+        "Fanconi syndrome"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-24",
+      "question": "Minimum excretory urinary volume for waste products elimination during 24 hrs is",
+      "options": [
+        "200–300 ml",
+        "200–400 ml",
+        "500–600 ml",
+        "800 ml"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-25",
+      "question": "In primary dehydration",
+      "options": [
+        "Intracellular fluid volume is reduced",
+        "Intracellular fluid volume remains normal",
+        "Extracellular fluid volume is much reduced",
+        "Extracellular fluid volume is much increased"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-26",
+      "question": "An important cause of secondary dehydration is",
+      "options": [
+        "Dysphagia",
+        "Oesophageal varices",
+        "Oesophageal varices",
+        "Gastroenteritis"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-27",
+      "question": "Important finding of secondary dehydration is",
+      "options": [
+        "Intracellular oedema",
+        "Cellular dehydration",
+        "Thirst",
+        "Muscle cramps"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-28",
+      "question": "Urine examination in secondary dehydration shows",
+      "options": [
+        "Ketonuria",
+        "Low specific gravity",
+        "High specific gravity",
+        "Albuminuria"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-29",
+      "question": "The total calcium of the human body is about",
+      "options": [
+        "100–150 g",
+        "200–300 g",
+        "1–1.5 kg",
+        "2–3 kg"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-30",
+      "question": "Daily requirement of calcium for normal adult human is",
+      "options": [
+        "100 mg",
+        "800 mg",
+        "2 g",
+        "4 g"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-31",
+      "question": "The mineral present in the human body in larger amounts than any other cation is",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Potassium",
+        "Iron"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-32",
+      "question": "The percentage of the total body calcium present in bones is",
+      "options": [
+        "1",
+        "11",
+        "55",
+        "99"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-33",
+      "question": "The physiologically active form of calcium is",
+      "options": [
+        "Protein bond",
+        "Ionised",
+        "Complexed with citrate",
+        "Complexed with carbonate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-34",
+      "question": "Calcium absorption is increased by",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin K",
+        "Vitamin E"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-35",
+      "question": "Renal ricket is caused by renal tubular defect (usually inherited) which interferes with reabsorption of",
+      "options": [
+        "Calcium",
+        "Phosphorous",
+        "Sodium",
+        "Chloride"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-36",
+      "question": "One of the principal cations of soft tissue and body fluids is",
+      "options": [
+        "Mg",
+        "S",
+        "Mn",
+        "Co"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-37",
+      "question": "Intestinal absorption of magnesium is increased in",
+      "options": [
+        "Calcium deficient diet",
+        "High calcium diet",
+        "High oxalate diet",
+        "High phytate diet"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-38",
+      "question": "Na+/K+-ATPase along with ATP requires",
+      "options": [
+        "Ca",
+        "Mn",
+        "Mg",
+        "Cl"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-39",
+      "question": "The principal cation in extracellular fluid is",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-40",
+      "question": "The normal concentration of sodium (in mg/100 ml) of human plasma is",
+      "options": [
+        "100",
+        "200",
+        "250",
+        "330"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-41",
+      "question": "Decrease in serum sodium may occur in:",
+      "options": [
+        "Adrenocortical insufficiency",
+        "Hypoparathyroidism",
+        "Hyperparathyroidism",
+        "Thyrotoxicosis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-42",
+      "question": "Hypernatremia may occur in",
+      "options": [
+        "Diabetes insipidus",
+        "Diuretic medication",
+        "Heavy sweating",
+        "Kidney disease"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-43",
+      "question": "The metabolism of sodium is regulated by the hormone:",
+      "options": [
+        "Insulin",
+        "Aldosterone",
+        "PTH",
+        "Somatostatin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-44",
+      "question": "The principal cation in intracellular fluid is",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-45",
+      "question": "The normal concentration of potassium in cells in ng/100 ml is about",
+      "options": [
+        "100",
+        "200",
+        "350",
+        "440"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-46",
+      "question": "Potassium content of nerve tissue in mg/ 100 ml is about",
+      "options": [
+        "200",
+        "330",
+        "400",
+        "530"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-47",
+      "question": "Potassium content of muscle tissue in mg/100 ml is about",
+      "options": [
+        "50–100",
+        "100–150",
+        "250–400",
+        "150–200"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-48",
+      "question": "One of the symptoms of low serum potassium concentration includes",
+      "options": [
+        "Muscle weakness",
+        "Confusion",
+        "Numbness",
+        "Tingling of extremities"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-49",
+      "question": "Potassium metabolism is regulated by the hormone:",
+      "options": [
+        "Aldosterone",
+        "PTH",
+        "Somatostatin",
+        "Estrogen"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-50",
+      "question": "A high serum potassium, accompanied by a high intracellular potassium occurs in",
+      "options": [
+        "Adrenal insufficiency",
+        "Any illness",
+        "Gastrointestinal losses",
+        "Cushing’s syndrome"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-51",
+      "question": "The normal concentration of chloride in mg/100 ml of plasma is about",
+      "options": [
+        "100",
+        "200",
+        "365",
+        "450"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-52",
+      "question": "Hypercholremia is associated with",
+      "options": [
+        "Hyponatremia",
+        "Hypernatremia",
+        "Metabolic alkalosis",
+        "Respiratory acidosis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-53",
+      "question": "Chloride shift is",
+      "options": [
+        "H ions leaving the RBC in exchange of Cl-",
+        "Cl– leaving the RBC in exchange of bicarbonate",
+        "Bicarbonate ion returns to plasma and exchanged with chloride which shifts into the cell",
+        "Carbonic acid to the plasma"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-54",
+      "question": "Of the total body water, intracellular compartment contains about",
+      "options": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-55",
+      "question": "Oncotic pressure of plasma is about",
+      "options": [
+        "10 mm of Hg",
+        "15 mm of Hg",
+        "25 mm of Hg",
+        "50 mm of Hg"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-56",
+      "question": "Oedema can occur when",
+      "options": [
+        "Plasma Na and Cl are decreased",
+        "Plasma Na and Cl are increased",
+        "Plasma proteins are decreased",
+        "Plasma proteins are increased"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-57",
+      "question": "Colloid osmotic pressure of intracellular fluid is",
+      "options": [
+        "Equal to that of plasma",
+        "More than that of plasma",
+        "More than that of plasma",
+        "Nearly zero"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-58",
+      "question": "The water produced during metabolic reactions in an adult is about",
+      "options": [
+        "100 ml/day",
+        "300 ml/day",
+        "500 ml/day",
+        "700 ml/day"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-59",
+      "question": "The daily water loss through gastrointestinal tract in an adult is about:",
+      "options": [
+        "Less 100 ml/day",
+        "200 ml/day",
+        "300 ml/day",
+        "400 ml/day"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-60",
+      "question": "Recurrent vomiting leads to loss of",
+      "options": [
+        "Potassium",
+        "Chloride",
+        "Bicarbonate",
+        "All of these"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-61",
+      "question": "Obligatory reabsorption of water",
+      "options": [
+        "Is about 50% of the total tubular reabsorption of water",
+        "Is increased by antidiuretic hormone",
+        "Occurs in distal convoluted tubules",
+        "Is secondary to reabsorption of solutes"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-62",
+      "question": "Urinary water loss is increased in",
+      "options": [
+        "Diabetes mellitus",
+        "Diabetes insipidus",
+        "Chronic glomerulonephritis",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-63",
+      "question": "Diabetes insipidus results from",
+      "options": [
+        "Decreased insulin secretion",
+        "Decreased ADH secretion",
+        "Decreased aldosterone secretion",
+        "Unresponsiveness of osmoreceptors"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-64",
+      "question": "A diuretic which is an aldosterone antagonist is",
+      "options": [
+        "Spironolactone",
+        "Ethacrynic acid",
+        "Acetazolamide",
+        "Chlorothiazide"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-65",
+      "question": "In a solution having a pH of 7.4, the hydrogen ion concentration is",
+      "options": [
+        "7.4 nmol/L",
+        "40 nmol/L",
+        "56 nmol/L",
+        "80 nmol/L"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-66",
+      "question": "Anion gap is the difference in the plasma concentrations of",
+      "options": [
+        "(Chloride) – (Bicarbonate)",
+        "(Sodium) – (Chloride)",
+        "(Sodium + Potassium) – (Chloride + Bicarbonate)",
+        "(Sum of cations) – (Sum of anions)"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-67",
+      "question": "All the following statements about renal tubular acidosis are correct except:",
+      "options": [
+        "Renal tubules may be unable to reabsorb bicarbonate",
+        "Renal tubules may be unable to secrete hydrogen ions",
+        "Plasma chloride is elevated",
+        "Anion gap is decreased"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-68",
+      "question": "Body water is regulated by the hormone:",
+      "options": [
+        "Oxytocin",
+        "ACTH",
+        "FSH",
+        "Epinephrine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-69",
+      "question": "Calcium absorption is inferred by:",
+      "options": [
+        "Fatty acids",
+        "Amino acids",
+        "Vitamin D",
+        "Vitamin B12"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "ws-70",
+      "question": "The average of pH of urine is:",
+      "options": [
+        "5.6",
+        "6.0",
+        "6.4",
+        "7.0"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "title": "Tissue Biochemistry MCQ",
+  "questions": [
+    {
+      "id": "tissue-1",
+      "question": "Increased excitability of the nervous system can be observed at hypovitaminosis B6. This is associated with insufficient formation of biogenic amine which has inhibitory effect on the activity of the Central nervous system. Name this biogenic amine:",
+      "options": [
+        "serotonin",
+        "tryptamine",
+        "dopamine",
+        "gamma-aminobutyric acid",
+        "histamine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-2",
+      "question": "What substances are practically absent in the brain?",
+      "options": [
+        "proteins",
+        "extractive substances",
+        "lipids",
+        "water",
+        "carbohydrates"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-3",
+      "question": "How much percentage of water is contained in the gray matter of the brain?",
+      "options": [
+        "20-25%",
+        "70-75%",
+        "30-35%",
+        "40-45%",
+        "80-85%"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-4",
+      "question": "The white and gray matter of the brain differ from each other in the content of certain substances. Tick these substances:",
+      "options": [
+        "proteins",
+        "lipids",
+        "carbohydrates",
+        "extractive substances"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-5",
+      "question": "Acetylcholine is released at the moment of transition of nerve impulse in the area of motor nerve endings.There is an excitation current as a result of this. What happens as a result of this phenomenon?",
+      "options": [
+        "Formation of UTF increases",
+        "ATP dedradation increases",
+        "Calcium, potassium and magnesium ions enter the sarcoplasm",
+        "Permeability of cell membranes decreases",
+        "Calcium, potassium and magnesium ions are released from the myocyte"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-6",
+      "question": "What role does taurine play in the nervous tissue?",
+      "options": [
+        "promotes the differentiation of cells",
+        "promotes lipolysis",
+        "promotes inhibition of convulsive activity",
+        "promotes lipogenesis"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-7",
+      "question": "What substance is used by the brain as a source of energy during prolonged fasting?",
+      "options": [
+        "acetone",
+        "creatine",
+        "choline",
+        "cholesterol",
+        "acetoacetate"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-8",
+      "question": "Why is gamma-aminobutyric acid (GABA) used to treat vascular diseases of the brain and for disorders of cerebral circulation?",
+      "options": [
+        "helps to increase the secretion of hydrochloric acid",
+        "narrows blood vessels",
+        "increases intestinal peristalsis",
+        "dilates blood vessels",
+        "activates arousal processes"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-9",
+      "question": "What proteins are specific proteins of the nervous tissue?",
+      "options": [
+        "the calcineurin",
+        "laminin",
+        "myoglobin",
+        "calmodulin",
+        "narozenin"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-10",
+      "question": "Which processes will be disrupted at the absence of methionine intake with food:",
+      "options": [
+        "tissue respiration",
+        "transamination",
+        "formation of neurotransmitters",
+        "synthesis of carbohydrates"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-11",
+      "question": "The neurotransmitters histamine, serotonin, and GABA are synthesized in the following reaction:",
+      "options": [
+        "transamination of amino acids",
+        "methylation",
+        "oxidative deamination of amino acids",
+        "restorative amination",
+        "decarboxylation of amino acids"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-12",
+      "question": "The neurotransmitter acetylcholine is formed by the decarboxylation of amino acid. Tick this amino acid:",
+      "options": [
+        "glycine",
+        "histidine",
+        "tryptophan",
+        "serine",
+        "tyrosine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-13",
+      "question": "Which vitamin is essential for the formation of neurotransmitters (acetylcholine, noradrenaline, adrenaline)?",
+      "options": [
+        "D",
+        "B6",
+        "E",
+        "B1",
+        "B2"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-14",
+      "question": "Tick the biological role of γ-aminobutyric acid:",
+      "options": [
+        "It's a mediator of CNS",
+        "It increases blood pressure",
+        "It causes bronchial spasm",
+        "It's a mediator of inflammation"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-15",
+      "question": "The nervous motor impulse causes:",
+      "options": [
+        "interaction of actin with myosin",
+        "ATP hydrolysis",
+        "increasing the concentration of Ca2+ ions in the cytoplasm",
+        "reducing the concentration of Ca2+ ions in the cytoplasm"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-16",
+      "question": "Cyclic nucleotides (camp and cGMP) are secondary intermediaries in the transmission of information. What is their regulatory function?",
+      "options": [
+        "in the activation of specific protein kinases",
+        "in histone phosphorylation",
+        "in activating neurotransmitters",
+        "in CNS stimulation",
+        "in stimulating transcription and translation processes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-17",
+      "question": "Tick the statements characterized proteoglycans:",
+      "options": [
+        "The share of protein accounts for 80-90% of the total mass",
+        "Carbohydrate component - oligosaccharides",
+        "Localization - intercellular substance",
+        "Carbohydrate component - heterogeneous oligosaccharides",
+        "The share of protein accounts for 1-5% of the total mass",
+        "Localization - membranes, blood plasma"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-18",
+      "question": "Tick the statements characterized glycopoteids:",
+      "options": [
+        "The share of protein accounts for 80-90% of the total mass",
+        "Carbohydrate component - oligosaccharides",
+        "Localization - intercellular substance",
+        "Carbohydrate component - heterogeneous oligosaccharides",
+        "The share of protein accounts for 1-5% of the total mass",
+        "Localization - membranes, blood plasma"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-19",
+      "question": "Choose the amino acids prevailing in elastin:",
+      "options": [
+        "alanine",
+        "proline",
+        "valine",
+        "tryptophan",
+        "cysteine",
+        "hydroxyproline"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-20",
+      "question": "Choose the amino acids prevailing in collagen:",
+      "options": [
+        "alanine",
+        "proline",
+        "valine",
+        "tryptophan",
+        "cysteine",
+        "hydroxyproline"
+      ],
+      "correctAnswers": [
+        0,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-21",
+      "question": "Tick features specific to collagen:",
+      "options": [
+        "It's a fibrillar protein",
+        "It's a globular protein",
+        "Contains the amino acid desmosin",
+        "Has a supramolecular structure",
+        "The predominant amino acids are proline and oxyproline"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-22",
+      "question": "Select features specific to elastin:",
+      "options": [
+        "It's a fibrillar protein",
+        "It's a globular protein",
+        "Contains the amino acid desmosin",
+        "Has a supramolecular structure",
+        "The predominant amino acids are proline and oxyproline"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-23",
+      "question": "Select features specific both to elastin and collagen:",
+      "options": [
+        "are fibrillar proteins",
+        "are globular proteins",
+        "Contain the amino acid desmosin",
+        "Have a supramolecular structure",
+        "The predominant amino acids are proline and oxyproline",
+        "Form fibers",
+        "Contain large quantities of glycine"
+      ],
+      "correctAnswers": [
+        3,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-24",
+      "question": "Where does the formation of collagen occur?",
+      "options": [
+        "fibroblast ribosomes",
+        "fibroblast cytoplasm",
+        "intercellular substance"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-25",
+      "question": "Where does the formation of collagen fibers occur?",
+      "options": [
+        "fibroblast ribosomes",
+        "fibroblast cytoplasm",
+        "intercellular substance"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-26",
+      "question": "What processes occur on the fibroblast ribosomes during collagen synthesis?",
+      "options": [
+        "proline glycosylation",
+        "the formation of cross-links between fibrils",
+        "hydroxylation of proline",
+        "excess synthesis of PPC",
+        "the formation of despiralized sections of the polypeptide chain (PPC)",
+        "limited proteolysis",
+        "the formation of fibrils"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-27",
+      "question": "What processes occur in the cytoplasm of fibroblasts during collagen synthesis?",
+      "options": [
+        "proline glycosylation",
+        "the formation of cross-links between fibrils",
+        "hydroxylation of proline",
+        "excess synthesis of PPC",
+        "the formation of despiralized sections of the polypeptide chain (PPC)",
+        "limited proteolysis",
+        "the formation of fibrils"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-28",
+      "question": "What processes occur in the intercellular substance during the synthesis of collagen:",
+      "options": [
+        "proline glycosylation",
+        "the formation of cross-links between fibrils",
+        "hydroxylation of proline",
+        "excess synthesis of PPC",
+        "the formation of despiralized sections of the polypeptide chain (PPC)",
+        "limited proteolysis",
+        "the formation of fibrils"
+      ],
+      "correctAnswers": [
+        1,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-29",
+      "question": "Proteoglycan aggregate contains:",
+      "options": [
+        "chondroitin sulfates",
+        "core protein",
+        "heparin",
+        "keratan sulfates",
+        "binding protein",
+        "hyaluronic acid",
+        "dermatan sulfates",
+        "albumins"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-30",
+      "question": "Crosslinking in elastin molecule is formed with the participation of the following amino acids:",
+      "options": [
+        "desmosin",
+        "lysine",
+        "lysinoleucine",
+        "isodesmosin",
+        "leucine",
+        "glycine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-31",
+      "question": "Desmosin is:",
+      "options": [
+        "4 residues lysine",
+        "4 residues oxylysine",
+        "4 residues arginine",
+        "4 residues valine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-32",
+      "question": "The supramolecular structure of collagen is:",
+      "options": [
+        "α-helix of the polypeptide chain",
+        "Association of polypeptide chains into fibril",
+        "Association of tropocollagen fibrils"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-33",
+      "question": "What are the structural properties of connective tissue?",
+      "options": [
+        "high cell content",
+        "low cell content",
+        "is rich in intercellular substance",
+        "contains a large amount of lipids",
+        "contains a large amount of protein",
+        "is rich in fibril structures"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-34",
+      "question": "Choose the amino acids absent in the collagen molecule:",
+      "options": [
+        "alanine",
+        "tryptophan",
+        "proline",
+        "leucine",
+        "methionine",
+        "valine"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-35",
+      "question": "What bonds stabilize collagen fiber?",
+      "options": [
+        "hydrogen, non-covalent",
+        "aldol, covalent",
+        "ionic",
+        "peptide"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-36",
+      "question": "The intercellular substance in the connective tissue is represented by:",
+      "options": [
+        "proteoglycans",
+        "glycoproteins",
+        "heteropolysaccharides",
+        "carbohydrate-protein complexes"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-37",
+      "question": "Tropocollagen is:",
+      "options": [
+        "a superhelix combining 3 PPC",
+        "one PPC of collagen",
+        "fiber combining collagen fibrils"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-38",
+      "question": "Which of the following amino acids is involved in the formation of hydrogen bonds of tropocollagen?",
+      "options": [
+        "alanine",
+        "hydroxyproline",
+        "lysine",
+        "glycine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-39",
+      "question": "What the collagen is?",
+      "options": [
+        "3-chain spiral containing non-hydroxylated lysine and proline",
+        "3 polypeptide chains not formed into a helix and having additional amino acid sequences at the C and N ends",
+        "single-chain helix of collagen with hydroxylated and glycosylated amino acids"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-40",
+      "question": "What conditions are necessary for proline hydroxylation at the synthesis of collagen?",
+      "options": [
+        "iron ions",
+        "NADPH",
+        "OVER",
+        "ascorbic acid",
+        "oxygen",
+        "prolyl hydroxylase"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-41",
+      "question": "List the functions of proteoglycans in the composition of the intercellular substance of connective tissue:",
+      "options": [
+        "supporting",
+        "microorganism filtration",
+        "ion deposition",
+        "energy",
+        "cofactor",
+        "hydroosmotic"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-42",
+      "question": "What is the function of hyaluronic acid in the organization of the intracellular matrix?",
+      "options": [
+        "is involved in binding of structural proteins",
+        "binds proteoglycans to form a ruff",
+        "binds glycosaminoglycans to form a ruff"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-43",
+      "question": "Collagen glycine is involved in the formation of the following bonds:",
+      "options": [
+        "Between PPC in α-helix",
+        "inside the collagen fiber",
+        "in supercoiled tropocollagen",
+        "hydrogen bonds",
+        "aldol communications"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-44",
+      "question": "The violations in the collagen structure is associated with:",
+      "options": [
+        "vitamin C deficiency",
+        "mutations in fibroblast DNA",
+        "copper deficiency",
+        "vitamin A deficiency",
+        "oxygen deficiency"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-45",
+      "question": "The deficiency of which vitamin can cause the disturbances in the formation of collagen fiber?",
+      "options": [
+        "biotin",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-46",
+      "question": "The excretion of which compound help to estimate the connective tissue metabolism?",
+      "options": [
+        "urea",
+        "hydroxyproline",
+        "glycine",
+        "uric acid",
+        "hyaluronic acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-47",
+      "question": "It’s known that brain gray tissue is mainly presented by neurons, but white tissue contains acsones. Which one does contain the lesser amount of lipids?",
+      "options": [
+        "Gray tissue",
+        "White tissue"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-48",
+      "question": "Nerve tissue is characterized by high intensity of metabolism. Tick the main energetic substrate for its cells.",
+      "options": [
+        "Lipids",
+        "Proteins",
+        "Fatty acids",
+        "Glucose"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-49",
+      "question": "Storage of glucose is very little in brain. Tick source of glucose for brain cells?",
+      "options": [
+        "Glycogen splitting in brain tissue",
+        "Glucose entry from blood",
+        "Gluconeogenesis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-50",
+      "question": "Intercellular transmissoin of impulse requires the chemical compounds participation. Tick the neurotransmitters among listed below:",
+      "options": [
+        "Acetylcoline",
+        "Acetyl-CoA",
+        "Noradrenalin",
+        "Serotonine",
+        "Oxalacetic acid",
+        "Dophamine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-51",
+      "question": "The group of peptide-neurotransmitters binding with opiate receptors is well known. Choose these compounds:",
+      "options": [
+        "Dophamine",
+        "EnKephaline",
+        "Histamine",
+        "Serotonine",
+        "Endorphine"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-52",
+      "question": "Glycosaminoglycans are the elements of proteoglycans. Tick the glycosaminoglycans:",
+      "options": [
+        "Chondroitinsulfate",
+        "Glycogen",
+        "Heparin",
+        "Hyaluronic acid",
+        "Elastin",
+        "Kerataksulfate"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-53",
+      "question": "Choose the changes occur in connective tissue in aging:",
+      "options": [
+        "Decrease in base compound amount",
+        "Increase in base compound amount",
+        "Collagen increasing",
+        "Collagen decreasing",
+        "Decrease in amount of hyaluronic acid and chondroitinsulfates",
+        "Calcium increasing in collagen",
+        "Keratansulfates increasing"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-54",
+      "question": "Glycosaminoglycans are included in the connective tissue composition. Choose the monosaccharides derivatives occured in glycosaminoglycans composition:",
+      "options": [
+        "Glucose",
+        "Glucuronic acid",
+        "N-actylgalactoseamine sulfate",
+        "Sedoheptulose",
+        "N-acetylglucosamine",
+        "Erythrose-4-sulfate",
+        "Iduronic acid",
+        "Fructose-6-phosphate"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-55",
+      "question": "Muscle fiber is capable to contract. Which of listed below proteins is contraction capacity of muscles connected with?",
+      "options": [
+        "Myosin",
+        "Myoglobin",
+        "Actin",
+        "Troponin",
+        "Elastin",
+        "Tropomyosin",
+        "Tropocollagen"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-56",
+      "question": "Change of particular metal ion concentration in sarcoplasmic reticulum is necessary for muscle contraction or relaxation as well. What is this metal?",
+      "options": [
+        "Zn",
+        "Ca",
+        "Fe",
+        "Cu",
+        "Mo"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-57",
+      "question": "Creatinine is one of the extractive nitrogenous compounds of muscle tissue. Which compound is creatinine formed from?",
+      "options": [
+        "Aspartic acid",
+        "ATP",
+        "Glutamine",
+        "Creatine phosphate",
+        "Acetyl-Co A",
+        "Carbamoyl phosphate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-58",
+      "question": "Muscle fiber is capable to fulfill work during its contraction. Which of metabolic processes provides muscle cells with energy?",
+      "options": [
+        "Aerobic oxidation of carbohydrates",
+        "Anaerobic degradation of carbohydrates",
+        "Pentose-phosphate pathway",
+        "Creatine phosphate degradation",
+        "Protein degradation",
+        "Fatty acid oxidation"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "tissue-59",
+      "question": "Myofibril contracts due to the capacity of actin-myosin complex to hydrolyze ATP. Which of listed metabolic processes are capable to replenish ATP level in muscle cells?",
+      "options": [
+        "Creatine phosphate degradation",
+        "Glycolysis",
+        "Pentose-phosphate pathway of carbohydrates degradation",
+        "Deamination of amino acid",
+        "Interaction of 2 ATP molecules in adenilyl kinase reaction"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ],
+      "explanation": ""
+    }
+  ]
+}
