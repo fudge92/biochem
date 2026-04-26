@@ -1,0 +1,3813 @@
+{
+  "title": "Biological Oxidation MCQ",
+  "questions": [
+    {
+      "id": "biox-1",
+      "question": "Substances turnover is:",
+      "options": [
+        "summary of all catabolic processes in a living organism;",
+        "summary of all anabolic processes in a living organism;",
+        "summary of all chemical processes in a living organism;",
+        "summary of all common catabolic pathways."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-2",
+      "question": "What does substances turnover include?",
+      "options": [
+        "Assimilation",
+        "Dissimilation",
+        "No correct options"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-3",
+      "question": "Factors affecting the intensity of ST are:",
+      "options": [
+        "The basal metabolic rate",
+        "The thermogenic effect of food",
+        "Physical activity",
+        "Environmental temperature"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-4",
+      "question": "Assimilation includes the following processes:",
+      "options": [
+        "The obtaining energy from nutrients",
+        "The convertion of nutrients into cells own molecules",
+        "The synthesis and degradation of biomolecules required for certain cellular functions",
+        "Degradation of complex molecules to simpler ones waste products with energy releasing"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-5",
+      "question": "Dissimilation includes the following processes:",
+      "options": [
+        "The obtaining energy from nutrients",
+        "The convertion of nutrients into cells own molecules",
+        "The synthesis and degradation of biomolecules required for certain cellular functions",
+        "Degradation of complex molecules to simpler ones waste products with energy releasing"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-6",
+      "question": "Steps of Substances turnover are:",
+      "options": [
+        "Nutrition",
+        "Digestion and absorption",
+        "Transport",
+        "Metabolism",
+        "Excretion of waste products",
+        "Assimilation",
+        "Dissimilation"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-7",
+      "question": "What are the final products of proteins digestion which can be absorbed by mucosa of GIT?",
+      "options": [
+        "Amino acids",
+        "Dipeptides",
+        "Fatty acids",
+        "Aminopeptides",
+        "Denaturated proteins",
+        "Polypeptides"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-8",
+      "question": "Absorption occurs by:",
+      "options": [
+        "active transport",
+        "facilitative diffusion",
+        "in soluble state",
+        "agaist the gradient of concentration with releasing of energy"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-9",
+      "question": "Transport of small molecules occurs:",
+      "options": [
+        "in soluble state",
+        "as complex with albumines",
+        "as complex with γ-globulins",
+        "as complex with cholesterol"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-10",
+      "question": "Metabolic pathway is:",
+      "options": [
+        "the sequence of enzymatic reactions participated in metabolism",
+        "the sequence of reactions in which the product of one enzyme catalyzed reaction becomes the substrate for the next one",
+        "the sequence of reactions in which the product of one reaction becomes the substrate for the next one without enzymes presence"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-11",
+      "question": "Metabolites are:",
+      "options": [
+        "Products of reactions",
+        "Substrates of reactions",
+        "Enzymes",
+        "No correct options",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-12",
+      "question": "Choose the waste products of subtances turnover:",
+      "options": [
+        "urea",
+        "water",
+        "carbon dioxide",
+        "carbon monooxide",
+        "ATP",
+        "creatine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-13",
+      "question": "What of the following does the metabolism include?",
+      "options": [
+        "Catabolism",
+        "Anabolism",
+        "Transport",
+        "Excretion",
+        "Assimilation",
+        "Dissimilation"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-14",
+      "question": "Which of the following statements are charactristic for catabolism?",
+      "options": [
+        "It is the breakdown phase",
+        "Organic nutrient molecules are converted into smaller, simpler products",
+        "Occurs with release of energy",
+        "Occurs with ATP synthesis",
+        "Also called biosynthesis",
+        "Small simple precursors are built up into larger and more complex molecules",
+        "Occurs with the require of ATP"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-15",
+      "question": "Which of the following statements are charactristic for anabolism?",
+      "options": [
+        "It is the breakdown phase",
+        "Organic nutrient molecules are converted into smaller, simpler products",
+        "Occurs with release of energy",
+        "Occurs with ATP synthesis",
+        "Also called biosynthesis",
+        "Small simple precursors are built up into larger and more complex molecules",
+        "Occurs with the require of ATP"
+      ],
+      "correctAnswers": [
+        4,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-16",
+      "question": "Tick the recommended daily energy requirement for men:",
+      "options": [
+        "2300-3100 kCal",
+        "2000-2800 kCal",
+        "2600-3400 kCal",
+        "2100-2900 kCal"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-17",
+      "question": "Tick the recommended daily energy requirement for women:",
+      "options": [
+        "2300-3100 kCal",
+        "1600-2400 kCal",
+        "2600-3400 kCal",
+        "2100-2900 kCal"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-18",
+      "question": "Tick the recommended daily energy requirement for women within the lactating period:",
+      "options": [
+        "2300-3100 kCal",
+        "1600-2400 kCal",
+        "2600-3400 kCal",
+        "2100-2900 kCal"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-19",
+      "question": "Tick the recommended daily energy requirement for pregnant women :",
+      "options": [
+        "2300-3100 kCal",
+        "1600-2400 kCal",
+        "1900-2700 kCal",
+        "2100-2900 kCal"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-20",
+      "question": "How many kilojoules (kJ) are contained in 1 kCal?",
+      "options": [
+        "4.187 kJ",
+        "3.165 kJ",
+        "8.961 kJ",
+        "6.234 kJ"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-21",
+      "question": "What is the ethanol caloric value?",
+      "options": [
+        "30 kJ/g",
+        "21 kJ/g",
+        "12 kJ/g",
+        "5 kJ/g"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-22",
+      "question": "Tick the energy-yielding nutrients:",
+      "options": [
+        "proteins",
+        "lipids",
+        "carbohydrates",
+        "vitamins",
+        "minerals",
+        "water"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-23",
+      "question": "Tick the minor nutrients:",
+      "options": [
+        "proteins",
+        "lipids",
+        "carbohydrates",
+        "vitamins",
+        "minerals",
+        "water"
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-24",
+      "question": "Tick the daily requirement of proteins:",
+      "options": [
+        "100 - 120 g",
+        "80 - 100 g",
+        "150 - 180 g",
+        "300 - 400 g"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-25",
+      "question": "Tick the qualitative criteria of evaluate proteins:",
+      "options": [
+        "Presence and quality of essential amino acids",
+        "Ability to be easily hydrolyzed by proteases of gastro-intestinal tract",
+        "Ratio of food amino acids must be close to human body amino acids",
+        "Ability to be easily absorbed by mucosa of GIT",
+        "Ability to be easily denaturated by gastric HCL"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-26",
+      "question": "Tick the absolutely essential amino acids:",
+      "options": [
+        "Phe",
+        "His",
+        "Arg",
+        "Lys",
+        "Met",
+        "Tyr"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-27",
+      "question": "Tick the not absolutely essential amino acids:",
+      "options": [
+        "Phe",
+        "His",
+        "Arg",
+        "Lys",
+        "Met",
+        "Tyr"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-28",
+      "question": "Which of the following are low-value animal proteins?",
+      "options": [
+        "collagen",
+        "gelatin",
+        "casein",
+        "fibroin"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-29",
+      "question": "Which proteins are high-value?",
+      "options": [
+        "Animal proteins",
+        "Plant proteins"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-30",
+      "question": "Tick the energy source used by the first for human body requirements:",
+      "options": [
+        "Proteins",
+        "Lipids",
+        "Carbohydrates",
+        "Minerals"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-31",
+      "question": "Daily requirement of carbohydrates:",
+      "options": [
+        "80 - 100 g",
+        "100 - 120 g",
+        "150 - 180 g",
+        "350 - 400 g"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-32",
+      "question": "Tick the essential component of carbohydrates:",
+      "options": [
+        "Tyrosine",
+        "Linolenic acid",
+        "Arachidonic acid",
+        "Cellulose"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-33",
+      "question": "Functions of cellulose are:",
+      "options": [
+        "It is necessary for colon microorganisms;",
+        "It stimulates peristalsis of gastro-intestinal tract;",
+        "It absorbs excess of cholesterol;",
+        "It makes up the bulk of digested food;",
+        "It is the source for vitamin synthesis;",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-34",
+      "question": "What is the major sourse of energy for human organism?",
+      "options": [
+        "Proteins",
+        "Carbohydrates",
+        "Lipids"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-35",
+      "question": "How many kCal of energy are formed from 1 g lipids?",
+      "options": [
+        "4.2",
+        "6.4",
+        "9.3",
+        "12.5"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-36",
+      "question": "Daily requirement of lipids:",
+      "options": [
+        "80 - 100 g",
+        "100 - 120 g",
+        "150 - 180 g",
+        "350 - 400 g"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-37",
+      "question": "Tick the essential components of lipids:",
+      "options": [
+        "Tyrosine",
+        "Linolenic acid",
+        "Arachidonic acid",
+        "Cellulose",
+        "Linoleic acid",
+        "Eicosanoids"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-38",
+      "question": "Which of the following decanoic acids are contained in fish oil?",
+      "options": [
+        "pentanoic acid",
+        "hexanoic acid",
+        "tetranoic acid",
+        "linolenic acid",
+        "palmitic acid"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-39",
+      "question": "Which main functions do the polyunsaturated fatty acids fullfil?",
+      "options": [
+        "Biosynthesis of leucotriens",
+        "Biosynthesis of prostaglandins",
+        "Biosynthesis of thromboxanes",
+        "Cell membranes formation",
+        "Biosynthesis of ketone bodies",
+        "Biosynthesis of fibrinogen"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-40",
+      "question": "Macrominerals:",
+      "options": [
+        "are required in amount greater 100 mg/day",
+        "are required in amount less 100 mg/day"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-41",
+      "question": "Microminerals:",
+      "options": [
+        "are required in amount greater 100 mg/day",
+        "are required in amount less 100 mg/day"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-42",
+      "question": "Tick the macrominerals:",
+      "options": [
+        "Ca",
+        "P",
+        "K",
+        "S",
+        "Fe",
+        "Zn",
+        "Mn",
+        "Cu"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-43",
+      "question": "Tick the microminerals:",
+      "options": [
+        "Ca",
+        "P",
+        "K",
+        "S",
+        "Fe",
+        "Zn",
+        "Mn",
+        "Cu"
+      ],
+      "correctAnswers": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-44",
+      "question": "Which general functions do the minerals fullfil?",
+      "options": [
+        "Are structural components of bones, teeth",
+        "Participation in water-salt balance maintenance",
+        "Are a part of enzymes as cofactors",
+        "Are a part of enzymes as coenzymes",
+        "Participation in electron transfer throught the respiratory chains",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-45",
+      "question": "Tick the sources of vitamins for human organism:",
+      "options": [
+        "Intestinal microorganisms",
+        "Food",
+        "Water",
+        "Medicines"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-46",
+      "question": "Tick the main groups of vitamins according to solubility:",
+      "options": [
+        "Water-soluble",
+        "Fat-soluble",
+        "Alcohol-soluble",
+        "Ester-soluble"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-47",
+      "question": "Fat soluble vitamins are:",
+      "options": [
+        "A, E, K, D",
+        "E, D, C, A",
+        "A, C. D, K",
+        "PP, E, C, D"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-48",
+      "question": "Fat soluble vitamins are:",
+      "options": [
+        "soluble in alcohol",
+        "one or more propene units",
+        "stored in liver",
+        "excreted with urine in soluble state"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-49",
+      "question": "Vitamin A (or retinal) is a:",
+      "options": [
+        "Steroid",
+        "Polyisoprenoid compound containing a cyclohexenyl ring",
+        "Benzoquinone derivative",
+        "6-Hydroxychromane"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-50",
+      "question": "Precursor of vitamin A is:",
+      "options": [
+        "Retinal",
+        "Retinol",
+        "β-Carotene"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-51",
+      "question": "Preformed Vitamin A is supplied by:",
+      "options": [
+        "Milk, fat and liver",
+        "Yellow vegetables",
+        "Yellow fruits",
+        "Leafy green vegetables"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-52",
+      "question": "betta-Carotine is supplied by:",
+      "options": [
+        "Milk, fat and liver",
+        "Yellow vegetables",
+        "Yellow fruits",
+        "Leafy green vegetables"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-53",
+      "question": "One manifestation of vitamin A deficiency is:",
+      "options": [
+        "Painful joints",
+        "Night blindness",
+        "Loss of hair",
+        "Thickening of long bones"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-54",
+      "question": "Deficiency of Vitamin A causes:",
+      "options": [
+        "Xeropthalmia",
+        "Hypoprothrombinemia",
+        "Megaloblastic anemia",
+        "Pernicious anemia"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-55",
+      "question": "Daily requirement of vitamin A:",
+      "options": [
+        "1-2.5 mg",
+        "2-5 mg",
+        "5-10 mg",
+        "10-20 mg"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-56",
+      "question": "Daily requirement of β-Carotene:",
+      "options": [
+        "1-2.5 mg",
+        "2-5 mg",
+        "5-10 mg",
+        "10-20 mg"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-57",
+      "question": "An important function of vitamin A is:",
+      "options": [
+        "To act as coenzyme for a few enzymes",
+        "To play an integral role in protein synthesis",
+        "To prevent hemorrhages",
+        "To maintain the integrity of epithelial tissue"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-58",
+      "question": "Retinal is a component of:",
+      "options": [
+        "Iodopsin",
+        "Rhodopsin",
+        "Cardiolipin",
+        "Glycoproteins"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-59",
+      "question": "Retinoic acid participates in the synthesis of:",
+      "options": [
+        "Glycoprotein",
+        "Cardiolipin",
+        "Rhodopsin",
+        "Iodopsin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-60",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin A",
+        "β-Carotene",
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin B12"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-61",
+      "question": "Vitamin D absorption is increased in:",
+      "options": [
+        "Alkaline pH of intestine",
+        "Impaired fat absorption",
+        "Acid pH of intestine",
+        "Contents of diet"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-62",
+      "question": "The most potent Vitamin D metabolite is:",
+      "options": [
+        "25-Hydroxycholecalciferol",
+        "1,25-Dihydroxycholecalciferol",
+        "24, 25-Dihydroxycholecalciferol",
+        "7-Dehydrocholesterol"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-63",
+      "question": "A poor source of Vitamin D is:",
+      "options": [
+        "Egg",
+        "Butter",
+        "Milk",
+        "Liver"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-64",
+      "question": "The richest source of Vitamin D is:",
+      "options": [
+        "Fish liver oils",
+        "Margarine",
+        "Egg yolk",
+        "Butter"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-65",
+      "question": "Deficiency of vitamin D causes:",
+      "options": [
+        "Ricket and osteomalacia",
+        "Tuberculosis of bone",
+        "Skin cancer",
+        "Hypothyroidism"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-66",
+      "question": "Identify the following chemical structures:",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin B12"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-67",
+      "question": "Daily requirement of vitamin D:",
+      "options": [
+        "0.01-0.025 mg",
+        "0.01-0.025 g",
+        "0.01-0.025 mkg",
+        "0.01-0.025 kg"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-68",
+      "question": "Vitamin D includes:",
+      "options": [
+        "Cholecalciferol",
+        "Ergocalciferol",
+        "Calcidiol",
+        "Calcitriol"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-69",
+      "question": "Insignificant amount of Vitamin E is present in:",
+      "options": [
+        "Fish liver oil",
+        "Safflower seed oil",
+        "Wheat germ oil",
+        "Sunflower seed oil"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-70",
+      "question": "The activity of tocopherols is destroyed by:",
+      "options": [
+        "Commercial cooking",
+        "Reduction",
+        "Conjugation",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-71",
+      "question": "Daily requirement of vitamin E:",
+      "options": [
+        "30-50 mg",
+        "2-4 mg",
+        "10-20 mg",
+        "5-10 mg"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-72",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin E"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-73",
+      "question": "The requirement of vitamin E is increased with greater intake of:",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Polyunsaturated fat",
+        "Saturated fat"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-74",
+      "question": "Vitamin E reduces the requirement of:",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Selenium",
+        "Magnesium"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-75",
+      "question": "The most important natural antioxidant is:",
+      "options": [
+        "Vitamin K",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-76",
+      "question": "Tocopherols prevent the oxidation of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin C"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-77",
+      "question": "Creatinuria is caused due to the deficiency of vitamin:",
+      "options": [
+        "A",
+        "D",
+        "E",
+        "K"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-78",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin K"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-79",
+      "question": "Dietary reference intake of vitamin K for adults is:",
+      "options": [
+        "120 mkg/day",
+        "120 mg/day",
+        "50-80 mkg/day",
+        "50-80 mg/day"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-80",
+      "question": "All the following conditions produce a real or functional deficiency of vitamin K except:",
+      "options": [
+        "Prolonged oral, broad spectrum antibiotic therapy",
+        "Total lack of red meat in the diet",
+        "The total lack of green leafy vegetables in the diet",
+        "Being a new born infant"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-81",
+      "question": "Vitamin K is found in:",
+      "options": [
+        "Green leafy plants",
+        "Meat",
+        "Fish",
+        "Milk"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-82",
+      "question": "Vitamins synthesized by bacterial in the intestine are:",
+      "options": [
+        "A",
+        "C",
+        "D",
+        "K",
+        "H"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-83",
+      "question": "Vitamin K is involved in posttranslational modification of the blood clotting factors by acting as cofactor for the enzyme:",
+      "options": [
+        "Carboxylase",
+        "Decarboxylase",
+        "Hydroxylase",
+        "Oxidase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-84",
+      "question": "Vitamin K is a cofactor for:",
+      "options": [
+        "Gamma carboxylation of glutamic acid residue",
+        "β-Oxidation of fatty acid",
+        "Formation of γ-amino butyrate",
+        "Synthesis of tryptophan"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-85",
+      "question": "Hypervitaminosis K in neonates may cause:",
+      "options": [
+        "Porphyria",
+        "Jaundice",
+        "Pellagra",
+        "Prolonged bleeding"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-86",
+      "question": "Vitamin K participates in:",
+      "options": [
+        "Fybrinolysis",
+        "Transamination of amino acids",
+        "γ-carboxylation of ll, Vll, lX and X blood clotting factors",
+        "Oxydation of high fatty acids",
+        "γ-carboxylation of heparin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-87",
+      "question": "Synthesis of which blood clotting factor depends on vitamin K?",
+      "options": [
+        "ll",
+        "lll",
+        "lV",
+        "V",
+        "Vlll"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-88",
+      "question": "Dicoumarol is antagonist to:",
+      "options": [
+        "Riboflavin",
+        "Retinol",
+        "Menadione",
+        "Tocopherol"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-89",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin K"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-90",
+      "question": "Dietary reference intake of vitamin C for adults is:",
+      "options": [
+        "75-90 mg/day",
+        "75-90 g/day",
+        "40-55 mg/day",
+        "40-55 g/day"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-91",
+      "question": "In human body the highest concentration of ascorbic acid is found in:",
+      "options": [
+        "Liver",
+        "Adrenal cortex",
+        "Adrenal medulla",
+        "Spleen"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-92",
+      "question": "The vitamin required for the formation of hydroxyproline (in collagen) is:",
+      "options": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-93",
+      "question": "Vitamin required in conversion of folic acid to folinic acid is:",
+      "options": [
+        "Biotin",
+        "Cobalamin",
+        "Ascorbic acid",
+        "Niacin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-94",
+      "question": "Ascorbic acid can reduce:",
+      "options": [
+        "2, 6-Dibromobenzene",
+        "2, 6-Diiodoxypyridine",
+        "2, 6-Dichlorophenol indophenol",
+        "2, 4-Dinitrobenzene"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-95",
+      "question": "Sterilised milk lacks in:",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Thiamin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-96",
+      "question": "Deficiency of vitamin C causes:",
+      "options": [
+        "xerophthalmia",
+        "scurvy",
+        "anemia",
+        "relaxation of ligaments",
+        "thrombocytopenia"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-97",
+      "question": "Daily excretion of vitamin C with urine is:",
+      "options": [
+        "20-40 mg",
+        "10-20 mg",
+        "1-2 g",
+        "0.5-1 g"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-98",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin H",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin K"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-99",
+      "question": "Biotin is:",
+      "options": [
+        "Vitamin H",
+        "Vitamin B7",
+        "Vitamin B5",
+        "Vitamin B6"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-100",
+      "question": "Daily requirement of biotin is:",
+      "options": [
+        "25 mkg",
+        "10 mkg",
+        "50 mkg",
+        "1 mg"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-101",
+      "question": "Tick the biological significance of biotin:",
+      "options": [
+        "Is a coenzyme for initial reactions of fatty acids synthesis",
+        "Is a parent compound for coenzyme Q",
+        "Is an antioxidant",
+        "Is a structural component of cell membranes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-102",
+      "question": "Tick the coenzyme of carboxylases:",
+      "options": [
+        "Thiamin",
+        "Riboflavin",
+        "Pantothenic acid",
+        "Folic acid",
+        "Biotin"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-103",
+      "question": "The coenzyme required for conversion of pyruvate to oxaloacetate is:",
+      "options": [
+        "Thiamin",
+        "Riboflavin",
+        "Pantothenic acid",
+        "Biotin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-104",
+      "question": "Consumption of raw eggs can cause deficiency of:",
+      "options": [
+        "Thiamin",
+        "Riboflavin",
+        "Pantothenic acid",
+        "Biotin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-105",
+      "question": "The cofactor or its derivative required for the conversion of acetyl CoA to malonyl- CoA is:",
+      "options": [
+        "FAD",
+        "ACP",
+        "NAD+",
+        "Biotin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-106",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin H",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin K"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-107",
+      "question": "Daily requirement of vitamin B12 is:",
+      "options": [
+        "2 - 5 mkg",
+        "10 mkg",
+        "50 mkg",
+        "1 mg"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-108",
+      "question": "The central structure of B12 referred to as corrin ring system consists of:",
+      "options": [
+        "Cobalt",
+        "Manganese",
+        "Magnesium",
+        "Iron"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-109",
+      "question": "The central heavy metal cobalt of vitamin B12 is coordinately bound to:",
+      "options": [
+        "Cyanide group",
+        "Amino group",
+        "Carboxyl group",
+        "Sulphide group"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-110",
+      "question": "A deficiency of vitamin B12 causes:",
+      "options": [
+        "Beri-Beri",
+        "Scurvy",
+        "Perniciuos anemia",
+        "Ricket"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-111",
+      "question": "Vitamin B12 is:",
+      "options": [
+        "Cyanocobalamin",
+        "Thiamin",
+        "Riboflavin",
+        "Pyridoxine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-112",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin H",
+        "Vitamin B2",
+        "Vitamin B9",
+        "Vitamin K"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-113",
+      "question": "Vitamin B9 is:",
+      "options": [
+        "Cyanocobalamin",
+        "Folic acid",
+        "Riboflavin",
+        "Pyridoxine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-114",
+      "question": "Both folic acid and methyl cobalamin (vitamin B12) are required in:",
+      "options": [
+        "Deamination of serine",
+        "Deamination of threonine",
+        "Conversion of pyridoxal phosphate to pyridoxamine phosphate",
+        "Methylation of homocystein to methionine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-115",
+      "question": "Folate as a coenzyme is involved in the transfer and utilization of:",
+      "options": [
+        "Amino group",
+        "Hydroxyl group",
+        "Single carbon moiety",
+        "Amido group"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-116",
+      "question": "Folate deficiency causes:",
+      "options": [
+        "Microcytic anemia",
+        "Hemolytic anemia",
+        "Iron deficiency anemia",
+        "Megaloblastic anemia"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-117",
+      "question": "Tick the main dietary source of folic acid:",
+      "options": [
+        "Beef",
+        "pork",
+        "chicken meat",
+        "milk",
+        "vegetable green leaves"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-118",
+      "question": "Daily requirement of folic acid for adults is:",
+      "options": [
+        "200 mg",
+        "400 mg",
+        "600 mg",
+        "1 g"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-119",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin H",
+        "Vitamin B2",
+        "Vitamin B9",
+        "Vitamin B1"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-120",
+      "question": "Vitamin B1 is:",
+      "options": [
+        "Cyanocobalamin",
+        "Folic acid",
+        "Riboflavin",
+        "Pyridoxine",
+        "Thiamin"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-121",
+      "question": "Daily requirement of thiamin is:",
+      "options": [
+        "1-2 mg",
+        "2-4 mg",
+        "5-10 mg",
+        "10-20 mg"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-122",
+      "question": "Thiamin deficiency includes:",
+      "options": [
+        "Mental depression",
+        "Fatigue",
+        "Beriberi",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-123",
+      "question": "Thiamin diphosphate is required for oxidative decarboxylation of:",
+      "options": [
+        "α-Keto acids",
+        "α-Amino acids",
+        "Fatty acids",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-124",
+      "question": "Thiamin requirement is greater in:",
+      "options": [
+        "Non-vegetarians",
+        "Alcoholics",
+        "Pregnant women",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-125",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin H",
+        "Vitamin B2",
+        "Vitamin B9",
+        "Vitamin B1"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-126",
+      "question": "Daily requirement of riboflavin is:",
+      "options": [
+        "0.5-1 mg",
+        "2-4 mg",
+        "5-10 mg",
+        "10-20 mg"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-127",
+      "question": "Vitamin B2 is:",
+      "options": [
+        "Cyanocobalamin",
+        "Folic acid",
+        "Riboflavin",
+        "Pyridoxine",
+        "Thiamin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-128",
+      "question": "Biological significance of riboflavin:",
+      "options": [
+        "is a part of coenzymes participated in transamination of amino acids",
+        "is a part of FAD",
+        "is a part of FMN",
+        "is a secondary hormonal messenger",
+        "is a part of coenzyme A"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-129",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin B6",
+        "Vitamin H",
+        "Vitamin B2",
+        "Vitamin B9",
+        "Vitamin B1"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-130",
+      "question": "Vitamin B6 is:",
+      "options": [
+        "Cyanocobalamin",
+        "Folic acid",
+        "Riboflavin",
+        "Pyridoxine",
+        "Thiamin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-131",
+      "question": "Daily requirement of vitamin B6 is:",
+      "options": [
+        "1.5-2 mg",
+        "2-4 mg",
+        "5-10 mg",
+        "10-20 mg"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-132",
+      "question": "Pyridoxal phosphate is a coenzyme for:",
+      "options": [
+        "Glutamate oxaloacetate transaminase",
+        "Glutamate pyruvate transaminase",
+        "Tyrosine transaminase",
+        "Phosphorylase",
+        "Glycogen synthetase"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-133",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Vitamin B6",
+        "Vitamin H",
+        "Vitamin B2",
+        "Vitamin PP",
+        "Vitamin B1"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-134",
+      "question": "Vitamin B3 is:",
+      "options": [
+        "Nicotinic acid",
+        "Niacin",
+        "Riboflavin",
+        "Vitamin PP",
+        "Thiamin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-135",
+      "question": "Daily requirement of vitamin PP is:",
+      "options": [
+        "1.5-2 mg",
+        "2-4 mg",
+        "5-10 mg",
+        "10-20 mg"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-136",
+      "question": "The Vitamin PP deficiency causes:",
+      "options": [
+        "Ricket",
+        "Nyctalopia",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-137",
+      "question": "Symptoms of pellagra are:",
+      "options": [
+        "Dermatitis and diarrhea",
+        "Dermatitis and dementia",
+        "Diarrhea, dermatitis and dementia",
+        "Diarrhea and dementia"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-138",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Vitamin D",
+        "Lipoic acid",
+        "Vitamin H",
+        "Pantothenic acid",
+        "Vitamin PP",
+        "Vitamin B1"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-139",
+      "question": "Biological importance of vitamin PP:",
+      "options": [
+        "Essential factor for NAD(P) synthesis",
+        "Essential factor for FAD(FMN) synthesis",
+        "Essential factor for CoQ synthesis",
+        "Is a part of cytochromes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-140",
+      "question": "Endergonic reactions are:",
+      "options": [
+        "Reactions occured with require of energy only",
+        "Reactions occured with release of energy only",
+        "Reactions some of which occured with release of energy, some of them - with energy requirement"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-141",
+      "question": "Exergonic reactions are:",
+      "options": [
+        "Reactions occured with require of energy only",
+        "Reactions occured with release of energy only",
+        "Reactions some of which occured with release of energy, some of them - with energy requirement"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-142",
+      "question": "What is the tissue respiration?",
+      "options": [
+        "Sum of oxidative processes taken place in different cell compartments",
+        "Sum of oxidative and non-oxidative processes taken place in different cell compartments",
+        "Sum of oxidative processes taken place in separate cell compartment - mitochondria",
+        "Sum of oxidative and non-oxidative processes taken place in separate cell compartment - mitochondria"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-143",
+      "question": "What is the biological importance of tissue respiration?",
+      "options": [
+        "ATP production",
+        "Thermoregulation",
+        "Biosynthetic processes",
+        "Detoxication",
+        "Transfer of hormonal signals"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-144",
+      "question": "Tick the types of tissue respirarion:",
+      "options": [
+        "Intramitochondrial oxidation",
+        "Extramitochondrial oxidation",
+        "Intralysosomal oxidation",
+        "Cytosol oxidation"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-145",
+      "question": "Tick the enzymes participated in biological oxidation:",
+      "options": [
+        "NAD(P) - dependent dehydrogenases",
+        "FMN - dependent dehydrogenases",
+        "FAD - dependent dehydrogenases",
+        "Co-enzyme Q",
+        "Iron-sufur proteins",
+        "Cytochromes"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-146",
+      "question": "Tick the criteria characteristic for NAD(P) - dependent DH:",
+      "options": [
+        "They are conjugated proteins",
+        "They are simple proteins",
+        "Contain NAD(P) as co-enzyme",
+        "They are absolutely specific for substrate",
+        "They are not absolutely specific for substrate",
+        "Aerobic only",
+        "Anaerobic only",
+        "Can be aerobic and anaerobic"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-147",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized NAD+",
+        "Oxidized NADP+",
+        "Reduced NADH2",
+        "Reduced FMNH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-148",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized NAD+",
+        "Oxidized NADP+",
+        "Reduced NADH2",
+        "Reduced FMNH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-149",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized NAD+",
+        "Oxidized NADP+",
+        "Reduced NADH2",
+        "Reduced FMNH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-150",
+      "question": "Tick the NAD+ - dependend DH:",
+      "options": [
+        "Lactate DH",
+        "Malate DH",
+        "Succinate DH",
+        "Glucose-6-phosphate DH",
+        "Phosphogluconate DH"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-151",
+      "question": "Tick the NADP+ - dependend DH:",
+      "options": [
+        "Lactate DH",
+        "Malate DH",
+        "Succinate DH",
+        "Glucose-6-phosphate DH",
+        "Phosphogluconate DH"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-152",
+      "question": "Tick the criteria characteristic for flavoproteins:",
+      "options": [
+        "They are conjugated proteins with FAD or FMN as co-enzyme",
+        "They are simple proteins with FAD as co-enzyme",
+        "Contain metalls in their active site",
+        "Can be aerobic and anaerobic",
+        "Aerobic only",
+        "Anaerobic only"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-153",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized NAD+",
+        "Oxidized FAD",
+        "Reduced NADH2",
+        "Reduced FMNH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-154",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized NAD+",
+        "Oxidized FAD",
+        "Reduced NADH2",
+        "Reduced FMNH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-155",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized NAD+",
+        "Oxidized FAD",
+        "Reduced FMNH2",
+        "Reduced FADH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-156",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized CoQ",
+        "Oxidized FAD",
+        "Reduced FMNH2",
+        "Reduced FADH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-157",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "Oxidized CoQ",
+        "Oxidized FAD",
+        "Reduced FMNH2",
+        "Reduced CoQH2",
+        "Oxidized FMN"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-158",
+      "question": "Tick the criteria characteristic for ubiquinone:",
+      "options": [
+        "Is a conjugated protein",
+        "Is a non-protein substance",
+        "Hydrophylic",
+        "Lypophylic",
+        "Accepts electrons from FP",
+        "Accepts protons from FP"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-159",
+      "question": "Tick the criteria characteristic for ubiquinone:",
+      "options": [
+        "Accepts electrons and protons from flavoproteins",
+        "Accepts electrons and protones from NAD(P)-dependent DH",
+        "Donates electrons for cytochromes",
+        "Donates protons for cytochromes"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-160",
+      "question": "Tick the criteria characteristic for iron-sulfur proteins:",
+      "options": [
+        "Are conjugated proteins",
+        "Are non-protein substances",
+        "Contain Fe2+",
+        "Contain Fe3+",
+        "Iron is present in heme",
+        "Sulfur atoms are a part of cysteine",
+        "Sulfur atoms are inorganic"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-161",
+      "question": "Tick the criteria characteristic for cytochromes:",
+      "options": [
+        "Are conjugated proteins",
+        "Are non-protein substances",
+        "Contain Fe2+",
+        "Contain Fe3+",
+        "Iron is present in heme",
+        "Posses high red/ox potential",
+        "Posses low red/ox potential"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-162",
+      "question": "Tick the terminal component of respiratory chains directly interacted with oxygen:",
+      "options": [
+        "Cytochrome b",
+        "Cytochrome c",
+        "Cytochrome c1",
+        "Cytochrome AA3"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-163",
+      "question": "Tick the criteria characteristic for cytochrome oxidase (AA3):",
+      "options": [
+        "Is composed of 6 subunits",
+        "Is composed of 4 subunits",
+        "Contain Fe2+",
+        "Contain Fe3+",
+        "Iron is present in heme",
+        "Contains Cu2+",
+        "Contains Cu+"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-164",
+      "question": "How many electrons does cytochrome oxidase (AA3) donate for oxygen?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-165",
+      "question": "What does the sequence of compounds in respiratory chains depend on?",
+      "options": [
+        "Molecular weight",
+        "Red/ox potential",
+        "Size and shape of molecules",
+        "Solubility"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-166",
+      "question": "Which compounds are located at the beginning of the respiratory chains?",
+      "options": [
+        "with the most negative potential",
+        "with the most positive potential",
+        "with the highest molecular weight",
+        "with the lowest molecular weight"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-167",
+      "question": "Which compounds are located at the end of the respiratory chains?",
+      "options": [
+        "with the most negative potential",
+        "with the most positive potential",
+        "with the highest molecular weight",
+        "with the lowest molecular weight"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-168",
+      "question": "Tick the location of the electrons transmitters in the respiratory chains:",
+      "options": [
+        "inner mitochondrial membrane",
+        "mitochondrial matrix",
+        "intermembrane space",
+        "inner surface of outer mitochondrial membrane",
+        "outer surface of outer mitochondrial membrane"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-169",
+      "question": "The oxidation-reduction system having the highest red/ox potential is:",
+      "options": [
+        "Ubiquinone ox/red",
+        "Fe3+ cytochrome a/Fe2+",
+        "Fe3+ cytochrome b/Fe2+",
+        "NAD+/NADH"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-170",
+      "question": "The prosthetic group of aerobic dehydrogenases is:",
+      "options": [
+        "NAD+",
+        "NADP+",
+        "FAD",
+        "Pantothenic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-171",
+      "question": "A copper containing oxidase is:",
+      "options": [
+        "Cytochrome oxidase",
+        "Flavin mononucleotide",
+        "Flavin adenine dinucleotide",
+        "Xanthine oxidase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-172",
+      "question": "A component of the respiratory chain in mitochondria is:",
+      "options": [
+        "Coenzyme Q",
+        "Coenzyme A",
+        "Acetyl coenzyme",
+        "Coenzyme containing thiamin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-173",
+      "question": "The sequence of the red/ox carrier in respiratory chain is:",
+      "options": [
+        "NAD — FMN — Q — cyt b—cyt c1— cyt c — cyt aa3 → O2",
+        "FMN — Q — NAD — cyt b — cyt aa3 — cyt c1 — cyt c→ O2",
+        "NAD — FMN — Q — cyt c1 —cyt c — cyt b — cyt aa3 → O2",
+        "NAD — FMN — Q — cyt b — cyt aa3 — cyt c — cyt c1 → O2"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-174",
+      "question": "The correct sequence of cytochrome carriers in respiratory chain is:",
+      "options": [
+        "Cyt b—cyt c—cyt c1—cyt aa3",
+        "Cyt aa3— cyt b—cyt c—cyt c1",
+        "Cyt b—cyt c1—cyt c—cyt aa3",
+        "Cyt b—cyt aa3—cyt c1— cyt c"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-175",
+      "question": "Reducing equivalents from pyruvate enter the mitochondrial respiratory chain at:",
+      "options": [
+        "FAD",
+        "NAD",
+        "Coenzyme Q",
+        "Cyt b"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-176",
+      "question": "Reducing equivalents from succinate enter the mitochondrial respiratory chain at:",
+      "options": [
+        "NAD",
+        "Coenzyme Q",
+        "FAD",
+        "Cyt c"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-177",
+      "question": "Reducing equivalents from isocitrate enter the mitochondrial respiratory chain at:",
+      "options": [
+        "NAD",
+        "Coenzyme Q",
+        "FAD",
+        "Cyt c"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-178",
+      "question": "Reducing equivalents from malate enter the mitochondrial respiratory chain at:",
+      "options": [
+        "NAD",
+        "Coenzyme Q",
+        "FAD",
+        "Cyt c"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-179",
+      "question": "Reducing equivalents from glycerophosphate enter the mitochondrial respiratory chain at:",
+      "options": [
+        "NAD",
+        "Coenzyme Q",
+        "FAD",
+        "FMN"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-180",
+      "question": "The respiratory chain complexes acting as proton pump are:",
+      "options": [
+        "I, II and III",
+        "I, II and IV",
+        "I, III and IV",
+        "I and II"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-181",
+      "question": "If the reducing equivalents enter from FAD in the respiratory chain, the phosphate/oxygen ration (P:O) is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-182",
+      "question": "If the reducing equivalents enter from NAD in the respiratory chain, the phosphate/oxygen (P:O) is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-183",
+      "question": "One of the site of phsosphorylation in mitochondrial respiratory chain is:",
+      "options": [
+        "Between FMN and coenzyme Q",
+        "Between coenzyme Q and cyt b",
+        "Between cytochrome b and cytochrome c1",
+        "Between cytochrome c1 and cytochrome c"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-184",
+      "question": "Tick the oxidative (respiratory) complexes in long respiratory chain:",
+      "options": [
+        "NADH-DH complex",
+        "Succinate-DH complex",
+        "CoQH2-DH complex",
+        "CO complex"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-185",
+      "question": "Tick the oxidative (respiratory) complexes in short respiratory chain in which the phosphorylation takes place:",
+      "options": [
+        "NADH-DH complex",
+        "Succinate-DH complex",
+        "CoQH2-DH complex",
+        "CO complex"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-186",
+      "question": "Tick the inhibitors of NADH-DH complex:",
+      "options": [
+        "Amital",
+        "Barbiturates",
+        "Antimicin A",
+        "Cyanides"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-187",
+      "question": "Tick the inhibitor of Succinate-DH complex:",
+      "options": [
+        "Amital",
+        "Barbiturates",
+        "Antimicin A",
+        "Cyanides",
+        "Malonate"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-188",
+      "question": "Tick the inhibitor of CoQH2-DH complex:",
+      "options": [
+        "Amital",
+        "Barbiturates",
+        "Antimicin A",
+        "Cyanides",
+        "Malonate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-189",
+      "question": "Tick the inhibitor of CoQH2-DH complex:",
+      "options": [
+        "CO",
+        "Barbiturates",
+        "Antimicin A",
+        "Cyanides",
+        "Malonate",
+        "H2S"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-190",
+      "question": "The main exergonic reaction in the human body is:",
+      "options": [
+        "Respiratory chain",
+        "Citric Acids Cycle",
+        "Oxidative decarboxylation of pyruvate",
+        "Anaerobic glucose oxidation"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-191",
+      "question": "What does the released ATP energy can be spent on?",
+      "options": [
+        "Mechanical work",
+        "Osmotic processes",
+        "Elecrtic processes",
+        "Chemical reactions",
+        "Thermoregulation"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-192",
+      "question": "What is the macroergic substances (definition)?",
+      "options": [
+        "substances containing macroergic bonds",
+        "substances used for termoregulation of human body",
+        "subtances used for oncotic pressure maintance",
+        "subtances used for osmotic pressure maintance"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-193",
+      "question": "How many kCal of energy are released during hydrolysis of macroergic bond?",
+      "options": [
+        "less 5 kCal",
+        "more 5.5 kCal",
+        "7.3 kCal",
+        "more 7.3 kCal"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-194",
+      "question": "Tick macroergic substances:",
+      "options": [
+        "Nucleositetriphosphates",
+        "Creatin phosphate",
+        "Phosphoenolpyruvate",
+        "1,3-diphosphoglycerate",
+        "Active forms of fatty acids",
+        "Glucose"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-195",
+      "question": "Identify the following chemical structure:",
+      "options": [
+        "ATP",
+        "GTP",
+        "AMP",
+        "UMP",
+        "GMP"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-196",
+      "question": "Tick the pathways of ATP synthesis:",
+      "options": [
+        "Electron transfer through the respiratory chain",
+        "Substrate phosphorylation",
+        "Dephosphorylation of ADP",
+        "From other macroergic subsances",
+        "From 2 ADP molecules"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-197",
+      "question": "The process of ATP synthesis from ADP with the expense of energy released during the electrons flow through the RC is called:",
+      "options": [
+        "Oxidative phosphorylation",
+        "Tissue respiration",
+        "Biologycal oxidation",
+        "Respiratory control"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-198",
+      "question": "How many molecules ATP are synthesized at oxidation of 1 NAD(P)H2 mol.?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-199",
+      "question": "How many molecules ATP are synthesized at oxidation of 1 FADH2 mol.?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-200",
+      "question": "Phosphorylation coefficient shows:",
+      "options": [
+        "The number of molecules phosphoric acid spent on ATP synthesis at absorption of 1 oxygen atom",
+        "The number of molecules phosphoric acid spent on ATP synthesis at absorption of 1 oxygen molecule",
+        "The number of oxygen molecules spent on ATP synthesis at absorption of 1 mol. phosphoric acid",
+        "The number of oxygen atoms spent on ATP synthesis at absorption of 1 mol. phosphoric acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-201",
+      "question": "Which theory explains the mechanism of oxidative phosphorylation?",
+      "options": [
+        "Mitchell's",
+        "Fisher's",
+        "Coshland's",
+        "Brown's"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-202",
+      "question": "What forms the proton-motive force?",
+      "options": [
+        "Membrane potential",
+        "pH gradient",
+        "red/ox potential"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-203",
+      "question": "Which enzyme participates in oxidative posphorylation?",
+      "options": [
+        "ATP-synthetase",
+        "ATP-reductase",
+        "ADP-synthetase",
+        "ADP-reductase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-204",
+      "question": "What is charateristic for ATP-synthetase?",
+      "options": [
+        "It's an oligomeric enzyme",
+        "It's an monomeric enzyme",
+        "Contains F2 subunit",
+        "Contains F1 subunit"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-205",
+      "question": "Respiratory control is:",
+      "options": [
+        "The change of the rate of oxidation as a result of ADP/ATP concentrations change",
+        "Transfer of electrons through the resriratory chain",
+        "The partial termination of ATP synthesis with the preservation of electrons flow",
+        "The absolute termination of ATP synthesis with the preservation of electrons flow"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-206",
+      "question": "Tick the substances which increase the extent of interface between oxidative processes in respiratory chain and oxidative phosphorylation:",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-207",
+      "question": "Tick the substances which decrease the extent of interface between oxidative processes in respiratory chain and oxidative phosphorylation:",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Vitamin A",
+        "Triiodothyronine",
+        "Dinitrophenol",
+        "Thermogenin"
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-208",
+      "question": "The dissotiation of oxidative phosphorilation is:",
+      "options": [
+        "The partial or absolute termination of ATP synthesis with the preservation of electrons flow",
+        "The partial or absolute termination of ATP synthesis without the preservation of electrons flow",
+        "The change of the rate of oxidation as a result of ADP/ATP concentrations change"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-209",
+      "question": "What reasons can cause hypoenergetic states?",
+      "options": [
+        "Starvation",
+        "Low oxygen content (hypoxia)",
+        "Influence of uncouples",
+        "Influence of inhibitors",
+        "Hypervitaminosis"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-210",
+      "question": "Tick the types of extramitochondrial oxidation:",
+      "options": [
+        "Reactions catalyzed by oxygenases",
+        "Reactions catalyzed by oxidases",
+        "Reactions catalyzed by peroxidases",
+        "Reactions catalyzed by dehydrogenases"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-211",
+      "question": "How many oxygen atoms are incorporated by monooxygenases?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-212",
+      "question": "Where can be found monooxygenase systems?",
+      "options": [
+        "liver",
+        "testis",
+        "placenta",
+        "brain",
+        "spleen"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-213",
+      "question": "Presence of which compounds is necessary for monooxygenase systems?",
+      "options": [
+        "NADH2",
+        "FAD",
+        "Vitamin C",
+        "Vitamin E"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-214",
+      "question": "Tick the electrons donors for peroxidase reduction:",
+      "options": [
+        "Vitamin C",
+        "Quinones",
+        "Cyt C",
+        "cP450"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-215",
+      "question": "Tick the statements characteristic for oxidases:",
+      "options": [
+        "They are flavoproteins",
+        "They are anaerobic",
+        "They oxidize amines, amino acids",
+        "They oxidize xanthine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-216",
+      "question": "How many oxygen atoms can be transfered by oxidases to oxygen?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-217",
+      "question": "Tick active forms of oxygen (ROS):",
+      "options": [
+        "Superoxide anion",
+        "Peroxide anion",
+        "Hydroxide radical",
+        "Methyloxide anion"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-218",
+      "question": "Tick the enzyme catalyzes the following reaction:",
+      "options": [
+        "Catalase",
+        "Superoxide dismutase",
+        "Glutathione peroxidase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-219",
+      "question": "Tick the enzyme catalyzes the following reaction:",
+      "options": [
+        "Catalase",
+        "Superoxide dismutase",
+        "Glutathione peroxidase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-220",
+      "question": "Tick the enzyme catalyzes the following reaction:",
+      "options": [
+        "Catalase",
+        "Superoxide dismutase",
+        "Glutathione peroxidase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-221",
+      "question": "Tick the steps of catabolism:",
+      "options": [
+        "Degradation of complex substances (TAG, proteins, polysaccharides) till their monomers",
+        "Degradation of monomers till common products of catabolism",
+        "Common catabolic pathways provided synthesis of ATP",
+        "Electron transfer through the resriratory chain",
+        "Oxidative phosphorylation"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-222",
+      "question": "Common intermediate catabolic products are:",
+      "options": [
+        "pyruvate",
+        "glucose",
+        "acetyl-CoA",
+        "water",
+        "CO2"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-223",
+      "question": "Tick the common catabolic pathways:",
+      "options": [
+        "Oxidative decarboxylation of pyruvate",
+        "CAC",
+        "Glycolysis",
+        "Glycogenolysis",
+        "Oxidative phosphorylation"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-224",
+      "question": "Where does the oxidative decarboxylation of pyruvate take place?",
+      "options": [
+        "Mitochondrial matrix",
+        "Inner membrane of mitochondria",
+        "cytosol",
+        "EPR"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-225",
+      "question": "How many enzymes in Pyruvate DH Complex?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "4"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-226",
+      "question": "How many coenzymes in Pyruvate DH Complex?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "4"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-227",
+      "question": "Tick the enzymes of pyruvate DH complex:",
+      "options": [
+        "Pyruvate DH",
+        "Dihydrolipoil transacetylase",
+        "Dihydrolipoil DH",
+        "Acetyl-CoA synthase",
+        "Malonyl DH",
+        "Dihydrolipoil decarboxylase"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-228",
+      "question": "Tick the coenzymes of pyruvate DH complex:",
+      "options": [
+        "Thiamine diphosphate",
+        "Lipoic acid",
+        "FAD",
+        "NAD+",
+        "Thiolase (HS-CoA)",
+        "NADP+",
+        "Zn2+"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-229",
+      "question": "Tick the vitamins of pyruvate DH complex:",
+      "options": [
+        "B1",
+        "B2",
+        "B3",
+        "Lipoic acid",
+        "PP",
+        "B6",
+        "E"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-230",
+      "question": "What are the final products of oxidative decarboxylation of pyruvate?",
+      "options": [
+        "Acetyl-CoA",
+        "Malonyl-CoA",
+        "Homogentisinic acid",
+        "CO2",
+        "Lactate"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-231",
+      "question": "Where does the Citric Acid Cycle take place?",
+      "options": [
+        "Mitochondrial matrix",
+        "Inner membrane of mitochondria",
+        "cytosol",
+        "EPR"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-232",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-233",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-234",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-235",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-236",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-237",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-238",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-239",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        7
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-240",
+      "question": "How many reactions of CAC occure with NADH2 release?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-241",
+      "question": "How many reactions of CAC occure with FADH2 release?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-242",
+      "question": "Which enzyme catalyses the reaction of substrate phosphorylation in Citric Acid Cycle?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-243",
+      "question": "How many molecules ATP are synthesized during oxidation of 1 molecule pyruvate?",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "12",
+        "15"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-244",
+      "question": "How many molecules ATP are synthesized during oxidation of 1 molecule acetyl-CoA?",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "12",
+        "15"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-245",
+      "question": "Which enzymes are regulatory for Citric Acid Cycle?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate DH",
+        "α-ketoglutarate DH complex",
+        "Succinyl-CoA synthetase",
+        "Succinate DH",
+        "Fumarase",
+        "Malate DH"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-246",
+      "question": "Biological importance of CAC is:",
+      "options": [
+        "Energy synthesis",
+        "Biosynthesis of new compounds",
+        "Detoxication",
+        "AFO (active forms of oxygen) formation",
+        "Is the second common catabolic pathway"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-247",
+      "question": "Tich the metabolites of CAC:",
+      "options": [
+        "Pyruvate",
+        "Lactate",
+        "Succinate",
+        "Oxaloacetate",
+        "Acyl-CoA",
+        "Glucose"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-248",
+      "question": "What decreases the intensity of CAC?",
+      "options": [
+        "High concentration ATP",
+        "High concentration NADH2",
+        "High concentration ADP",
+        "High concentration NAD+"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-249",
+      "question": "What increases the intensity of CAC?",
+      "options": [
+        "High concentration ATP",
+        "High concentration NADH2",
+        "High concentration ADP",
+        "High concentration NAD+"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "biox-250",
+      "question": "What is the limiting factor for CAC?",
+      "options": [
+        "High concentration ATP",
+        "High concentration NADH2",
+        "High concentration ADP",
+        "High concentration NAD+",
+        "Oxaloacetate",
+        "α-ketoglutarate"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    }
+  ]
+}

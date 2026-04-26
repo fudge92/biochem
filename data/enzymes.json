@@ -1,0 +1,2576 @@
+{
+  "title": "Enzymes MCQ",
+  "questions": [
+    {
+      "id": "enzyme-1",
+      "question": "Measurement of isozyme activity is widely used for diagnostic purposes. Which of the statements is isozymes characteristic?",
+      "options": [
+        "The enzymes catalyzing different reactions",
+        "Physically distinct and separable forms of one enzyme differing by composition and properties, but catalyzing the same reaction",
+        "Fractions of the same enzyme separated from different organisms",
+        "The enzymes acting on different substrates"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-2",
+      "question": "Enzymes possess thermolability. How does the enzyme reaction velocity change at increasing temperature?",
+      "options": [
+        "Constantly increases",
+        "Constantly decreases",
+        "It increases from 0 up to 37-40° C then it decreases",
+        "It increases after 60° C",
+        "It’s not regular"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-3",
+      "question": "Separation of coenzyme from apo-enzyme is based on the differences in their physical and chemical properties. Which properties are characteristics of coenzyme?",
+      "options": [
+        "Thermostability",
+        "Thermolability",
+        "Lower molecular weight",
+        "Higher molecular weight"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-4",
+      "question": "Some enzymes have absolute substrate specificity. Which of the enzymes possesses this property?",
+      "options": [
+        "Amino acid oxidase",
+        "Carboxypeptidase",
+        "Urease",
+        "Chymotrypsin",
+        "Acyl-CoA dehydrogenase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-5",
+      "question": "Enzymes belong to:",
+      "options": [
+        "Carbohydrates",
+        "Nucleic acids",
+        "Proteins",
+        "Lipids",
+        "Nucleotides"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-6",
+      "question": "Number of classes of enzymes in accordance to international classification:",
+      "options": [
+        "5",
+        "6",
+        "10",
+        "8"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-7",
+      "question": "Normal course of biochemical reactions is provided with high enzyme specificity. Which of the following definitions show the specificity of enzyme action?",
+      "options": [
+        "Influence the strongly definite substrate",
+        "Formation of strongly definite product of reaction",
+        "Splitting the strongly definite chemical bonds",
+        "Action on the definite stereoisomers",
+        "Influence many structurally different substrates"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-8",
+      "question": "Enzymes activity depends on pH of solution. Which pH level is required for maximal activity of enzyme?",
+      "options": [
+        "Maximal pH value",
+        "Optimal pH for this particular enzyme",
+        "Minimal pH",
+        "Enzyme activity is stable in wide pH range"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-9",
+      "question": "Principle of enzyme competitive inhibition is the base of some medicine action. Which of inhibitors is included in this particular group?",
+      "options": [
+        "Having structural similarity to substrate",
+        "Having structural similarity to coenzyme",
+        "Having structural similarity to product of reaction",
+        "Having structural similarity to enzyme",
+        "Having structural similarity to allosteric center of enzyme"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-10",
+      "question": "Enzymes possess photolability. Tick the clinical importance of this property:",
+      "options": [
+        "To activate tissue enzymes",
+        "To inhibit blood enzymes",
+        "To inactivate microorganism enzymes",
+        "For disinfection of surgical instruments",
+        "For disinfection of rooms in hospitals"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-11",
+      "question": "Important catalytic characteristic of enzyme is Michaelis’s constant. What is this constant equal to?",
+      "options": [
+        "Concentration of reaction products",
+        "Initial substrate concentration",
+        "Substrate concentration when reaction velocity is equal to half- maximal",
+        "Substrate concentration in maximal reaction velocity",
+        "It characterizes molecular weight of enzyme"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-12",
+      "question": "Which of the enzymes are active in mitochondria?",
+      "options": [
+        "Succinate dehydrogenase",
+        "NADH dehydrogenase",
+        "RNA-ase",
+        "DNA-ase"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-13",
+      "question": "Enzymes are used in treatment of wounds to dissolve necrotic mass and blood plugs. Which of the enzymes have proteolytic activity?",
+      "options": [
+        "Trypsin",
+        "Lipase",
+        "Chymotrypsin",
+        "Plasmin",
+        "Hyaluronidase"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-14",
+      "question": "All enzymes are characterized by high catalytic activity. Which kinetic parameters of chemical processes do enzymes change?",
+      "options": [
+        "They change temperature",
+        "Enzymes decrease energy of activation",
+        "They increase stereo-chemical coefficient",
+        "They change substrate concentration"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-15",
+      "question": "Enzyme presence and activity are often estimated in biological liquids with diagnostic purpose. Choose the way for detection of enzyme presence:",
+      "options": [
+        "Biuret reaction",
+        "Sedimentation by trichloroacetic acid",
+        "Enzymatic reaction course in optimal conditions",
+        "Catalyzed reaction in low quantity of substrate",
+        "Catalyzed reaction in coenzyme absence"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-16",
+      "question": "Enzyme inactivation is irreversible at:",
+      "options": [
+        "+100° C",
+        "+40° C",
+        "0° C",
+        "+20° C",
+        "+37° C"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-17",
+      "question": "What does the term \"coenzyme\" mean?",
+      "options": [
+        "Oligomeriс protein",
+        "Protein part of conjugated enzyme",
+        "Easily separated non-protein part of conjugated enzyme",
+        "Vitamin",
+        "Microelement"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-18",
+      "question": "Intramolecular group transfer is catalyzed by:",
+      "options": [
+        "Oxidoreductases",
+        "Transferases",
+        "Hydrolases",
+        "Synthetases",
+        "Lyases"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-19",
+      "question": "There are several types of working nomenclature of enzymes. What principles is this nomenclature based on?",
+      "options": [
+        "Substrate name",
+        "Chemical process name",
+        "Enzyme molecule structure",
+        "Coenzyme molecule structure"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-20",
+      "question": "Which functional sites are present in the active center of enzyme?",
+      "options": [
+        "Binding site",
+        "Catalytic site",
+        "Allosterical center",
+        "Structural domain"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-21",
+      "question": "Changes of enzymatic reaction velocity play significant regulatory role in metabolism. What factors influence the enzymatic reaction velocity?",
+      "options": [
+        "Temperature",
+        "pH",
+        "Substrate concentration",
+        "Enzyme concentration",
+        "Coenzyme structure"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-22",
+      "question": "Allosterical activators and inhibitors play significant role in the regulation of enzymatic reaction velocity. What is their allosterical effect connected with?",
+      "options": [
+        "Influence the active center",
+        "Action outside the active center",
+        "Influence the coenzyme",
+        "Influence tertiary structure of enzyme",
+        "Influence primary structure of enzyme"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-23",
+      "question": "Enzymopathies are often characterized by severe clinical symptoms. Which of listed metabolical disorders are characteristics of classic enzymopathies?",
+      "options": [
+        "Reaction product absence",
+        "Reaction substrate excess",
+        "Unusual product occurring",
+        "Coenzyme excess"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-24",
+      "question": "Which amino acid radicals are mostly present in enzyme active center ?",
+      "options": [
+        "Cysteine",
+        "Serine",
+        "Valine",
+        "Histidine",
+        "Isoleucine",
+        "Glutamic acid"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-25",
+      "question": "Enzymatic reaction velocity is enhanced in presence of activator. Name possible mechanisms of activator action.",
+      "options": [
+        "Partial proteolysis of proenzymes",
+        "Allosterical influence",
+        "Phosphorylation of enzymes",
+        "Building up the active center",
+        "Joining additional amino acids to enzyme structure"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-26",
+      "question": "Choose possible mechanisms of non-competitive inhibitors action.",
+      "options": [
+        "Allosterical influence",
+        "Reversible binding the active center",
+        "Irreversible binding the active center",
+        "The blockade of metal ions in enzyme active center",
+        "Partial proteolysis of enzymes",
+        "Pushing out the substrate from enzyme-substrate complex"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-27",
+      "question": "Enzyme activity is estimated in optimal conditions. Which of listed conditions are compulsory for quantitative investigation of enzymes?",
+      "options": [
+        "Substrate excess",
+        "Strongly definite but a little concentration of substrate",
+        "Optimal pH",
+        "Optimal temperature",
+        "Presence of cofactors"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-28",
+      "question": "Quantitative estimation of enzyme activity is often used for diagnostic purpose. Which techniques of enzymodiagnostics are the most informative?",
+      "options": [
+        "Estimation of tissue-specified enzyme activity",
+        "Estimation of isozyme spectrum",
+        "Estimation of all blood enzyme activity",
+        "Estimation of all enzyme activity in urine",
+        "Estimation of all tissue enzyme activity"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-29",
+      "question": "Which of the following is true about Michaelis-Menten kinetics?",
+      "options": [
+        "Km, the Michaelis constant, is defined as the concentration of substrate at which enzyme is working at maximum velocity",
+        "Km is an indicator of the affinity of the enzyme for its substrate",
+        "Km is defined as the dissociation constant of the enzyme-substrate complex",
+        "It assumes covalent binding of enzyme and substrate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-30",
+      "question": "Which of the following is obtained when the velocity of enzyme activity is plotted against substrate concentration?",
+      "options": [
+        "Hyperbolic curve",
+        "Parabola",
+        "Straight line with positive slope",
+        "Straight line with negative slope"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-31",
+      "question": "Which of the following statements is true about competitive inhibitors?",
+      "options": [
+        "It is a common type of irreversible inhibition",
+        "It is a common type of reversible inhibition",
+        "The apparent Km decreases in the presence of an inhibitor",
+        "The maximum velocity of the reaction decreases in the presence of a competitive inhibitor"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-32",
+      "question": "Which of the following statements is true about non-competitive inhibitors?",
+      "options": [
+        "They bind covalently at a site distinct from the active site",
+        "They don't resemble the substrate",
+        "They increase the measured Vmax",
+        "Apparent Km increases"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-33",
+      "question": "The rate determining step of Michaelis-Menten kinetics is",
+      "options": [
+        "The ES-complex dissociation to produce products",
+        "The ES-complex formation",
+        "The ES-complex dissociation to form initial substances",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-34",
+      "question": "Which of the following is the correct Lineweaver-Burk equation?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-35",
+      "question": "Which of the following is the correct Michaelis-Menten equation?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-36",
+      "question": "The molecule which acts directly on an enzyme to lower its catalytic rate is",
+      "options": [
+        "Repressor",
+        "Inhibitor",
+        "Modulator",
+        "Regulator"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-37",
+      "question": "Which of the following is an example of reversible inhibitor?",
+      "options": [
+        "Iodoacetate",
+        "Acetylsalisylic acid",
+        "Diisopropyl fluorophosphate",
+        "Sulphonilamide"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-38",
+      "question": "What is the mechanism of a competitive inhibitor action?",
+      "options": [
+        "Binds active site of enzyme",
+        "Binds allosteric site of enzyme",
+        "Does not bind enzyme",
+        "Binds substrate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-39",
+      "question": "Which of the following factors can be used to compare the catalytic efficiency of two distinct enzymes?",
+      "options": [
+        "Km",
+        "Product formation",
+        "Size of the enzymes",
+        "Optimum value of pH"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-40",
+      "question": "What is the general mechanism of an enzyme action?",
+      "options": [
+        "It acts by reducing the activation energy",
+        "It acts by increasing the activation energy",
+        "It acts by decreasing the pH",
+        "It acts by increasing the pH"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-41",
+      "question": "The active site of enzymes often contains residues of:",
+      "options": [
+        "Serine, lysine and aspartate",
+        "Serine, lysine and glutamate",
+        "Threonine, lysine and aspartate",
+        "Methionine, lysine and aspartate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-42",
+      "question": "The allosteric inhibitor of an enzyme",
+      "options": [
+        "Causes the enzyme to work faster",
+        "Binds to the active site",
+        "Participates in feedback regulation",
+        "Denatures the enzyme"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-43",
+      "question": "Which of the following is false about feedback inhibition?",
+      "options": [
+        "It is a type of enzymatic activity regulation",
+        "The synthesis of concerned enzyme is inhibited by interfering with the gene of that enzyme",
+        "Activity of concerned enzyme is reduced by the end product",
+        "Inhibitor binds active site of concerned enzyme"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-44",
+      "question": "Which is the enzyme that acts as a regulatory enzyme in a four-step metabolic pathway?",
+      "options": [
+        "First enzyme",
+        "Fourth enzyme",
+        "Second enzyme",
+        "Third enzyme"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-45",
+      "question": "A holoenzyme contains",
+      "options": [
+        "Functional unit",
+        "Apo enzyme",
+        "Coenzyme",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-46",
+      "question": "Example of an extracellular enzyme is",
+      "options": [
+        "Lactate dehydrogenase",
+        "Cytochrome oxidase",
+        "Pancreatic lipase",
+        "Hexokinase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-47",
+      "question": "An inactive precursor of enzyme is",
+      "options": [
+        "Isoenzyme",
+        "Lysozyme",
+        "Apoenzyme",
+        "Proenzyme"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-48",
+      "question": "An example of ligases is",
+      "options": [
+        "Succinate thiokinase",
+        "Alanine racemase",
+        "Fumarase",
+        "Aldolase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-49",
+      "question": "An example of lyases is",
+      "options": [
+        "Glutamine synthetase",
+        "Fumarase",
+        "Cholinesterase",
+        "Amylase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-50",
+      "question": "Activation or inactivation of certain key regulatory enzymes is accomplished by covalent modification of the amino acid:",
+      "options": [
+        "Tyrosine",
+        "Phenylalanine",
+        "Lysine",
+        "Serine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-51",
+      "question": "The enzyme which can add water to a carbon-carbon double bond or remove water to create a double bond without breaking the bond is",
+      "options": [
+        "Hydratase",
+        "Hydroxylase",
+        "Hydrolase",
+        "Esterase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-52",
+      "question": "Fischer’s ‘lock and key’ model of the enzyme action implies that",
+      "options": [
+        "The active site is complementary to the substrate only after interaction",
+        "The active site is rigid and pre-shaped template",
+        "Substrate changes its conformation before the interaction with active site",
+        "The active site is flexible and adjusts to substrate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-53",
+      "question": "Lineweaver-Burk double reciprocal plot is useful for:",
+      "options": [
+        "calculation of the Km",
+        "understanding the effect of various inhibitors",
+        "calculation of substrate concentration",
+        "calculation of enzyme concentration"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-54",
+      "question": "The kinetic effect of competitive inhibitor of an enzyme",
+      "options": [
+        "Increases Km without affecting Vmax",
+        "Decreases Km without affecting Vmax",
+        "Increases Vmax without affecting Km",
+        "Decreases Vmax without affecting Km"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-55",
+      "question": "In reversible non-competitive enzyme activity inhibition",
+      "options": [
+        "Vmax is increased",
+        "Km is increased",
+        "Km is decreased",
+        "Concentration of active enzyme is reduced"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-56",
+      "question": "In reversible non-competitive enzyme activity inhibition",
+      "options": [
+        "Inhibitor bears structural resemblance to substrate",
+        "Inhibitor lowers the maximum velocity attainable with a given amount of enzyme",
+        "Km is increased",
+        "Km is decreased"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-57",
+      "question": "In competitive enzyme activity inhibition",
+      "options": [
+        "The structure of inhibitor generally resembles the substrate",
+        "Inhibitor decreases apparent Km",
+        "Km remains unaffective",
+        "Inhibitor decreases Vmax without affecting Km"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-58",
+      "question": "In enzyme kinetics Vmax reflects",
+      "options": [
+        "The amount of an active enzyme",
+        "Substrate concentration",
+        "Half the substrate concentration",
+        "Enzyme-substrate complex"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-59",
+      "question": "In enzyme kinetics Km implies",
+      "options": [
+        "The substrate concentration that gives one half Vmax",
+        "The dissocation constant for the enzyme substrate comples",
+        "Concentration of enzyme",
+        "Half of the substrate concentration required to achieve Vmax"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-60",
+      "question": "In competitive enzyme activity inhibition",
+      "options": [
+        "Apparent Km is decreased",
+        "Apparent Km is increased",
+        "Vmax is increased",
+        "Vmax is decreased"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-61",
+      "question": "In non-competitive enzyme activity inhibition, inhibitor",
+      "options": [
+        "Increases Km",
+        "Decreases Km",
+        "Does not effect Km",
+        "Increases Vmax"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-62",
+      "question": "An oxidoreductase using oxygen as hydrogen acceptor is",
+      "options": [
+        "Cytochrome oxidase",
+        "Lactate dehydrogenase",
+        "Malate dehydrogenase",
+        "Succinate dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-63",
+      "question": "Enzyme involved in condensation of two substrates is",
+      "options": [
+        "Glutamine synthetase",
+        "Aldolase",
+        "Transaminase",
+        "Lipase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-64",
+      "question": "The pH optimum of most of the enzymes is",
+      "options": [
+        "Between 2 and 4",
+        "Between 5 and 9",
+        "Between 8 and 12",
+        "Above 12"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-65",
+      "question": "Coenzymes are",
+      "options": [
+        "Termostable, dialysable, non protein organic molecules",
+        "Soluble, colloidal, protein molecules",
+        "Structural analogue of enzymes",
+        "Different forms of enzymes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-66",
+      "question": "Examples of coenzymes are",
+      "options": [
+        "CoA",
+        "NAD+",
+        "Biotin",
+        "Hg2+"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-67",
+      "question": "Isoenzymes are",
+      "options": [
+        "Chemically, immunologically and electrophoretically different forms of an enzyme",
+        "Different forms of an enzyme similar in all properties",
+        "Catalysing different reactions",
+        "Having the same quaternary structure"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-68",
+      "question": "The isoenzymes of LDH",
+      "options": [
+        "Differ only in a single amino acid",
+        "Differ in catalytic activity",
+        "Exist in 5 forms depending on M and H monomer contents",
+        "Occur as monomers"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-69",
+      "question": "Factors affecting enzyme activity:",
+      "options": [
+        "Concentration of enzyme and substrate",
+        "pH",
+        "Temperature",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-70",
+      "question": "In early stages of myocardial infarction the most sensitive indicator is the measurement of the activity of",
+      "options": [
+        "Creatin kinase",
+        "Alanine transaminase",
+        "Aspartate transaminase",
+        "Lactate dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-71",
+      "question": "Alanine transaminase level increases in",
+      "options": [
+        "Metastatic carcinoma of prostate",
+        "Myocardial infarction",
+        "Wilson’s disease",
+        "Liver diseases"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-72",
+      "question": "Serum amylase level increases in",
+      "options": [
+        "Hepatitis",
+        "Heat attacks",
+        "Acute pancreatitis",
+        "Diabetes mellitus"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-73",
+      "question": "The isoenzyme LDH5 is elevated in",
+      "options": [
+        "Myocardial infarction",
+        "Peptic ulcer",
+        "Liver disease",
+        "Infectious diseases"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-74",
+      "question": "On the third day of onset of acute myocardial infarction the enzyme elevated is",
+      "options": [
+        "Serum AST",
+        "Serum CK",
+        "Serum LDH",
+        "Serum ALT"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-75",
+      "question": "LDH1 is elevated in",
+      "options": [
+        "Myocardial infarction",
+        "Liver disease",
+        "Kidney disease",
+        "Brain disease"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-76",
+      "question": "An example of functional plasma enzyme is",
+      "options": [
+        "Lipoprotein lipase",
+        "Amylase",
+        "Aminotransferase",
+        "Lactate dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-77",
+      "question": "The pH optimum for salivary amylase is",
+      "options": [
+        "6.6–6.8",
+        "2.0–7.5",
+        "7.9.",
+        "8.6"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-78",
+      "question": "The substrate for amylase is",
+      "options": [
+        "Cane sugar",
+        "Starch",
+        "Lactose",
+        "Ribose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-79",
+      "question": "The ion which activates salivary amylase activity is",
+      "options": [
+        "Chloride",
+        "Bicarbonate",
+        "Sodium",
+        "Potassium"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-80",
+      "question": "The enzymes of the citric acid cycle are located in",
+      "options": [
+        "Mitochondrial matrix",
+        "Lysosoms",
+        "Nucleus",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-81",
+      "question": "A competitive inhibitor for succinate dehydrogenase is",
+      "options": [
+        "Sulphonilamide",
+        "Malonate",
+        "Citrate",
+        "Fluoride"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-82",
+      "question": "The optimum pH of pancreatic lipase is",
+      "options": [
+        "2.0",
+        "4.0",
+        "6.0",
+        "8.0"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-83",
+      "question": "An example of enzyme inhibition:",
+      "options": [
+        "Reversible inhibition",
+        "Irreversible inhibition",
+        "Allosteric inhibition",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-84",
+      "question": "Enzymes responsible for protein biosynthesis are associated mainly with the",
+      "options": [
+        "Mitochondria",
+        "Endoplasmic reticulum",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-85",
+      "question": "Example of enzyme specificity:",
+      "options": [
+        "Stereo specificity",
+        "Reaction specificity",
+        "Substrate specificity",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-86",
+      "question": "The enzymes involved in the synthesis of cholesterol and fatty acids are found in",
+      "options": [
+        "Mitochondria",
+        "Golgi apparatus",
+        "Nucleus",
+        "Endoplasmic reticulum and cytosol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-87",
+      "question": "Cholesterol by a feed back mechanism inhibits the activity of",
+      "options": [
+        "HMG-CoA synthetase",
+        "HMG-CoA reductase",
+        "Thiolase",
+        "Mevalonate kinase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-88",
+      "question": "The realistic theory to explain enzyme–substrate complex formation is:",
+      "options": [
+        "Lock and key model",
+        "Kochland's model",
+        "Michaelis-Menten model",
+        "Lineweaver-Burk model"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-89",
+      "question": "Phenylketonuria is due to deficiency of the enzyme:",
+      "options": [
+        "Phenylalanine hydroxylase",
+        "Tyrosinase",
+        "p-Hydroxyphenylpyruvic acid oxidase",
+        "Tyrosine dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-90",
+      "question": "Which of the following enzymes possesses absolute substrate specificity?",
+      "options": [
+        "Trypsin",
+        "Alcohol dehydrogenase",
+        "Urease",
+        "Lactate dehydrogenase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-91",
+      "question": "Coenzymes combine with",
+      "options": [
+        "Proenzymes",
+        "Apoenzymes",
+        "Holoenzymes",
+        "Antienzymes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-92",
+      "question": "The enzyme hexokinase is a",
+      "options": [
+        "Hydrolase",
+        "Oxidoreductase",
+        "Transferase",
+        "Ligase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-93",
+      "question": "The enzyme lactate dehydrogenase is a",
+      "options": [
+        "Hydrolase",
+        "Oxidoreductase",
+        "Transferase",
+        "Ligase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-94",
+      "question": "The enzyme amylase is a",
+      "options": [
+        "Hydrolase",
+        "Oxidoreductase",
+        "Transferase",
+        "Ligase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-95",
+      "question": "Enzymes which catalyse binding of two substrates by covalent bonds are known as",
+      "options": [
+        "Lyases",
+        "Hydrolases",
+        "Ligases",
+        "Oxidoreductases"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-96",
+      "question": "The induced fit model of enzyme action was proposed by",
+      "options": [
+        "Fischer",
+        "Koshland",
+        "Mitchell",
+        "Markert"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-97",
+      "question": "Allosteric inhibition is also known as",
+      "options": [
+        "Competitive inhibition",
+        "Non-competitive inhibition",
+        "Feedback inhibition",
+        "None of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-98",
+      "question": "An allosteric enzyme is generally inhibited by",
+      "options": [
+        "Initial substrate of the pathway",
+        "Substrate analogues",
+        "Product of the reaction catalysed by allosteric enzyme",
+        "Product of the pathway"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-99",
+      "question": "When the velocity of an enzymatic reaction equals Vmax, substrate concentration is",
+      "options": [
+        "Half of Km",
+        "Equal to Km",
+        "Twice the Km",
+        "Far above the Km"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-100",
+      "question": "In competitive inhibition, the inhibitor",
+      "options": [
+        "Competes with the enzyme",
+        "Irreversibly binds the enzyme",
+        "Binds the substrate",
+        "Competes with the substrate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-101",
+      "question": "Competitive inhibitors",
+      "options": [
+        "Decrease the Km",
+        "Decrease the Vmax",
+        "Increase the Km",
+        "Increase the Vmax"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-102",
+      "question": "Competitive inhibition can be relieved by raising the",
+      "options": [
+        "Enzyme concentration",
+        "Substrate concentration",
+        "Inhibitor concentration",
+        "Product concentration"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-103",
+      "question": "Serum lactate dehydrogenase rises in",
+      "options": [
+        "Viral hepatitis",
+        "Myocardial infarction",
+        "Leukemia",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-104",
+      "question": "Which of the following serum enzyme rises in myocardial infarction:",
+      "options": [
+        "Creatine kinase",
+        "AST",
+        "LDH",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-105",
+      "question": "Which of the following isoenzymes of lactate dehydrogenase is raised in serum in myocardial infarction:",
+      "options": [
+        "LDH1",
+        "LDH2",
+        "LDH3",
+        "LDH4",
+        "LDH5"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-106",
+      "question": "Which of the following isoenzymes of lactate dehydrogenase is raised in serum in liver diseases:",
+      "options": [
+        "LDH1",
+        "LDH2",
+        "LDH3",
+        "LDH4",
+        "LDH5"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-107",
+      "question": "Inactive precursors of enzymes are known as",
+      "options": [
+        "Apoenzymes",
+        "Coenzymes",
+        "Zymogens",
+        "Holoenzymes"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-108",
+      "question": "Whcih of the following is a proenzyme?",
+      "options": [
+        "Lipase",
+        "Trypsin",
+        "Chymotrypsin",
+        "Pepsinogen"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-109",
+      "question": "Product of the metabolic pathway regulates the activity of allosteric enzyme by",
+      "options": [
+        "Feedback inhibition",
+        "Non-competitive inhibition",
+        "Competitive inhibition",
+        "Repression-derepression"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-110",
+      "question": "Regulation of some enzymes by covalent modification involves addition or removal of",
+      "options": [
+        "Acetate",
+        "Sulphate",
+        "Phosphate",
+        "Coenzyme"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-111",
+      "question": "Which statements about protein phosphorylation-dephosphorylation are true?",
+      "options": [
+        "Protein kinases are necessary for the reaction",
+        "Protein phosphatases are necessary for the reaction",
+        "It is a way of enzymes activity regulation",
+        "It is a non-covalent modification",
+        "It is a reversible modification"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-112",
+      "question": "An inorganic ion required for the activity of an enzyme is known as",
+      "options": [
+        "Activator",
+        "Cofactor",
+        "Coenzyme",
+        "All of these"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-113",
+      "question": "Among the isoenzymes, this one has been the most thoroughly investigated:",
+      "options": [
+        "Alkaline phosphatase",
+        "Lactate dehydrogenase",
+        "Acid phosphatase",
+        "Creatine kinase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-114",
+      "question": "Hydrolases are located in",
+      "options": [
+        "Lysosomes",
+        "Mitochondria",
+        "Cytosol",
+        "Microsomes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-115",
+      "question": "Lactate dehydrogenase is a",
+      "options": [
+        "Monomer",
+        "Dimer",
+        "Tetramer",
+        "Hexamer"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-116",
+      "question": "All of the following are iron-containing enzymes except",
+      "options": [
+        "Carbonic anhydrase",
+        "Catalase",
+        "Peroxidase",
+        "Cytochrome oxidase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-117",
+      "question": "Enzymes accelerate the rate of reactions by",
+      "options": [
+        "Increasing the equilibrium constant of reactions",
+        "Increasing the energy of activation",
+        "Decreasing the energy of activation",
+        "Decreasing the stereo-chemical quotient"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-118",
+      "question": "Vmax of an enzyme may be affected by",
+      "options": [
+        "pH",
+        "Temperature",
+        "Non-competitive inhibitors",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-119",
+      "question": "In enzyme assays, all the following are kept constant except",
+      "options": [
+        "Substrate concentration",
+        "Enzyme concentration",
+        "pH",
+        "Temperature"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-120",
+      "question": "If the substrate concentration is much below the Km of the enzyme, the velocity of the reaction is",
+      "options": [
+        "Directly proportional to substrate concentration",
+        "Not affected by enzyme concentration",
+        "Nearly equal to Vmax",
+        "Inversely proportional to substrate concentration"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-121",
+      "question": "Different isoenzymes of an enzyme have the same",
+      "options": [
+        "Amino acid sequence",
+        "Michaelis constant",
+        "Catalytic activity",
+        "All of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-122",
+      "question": "Pyruvate dehydrogenase complex is located in",
+      "options": [
+        "Cytosol",
+        "Lysosomes",
+        "Mitochondria",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-123",
+      "question": "Malonate is an inhibitor of",
+      "options": [
+        "Malate dehydrogenase",
+        "α-Ketoglutarate dehydrogenase",
+        "Succinate dehydrogenase",
+        "Isocitrate dehydrogenase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-124",
+      "question": "Which of the following enzyme catalyses the direct transfer and incorporation of O2 into a substrate molecule?",
+      "options": [
+        "Reductase",
+        "Oxidase",
+        "Oxygenase",
+        "Peroxidase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-125",
+      "question": "Which of the following statements is incorrect about oxidases?",
+      "options": [
+        "They catalyze reactions involving hydrogen peroxide",
+        "They catalyze reaction using O2 as a hydrogen acceptor",
+        "They catalyze reactions using niacin as coenzyme",
+        "They catalyze reactions of direct incorporation of O2 into the substrate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-126",
+      "question": "Which of the following enzyme catalyzes the first step in the catabolism of ethanol?",
+      "options": [
+        "Alcohol dehydrogenase",
+        "Lactate dehydrogenase",
+        "Glutamate dehydrogenase",
+        "Malate dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-127",
+      "question": "Which of the following enzyme is present in saliva?",
+      "options": [
+        "Hexokinase",
+        "Alpha amylase",
+        "Fructokinase",
+        "Triose kinase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-128",
+      "question": "Removing of hydrogen atoms from substrate is catalyzed by",
+      "options": [
+        "Pyruvate carboxylase",
+        "Malate dehydrogenase",
+        "Dehydratase",
+        "Aldolase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-129",
+      "question": "Ethanol is oxidized to acetaldehyde in the liver cytoplasm by",
+      "options": [
+        "Alcohol dehydrogenase",
+        "Alcohol carboxylase",
+        "Pyruvate carboxylase",
+        "Pyruvate kinase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-130",
+      "question": "Maximum enzyme activity is observed at",
+      "options": [
+        "Acidic pH",
+        "Neutral pH",
+        "Basic pH",
+        "Optimum pH"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-131",
+      "question": "Conversion of pepsinogen to pepsin is",
+      "options": [
+        "Intra molecular rearrangement",
+        "Breaking of hydrogen bonds",
+        "Covalent modification",
+        "Polymerisation"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-132",
+      "question": "Which of the following is not having an apoenzyme and coenzyme?",
+      "options": [
+        "Lactate dehydrogenase",
+        "Succinate dehydrogenase",
+        "Malate dehydrogenase",
+        "Pepsin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-133",
+      "question": "Pyruvate dehydrogenase is a/an",
+      "options": [
+        "Isomerase",
+        "Lyase",
+        "Ligase",
+        "Oxidoreductase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-134",
+      "question": "The rate of most enzyme catalysed reactions changes with pH. As the pH increases, this rate",
+      "options": [
+        "reaches a minimum, then increases",
+        "reaches a maximum, then decreases",
+        "increases",
+        "decreases"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-135",
+      "question": "A substrate for the enzyme aldolase is",
+      "options": [
+        "galactose-6-phosphate",
+        "isocitric acid",
+        "Glucose-1-phosphate",
+        "Fructose-1,6-diphosphate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-136",
+      "question": "Wich of the enzymes catalyzes the following reaction? 2H2O2 → 2H2O + O2",
+      "options": [
+        "Peroxidase",
+        "Catalase",
+        "Dehydrogenase",
+        "Copper-containing oxidase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-137",
+      "question": "Urease is a",
+      "options": [
+        "Lyase",
+        "Ligase",
+        "Isomerase",
+        "Hydrolase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-138",
+      "question": "The inhibition of succinate dehydrogenase by malonate is an example of:",
+      "options": [
+        "Competitive inhibition",
+        "Non-competitive inhibition",
+        "Uncompetitive inhibition",
+        "Feedback inhibition"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-139",
+      "question": "An enzyme in saliva which hydrolyzes starch is",
+      "options": [
+        "Pepsinogen",
+        "Chymotrysin",
+        "α-Amylase",
+        "Sucrase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-140",
+      "question": "Coenzymes functions are:",
+      "options": [
+        "Transfer of atoms or groups",
+        "Enhancing the specificity of the apoenzyme",
+        "Stabilization of enzyme conformation",
+        "Activating the substrate",
+        "Formation of additional bonds between substrate and enzyme",
+        "Transfer of electrons or protons"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-141",
+      "question": "The Michaehis-Menten hypothesis:",
+      "options": [
+        "Postulates the formation of an enzyme-substrate complex",
+        "Enables to calculate the enzyme concentration",
+        "States that the rate of a chemical reaction gradually increases when the substrate concentration increases",
+        "States that the reaction rate is proportional to substrate concentration"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-142",
+      "question": "An enzyme which brings about lysis of bacterial cell wall is",
+      "options": [
+        "Amylase",
+        "Lysozyme",
+        "Trypsin",
+        "Lipase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-143",
+      "question": "Multiple forms of an enzyme catalyzing the same reaction are known as",
+      "options": [
+        "Zymogens",
+        "Isoenzymes",
+        "Proenzymes",
+        "Pre-enzymes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-144",
+      "question": "An allosteric enzyme influences the enzyme activity by",
+      "options": [
+        "Competiting for the catalytic site with the substrate",
+        "Changing the specificity of the enzyme for the substrate",
+        "Changing the conformation of the enzyme by binding to a site other than catalytic site",
+        "Changing the nature of the products formed"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-145",
+      "question": "Which of the following regulatory reactions involves a reversible covalent modification of an enzyme?",
+      "options": [
+        "Phosphorylation of serine OH of the enzyme",
+        "Allosteric modulation",
+        "Competitive inhibition",
+        "Non-competitive inhibition"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-146",
+      "question": "Which of the following statements is true?",
+      "options": [
+        "Enzymes have names ending ase",
+        "Enzymes are highly specific in their action",
+        "Enzymes are oligomeric proteins",
+        "Enzymes get activated on heating"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-147",
+      "question": "Which of the following is not true regarding enzymes?",
+      "options": [
+        "They catalyze only a particular type of reaction",
+        "They remain active even after separation from the source",
+        "They are destroyed after the completion of the reaction they catalyse",
+        "They are irreversibly destroyed at high temperature",
+        "Their activity depends on the pH of the solution"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-148",
+      "question": "LDH assays are most useful in diagnosing diseases of the",
+      "options": [
+        "Heart",
+        "Pancreas",
+        "Brain",
+        "Kidney"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-149",
+      "question": "The shape of an enzyme and consequently its activity can be reversibly altered from moment to moment by",
+      "options": [
+        "Heat",
+        "Amino acid substrate",
+        "Allosteric subunits",
+        "Sulfur substitutions"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-150",
+      "question": "An enzyme promotes a chemical reaction by",
+      "options": [
+        "Lowering the energy of activation",
+        "Causing the release of heat which acts as a primer",
+        "Increasing molecular motion",
+        "Changing the free energy difference between substrate and product"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-151",
+      "question": "An enzyme catalyzes the conversion of an aldose sugar to a ketose sugar would be classified as one of the",
+      "options": [
+        "Transferases",
+        "Isomerases",
+        "Oxido reductases",
+        "Hydrolases"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-152",
+      "question": "The function of an enzyme is to",
+      "options": [
+        "Cause chemical reactions that would not otherwise take place",
+        "Change the rates of chemical reactions",
+        "Control the equilibrium points of reactions",
+        "Change the directions of reactions"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-153",
+      "question": "Enzyme deficient in Hyperammonemia type II is",
+      "options": [
+        "Glutamine synthetase",
+        "Glutaminase",
+        "Ornithine transcarbamoylase",
+        "Carbamoylphosphate synthetase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-154",
+      "question": "Phosphorylase a +2H2O → phosphorylase b + 2Pi Which of the following is false about this reaction?",
+      "options": [
+        "Phosphorylase a is less active and phosphorylase b is more active",
+        "Glycogen phosphorylase catalyzes this reaction",
+        "Phosphorylase b can be transformed back into phosphorylase a by phosphorylase kinase",
+        "Phosphorylase kinase catalyzes the transfer of phosphoryl groups from ATP to Phosphorylase b"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-155",
+      "question": "All the following are coenzymes except",
+      "options": [
+        "CoA",
+        "NAD+",
+        "FAD",
+        "Zn2+"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-156",
+      "question": "Which of the following is not a cofactor?",
+      "options": [
+        "Mg",
+        "Iron",
+        "Cu",
+        "Methylcobalamine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-157",
+      "question": "Which of the following properties does a competitive inhibitor of an enzyme have?",
+      "options": [
+        "It is frequently a feedback inhibitor",
+        "It becomes covalently attached to an enzyme",
+        "It decreases the Vmax",
+        "It interferes with substrate binding to the enzyme"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-158",
+      "question": "The Michaelis constant, Km is",
+      "options": [
+        "Numerically equal to ½ Vmax",
+        "Dependent on the enzyme concentration",
+        "Independent of pH",
+        "Numerically equal to the substrate concentration that gives half maximal velocity"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-159",
+      "question": "Which one of the following statements is not characteristic of allosteric enzymes?",
+      "options": [
+        "They frequently catalyze a committed step early in a metabolic pathway",
+        "They are often composed of subunits",
+        "Their activity is decreased by competitive inhibitors",
+        "They frequently show cooperativity for substrate binding"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-160",
+      "question": "How many types of protomers are present in normal LDH?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-161",
+      "question": "‘Lock’ and ‘Key’ theory was proposed by",
+      "options": [
+        "Michaelis",
+        "Fischer",
+        "Koshland",
+        "Menten"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-162",
+      "question": "Which of the following is a component of a coenzyme?",
+      "options": [
+        "Zn2+",
+        "Vitamin B2",
+        "Lysine",
+        "Fe2+"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-163",
+      "question": "The active site of an enzyme is formed by",
+      "options": [
+        "Polar and charged radicals of amino acids",
+        "Amide groups of the amino acids",
+        "Indole groups of the amino acids",
+        "Exposed sulfur bonds"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-164",
+      "question": "Allosteric enzymes contain",
+      "options": [
+        "Multiple subunits",
+        "Single chain",
+        "Two chains",
+        "Three chains"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-165",
+      "question": "Enzymes are required in traces because they",
+      "options": [
+        "Have high turnover number",
+        "Remain unused at the end of reaction and are reused",
+        "Show cascade effect",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-166",
+      "question": "An organic substance bound to an enzyme and essential for the activity of enzyme is called",
+      "options": [
+        "Holoenzyme",
+        "Apoenzyme",
+        "Coenzyme",
+        "Isoenzyme"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-167",
+      "question": "Zymogen is a",
+      "options": [
+        "Vitamin",
+        "Enzyme precursor",
+        "Modulator",
+        "Hormone"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-168",
+      "question": "Cofactor is",
+      "options": [
+        "Inorganic part loosely attached",
+        "Accessory non-protein substance attached firmly",
+        "Organic part attached loosely",
+        "Vitamine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-169",
+      "question": "Enzymes are different from inorganic catalysts in",
+      "options": [
+        "Having high catalytic activity",
+        "Not consumed in reaction",
+        "Functional at rather low temperature",
+        "Having high specificity",
+        "Easily regulated"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-170",
+      "question": "Enzymes, vitamins and hormones are common in",
+      "options": [
+        "Being proteinaceous",
+        "Being synthesized in the body of organisms",
+        "Enhancing oxidative metabolism",
+        "Regulating metabolism"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-171",
+      "question": "Combination of apoenzyme and coenzyme produces",
+      "options": [
+        "Prosthetic group",
+        "Holoenzyme",
+        "Enzyme-substrate complex",
+        "Enzyme-product complex"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-172",
+      "question": "Coenzyme is",
+      "options": [
+        "Often a vitamin",
+        "Always an inorganic compound",
+        "Always a protein",
+        "Often a metal"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-173",
+      "question": "Detection of enzymes in biological material is based on their",
+      "options": [
+        "High specificity",
+        "High catalytic activity",
+        "Protein nature",
+        "pH dependence"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-174",
+      "question": "Detection of enzyme presence is possible due to estimation of",
+      "options": [
+        "Change in substrate concentration",
+        "Change in product concentration",
+        "Change in coenzyme optical properties",
+        "Change in enzyme concentration"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-175",
+      "question": "Units of enzyme activity are",
+      "options": [
+        "Katal",
+        "International Unit",
+        "Turnover number",
+        "Relative activity",
+        "Absolute activity"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-176",
+      "question": "Hexokinase (Glucose + ATP → Glucose-6–P + ADP) belongs to the category:",
+      "options": [
+        "Transferases",
+        "Lyases",
+        "Oxidoreductases",
+        "Isomerases"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-177",
+      "question": "The energy required to start an enzymatic reaction is called",
+      "options": [
+        "Chemical energy",
+        "Metabolic energy",
+        "Activation energy",
+        "Potential energy"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "enzyme-178",
+      "question": "In cell, digestive enzymes are found mainly in",
+      "options": [
+        "Vacuoles",
+        "Lysosomes",
+        "Ribosomes",
+        "Peroxisomes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}
