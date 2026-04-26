@@ -1,0 +1,2890 @@
+{
+  "title": "Carbohydrates Chemistry and Metabolism MCQ",
+  "questions": [
+    {
+      "id": "carb-1",
+      "question": "Which of the following enzyme is not involved in galactose metabolism?",
+      "options": [
+        "Glucokinase",
+        "Galactokinase",
+        "Galactose-1-Phosphate Uridyl transferase",
+        "UDP-Galactose 4- epimerase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-2",
+      "question": "Which of the following enzyme is defective in galactosemia- a fatal genetic disorder in infants?",
+      "options": [
+        "Glucokinase",
+        "Galactokinase",
+        "Galactose-1-Phosphate Uridyl transferase",
+        "UDP-Galactose 4- epimerase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-3",
+      "question": "In liver, the accumulation of which of the following metabolite attenuates the inhibitory of phosphofructokinase?",
+      "options": [
+        "Glucose-6-Phosphate",
+        "Citrate",
+        "Fructose-1,6-Bisphosphate",
+        "Fructose-2,6-Bisphosphate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-4",
+      "question": "Mutation in which of the following enzymes leads to a glycogen storage disease known as Tarui’s disease?",
+      "options": [
+        "Glucokinase",
+        "Phosphofructokinase",
+        "Phosphoglucomutase",
+        "Pyruvate Kinase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-5",
+      "question": "Erythrocytes undergo glycolysis for production of ATP. The deficiency of which enzyme leads to hemolytic anemia?",
+      "options": [
+        "Glucokinase",
+        "Phosphofructokinase",
+        "Phosphoglucomutase",
+        "Pyruvatekinase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-6",
+      "question": "Which of the following glucose transporter (GLUT) are important in insulin-dependent glucose uptake?",
+      "options": [
+        "GLUT1",
+        "GLUT2",
+        "GLUT3",
+        "GLUT4"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-7",
+      "question": "Which of the following glucose transporter (GLUT) is present in beta cells of the pancreas?",
+      "options": [
+        "GLUT1",
+        "GLUT2",
+        "GLUT3",
+        "GLUT4"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-8",
+      "question": "Which of the following glucose transporter (GLUT) is important in fructose transport in the intestine?",
+      "options": [
+        "GLUT1",
+        "GLUT3",
+        "GLUT5",
+        "GLUT7"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-9",
+      "question": "Which of the following metabolite activates pyruvate kinase?",
+      "options": [
+        "Fructose-1,6-Bisphosphate",
+        "Citrate",
+        "Acetyl CoA",
+        "Alanine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-10",
+      "question": "Which of the following glycolytic enzyme is inhibited by accumulation of long chain fatty acid in the liver?",
+      "options": [
+        "Hexokinase",
+        "Glucokinase",
+        "Phosphofructokinase",
+        "Pyruvate kinase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-11",
+      "question": "Which of the following hormone decreases blood glucose and increases uptake of glucose in various tissues like skeletal muscle, adipose tissue?",
+      "options": [
+        "Glucagon",
+        "Epinephrine",
+        "Cortisol",
+        "Insulin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-12",
+      "question": "Which of the following statement is true?",
+      "options": [
+        "Glycolysis occurs only in mammalian cells",
+        "Glycolysis occurs in mitochondria",
+        "Glycolysis occurs in presence and absence of oxygen",
+        "Glycolysis occurs when ATP concentration is high"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-13",
+      "question": "What is the rate-limiting step in glycolysis?",
+      "options": [
+        "Hexokinase",
+        "Phosphohexose isomerase",
+        "Glyceraldehyde-3-phosphate dehydrogenase",
+        "Enolase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-14",
+      "question": "The net gain of ATP during conversion of glucose to pyruvate is:",
+      "options": [
+        "1 ATP",
+        "2 ATP",
+        "1 ATP +1 GTP",
+        "4 ATP"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-15",
+      "question": "During the conversion of glucose to pyruvate, two NADH molecules are generated. Which of the following steps generates NADH?",
+      "options": [
+        "Conversion of fructose-6-phosphate to fructose-1-6-bisphosphate",
+        "Conversion of glyceraldehyde-3-phosphate to 1,3-bisphosphoglycerate",
+        "Conversion of 3-phosphoglycerate to 2-phosphoglycerate",
+        "Conversion of phosphoenolpyruvate to pyruvate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-16",
+      "question": "Which of the following steps of glycolysis are irreversible?",
+      "options": [
+        "Conversion of glucose to glucose-6-phosphate",
+        "Conversion of fructose-6-phosphate to fructose-1,6-bisphosphate",
+        "Conversion of glyceraldehydes-3-phosphate to 1-3-bisphosphoglycerate",
+        "Conversion of 3-phosphoglycerate to 2-phosphoglycerate"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-17",
+      "question": "Glycolysis consists of three irreversible steps. Which of the following enzyme catalyzed reaction are not irreversible steps in glycolysis?",
+      "options": [
+        "Hexokinase",
+        "Phosphofructokinase",
+        "Glyceraldehyde-3-phosphate kinase",
+        "Pyruvate kinase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-18",
+      "question": "Tick the negative regulators (inhibitors) of phosphofructokinase:",
+      "options": [
+        "ATP",
+        "AMP",
+        "Citrate",
+        "pH"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-19",
+      "question": "Which of the following step is inhibited by sodium fluoride?",
+      "options": [
+        "Glyceraldehyde-3-phosphate dehydrogenase",
+        "3-phosphoglycerate mutase",
+        "Enolase",
+        "AMP"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-20",
+      "question": "Which of the following enzyme catalyzes the conversion of pyruvate to lactate?",
+      "options": [
+        "Pyruvate reductase",
+        "Lactate reductase",
+        "Lactate dehydrogenase",
+        "Pyruvate dehydrogenase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-21",
+      "question": "Glucokinase is an isoenzyme of hexokinase that has high Km and Vmax. Which of the following organ expresses glucokinase?",
+      "options": [
+        "Kidney",
+        "Muscle",
+        "Liver",
+        "Brain"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-22",
+      "question": "Gluconeogenesis is:",
+      "options": [
+        "Synthesis of glucose from non-carbohydrate compounds",
+        "Synthesis of glycogen from non-carbohydrate compounds",
+        "Synthesis of glucose from pentoses",
+        "Glucose oxidation"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-23",
+      "question": "Which of the following compounds are substrates for gluconeogenesis?",
+      "options": [
+        "Lactate",
+        "Alanine",
+        "Glycerol",
+        "Acetyl-CoA",
+        "Propionyl-CoA"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-24",
+      "question": "Gluconeogenesis occurs in liver and kidney. Which of the following enzymes is important for gluconeogenesis and is expressed exclusively in these tissues?",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Fructose-1,6-Bisphosphatase",
+        "Phosphoenolpyruvate carboxykinase",
+        "Pyruvate carboxylase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-25",
+      "question": "During gluconeogenesis, the three irreversible steps of glycolysis have to be bypassed. The first step is the conversion of pyruvate to phosphoenolpyruvate. Which of the following statement is false regarding the reaction step?",
+      "options": [
+        "This reaction involves two-step process catalyzed by pyruvate carboxylase and phosphoenolpyruvate carboxykinase",
+        "Conversion of oxaloacetate from pyruvate occurs in mitochondria and shuttled into the cytosol",
+        "Formation of phosphoenolpyruvate requires both ATP and GTP as an energy source",
+        "Acetyl-CoA is an activator of enzyme pyruvate carboxylase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-26",
+      "question": "During gluconeogenesis, the three irreversible steps of glycolysis have to be bypassed. The final step is the conversion of glucose-6-P to glucose that is catalyzed by glucose-6-phosphatase. Which of the following statement is true about the reaction step?",
+      "options": [
+        "Conversion of glucose-6-phosphate to glucose releases one ATP molecule",
+        "It is highly active enzyme in skeletal muscle",
+        "Defect in glucose-6-phosphatase leads to abnormal accumulation of glycogen in liver",
+        "The reaction occurs in mitochondria"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-27",
+      "question": "Which of the following statement is true about Cori Cycle?",
+      "options": [
+        "The Cori cycle involves three tissues muscle, liver and brain",
+        "It involves transport of lactate from liver to skeletal tissue for gluconeogenesis",
+        "It involves transport of lactate from skeletal muscle to liver for gluconeogenesis",
+        "It is active during resting stages and well-fed condition"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-28",
+      "question": "During prolong starvation, which of the following hormone is responsible for increasing gluconeogenesis in liver?",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "TSH",
+        "Thyroxine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-29",
+      "question": "Which of the following step is common in glycolysis and pentose phosphate pathway?",
+      "options": [
+        "Conversion of glucose to glucose-6-P",
+        "Conversion of glucose-6-P to ribose-5-P",
+        "Conversion of glucose-6-P- to fructose-6-P",
+        "Conversion of glucose to glucose-1-P"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-30",
+      "question": "Pentose phosphate pathway is responsible for generating NADPH (reducing equivalents in the cell) in the cell. Which of the following enzyme is involved in generating NADPH?",
+      "options": [
+        "Glucose-6-P oxidase",
+        "Glucose-6-P dehydrogenase",
+        "Glucose-6-P reductase",
+        "Glucose-6-P synthetase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-31",
+      "question": "Which of the following step is the rate-limiting step of the pentose phosphate pathway?",
+      "options": [
+        "Transketolase",
+        "Glucose-6-P dehydrogenase",
+        "Transaldolase",
+        "Phosphogluconate dehydrogenase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-32",
+      "question": "Insulin activates the pentose phosphate pathway. Which of the following enzyme is activated by insulin action?",
+      "options": [
+        "Transketolase",
+        "Glucose-6-P dehydrogenase",
+        "Transaldolase",
+        "Phosphogluconate dehydrogenase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-33",
+      "question": "Which of the following enzyme is used for the diagnosis of thiamine deficiency?",
+      "options": [
+        "Transketolase",
+        "Glucose-6-P dehydrogenase",
+        "Transaldolase",
+        "Phosphogluconate dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-34",
+      "question": "Glucose -6-Phosphate dehydrogenase is allosterically activated by:",
+      "options": [
+        "NADPH",
+        "NADH",
+        "NAD +",
+        "NADP +"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-35",
+      "question": "Glucose-6-Phosphate dehydrogenase is competitively inhibited by:",
+      "options": [
+        "NADPH",
+        "NADP+",
+        "Glucose",
+        "Fructose"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-36",
+      "question": "In some individuals, ingesting fava beans leads to hemolytic anemia. Which of the following enzyme may be deficient in these individuals?",
+      "options": [
+        "Glucose-6-Phosphatase",
+        "Glucose-6-P- dehydrogenase",
+        "Glucose -6-Phosphate Isomerase",
+        "Glycogen phosphorylase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-37",
+      "question": "What is the cause of hemolytic anemia at glucose-6-phosphate DH deficiency?",
+      "options": [
+        "Decreased ATP in erythrocytes",
+        "Decreased free radicals in erythrocytes",
+        "Increased sodium concentration in erythrocytes",
+        "Increased free radicals in erythrocytes"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-38",
+      "question": "The summary equitant of the pentose-phosphate pathway is:",
+      "options": [
+        "6 mol. glucose + 12 NADP ≈ 5 mol. glucose + 6 CO2 + 12 NADPH2",
+        "5 mol. glucose + 12 NADP ≈ 6 mol. glucose + 6 CO2 + 12 NADPH2",
+        "5 mol. glucose + 6 NADP ≈ 5 mol. glucose + 6 CO2 + 6 NADPH2",
+        "5 mol. glucose + 6 NADP ≈ 6 mol. glucose + 6 CO2 + 6 NADPH2"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-39",
+      "question": "The biologycal role of pentose phosphate pathway (PPP) is:",
+      "options": [
+        "PPP is the source of pentoses which are necessary for nucleotide synthesis",
+        "PPP is the source of NADPH2 which is used for synthesis of steroid hormones and fatty acids, detoxication of toxic compounds in the liver, glutathione restitution in erythrocytes",
+        "Utilization of pentose surplus via their transformation into hexoses",
+        "PPP provides energetic function during first year of life",
+        "PPP inhibits phagocytosis",
+        "PPP preserves the transparency of the lenses",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-40",
+      "question": "The glutathione cycle is the conversion of oxidized glutathione to reduced glutathione at the presence of NADPH. Which of the following enzyme catalyzes this reaction?",
+      "options": [
+        "Glutathione peroxidase",
+        "Glutathione peroxidase",
+        "Glutathione reductase",
+        "Glutathione synthetase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-41",
+      "question": "Which of the following is false about glycogen molecules?",
+      "options": [
+        "Glycogen is a polysaccharide",
+        "Glycogen is a polymer of β-D-glucopyranose",
+        "Glycogen consists of α(1,4)- and α (1,6)-glycosidic linkage",
+        "Glycogen has a helical structure with branching"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-42",
+      "question": "Which of the following organs do not have glycogen storage?",
+      "options": [
+        "Liver",
+        "Muscle",
+        "Brain",
+        "Erythrocytes"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-43",
+      "question": "Which of the following enzyme is responsible for glycogen breakdown?",
+      "options": [
+        "Glycogen phosphorylase",
+        "Glycogen phosphatase",
+        "Glycogen hydrolase",
+        "Glycogen phosphoglycosidase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-44",
+      "question": "Liver glycogen contributes to the maintenance of glucose but not muscle glycogen. Which of the following enzyme is absent in muscle?",
+      "options": [
+        "Glycogen phosphorylase",
+        "Hexokinase",
+        "Glucose-6-phosphatase",
+        "Debranching enzyme"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-45",
+      "question": "Which of the enzyme is responsible for the hydrolysis of α-1,6-glycosidic bond present at a branching point of glycogen molecules?",
+      "options": [
+        "β-Glucosidase",
+        "α- Glucosidase",
+        "Glycosidase",
+        "Phosphorylase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-46",
+      "question": "Glycogen phosphorylase is responsible for the breakdown of glycogen to:",
+      "options": [
+        "Glucose",
+        "Glucose-1-phosphate",
+        "Glucose-6-phosphate",
+        "Maltose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-47",
+      "question": "Which of the following metabolite allosterically activates glycogen phosphorylase?",
+      "options": [
+        "ATP",
+        "cAMP",
+        "Glucose-6-P",
+        "Glucose-1-P"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-48",
+      "question": "Which of the following metabolites allosterically inhibit glycogen phosphorylase?",
+      "options": [
+        "Free glucose",
+        "cAMP",
+        "Glucose-6-P",
+        "Glucose-1-P"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-49",
+      "question": "Which of the following hormones activate glycogen phosphorylase?",
+      "options": [
+        "Epinephrine",
+        "Norepinephrine",
+        "Glucagon",
+        "Insulin"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-50",
+      "question": "Which of the following hormones inhibits glycogen degradation?",
+      "options": [
+        "Epinephrine",
+        "Norepinephrine",
+        "Glucagon",
+        "Insulin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-51",
+      "question": "In response to glucagon and epinephrine, cells undergo a series of changes in signal-transducing molecules that phosphorylates and activates glycogen phosphorylase. Which of the following enzyme is responsible for covalent modification of glycogen phosphorylase?",
+      "options": [
+        "Protein kinase A",
+        "Phosphorylase kinase",
+        "Protein kinase C",
+        "Protein kinase B"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-52",
+      "question": "Which of the following is not the direct/ indirect activator of glycogen phosphorylase in muscle?",
+      "options": [
+        "AMP",
+        "Ca++",
+        "Epinephrine",
+        "Insulin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-53",
+      "question": "Which of the following enzyme is responsible for the addition of UDP-Glucose to the existing chain during glycogen synthesis?",
+      "options": [
+        "Glycogen synthase",
+        "Glycogen polymerase",
+        "Glycogen synthetase",
+        "Glyocogen lyase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-54",
+      "question": "All the following enzymes are involved in glycogen synthesis except:",
+      "options": [
+        "Glucokinase",
+        "Phosphoglucomutase",
+        "UDP-glucose pyrophosphorylase",
+        "Glycogen synthetase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-55",
+      "question": "Which of the following enzymes are involved in glycogen synthesis?",
+      "options": [
+        "Glucokinase",
+        "Phosphoglucomutase",
+        "UDP-glucose pyrophosphorylase",
+        "Glycogen synthetase"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-56",
+      "question": "Which of the following statement is false regarding glycogenesis?",
+      "options": [
+        "Glycogen synthase is activated in the phosphorylated state",
+        "Glycogen synthase enzyme is inhibited by glucagon and epinephrine action",
+        "Protein phosphatase removes the phosphate group and activates the enzyme",
+        "Insulin promotes glycogen synthesis in liver and skeletal muscles"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-57",
+      "question": "Marked hypoglycemia leads to clinical symptoms characterizing brain function disorder. Which process increase can be the reason of hypoglycemia?",
+      "options": [
+        "Glucose oxidation in tissues",
+        "Glycogen synthesis",
+        "Gluconeogenesis",
+        "Synthesis of lipids from glucose"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-58",
+      "question": "Glycolysis is the major type of glucose catabolism in a number of tissues. What is the biologic role of this process?",
+      "options": [
+        "Energetic",
+        "Structural",
+        "Mutual conversion of monosugars",
+        "Involving carbohydrates to Kreb's cycle"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-59",
+      "question": "Glycosaminoglycans are included in carbohydrate class. Which of listed statements characterize their structure?",
+      "options": [
+        "Branched polysaccharides",
+        "Oligosaccharides",
+        "Linear heteropolysaccharides",
+        "Disaccharides",
+        "Contain monosaccharides fragments only"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-60",
+      "question": "Human ingests about 400 g of carbohydrates daily. Which functions do carbohydrates fulfill in human body?",
+      "options": [
+        "Transporting",
+        "Structural",
+        "Receptor",
+        "Energetic"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-61",
+      "question": "Diabetes mellitus is followed with significant disorder of metabolism. Tick the metabolical disturbances which are the most typical for diabetes mellitus:",
+      "options": [
+        "Hyperglycemia",
+        "Hypoglycemia",
+        "Glucosuria",
+        "Ketonuria",
+        "Hypoproteinemia",
+        "Thurst",
+        "Damage of blood vessels"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-62",
+      "question": "Galactosemia is followed with damage of brain, liver, spleen and other organs in children. Which enzyme is defected in galactosemia?",
+      "options": [
+        "Fructoso-1,6-diphosphate aldolasе",
+        "Galactokinase",
+        "Hexoso-1-phosphate uridyl-transferase",
+        "Hexosophosphate isomerase",
+        "Phosphorylase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-63",
+      "question": "Dietary polysaccharides undergo digestion in gastro-intestinal tract. What does this process mean?",
+      "options": [
+        "Splitting to water and carbon dioxide",
+        "Hydrolytic splitting to monosaccharides",
+        "Splitting to lactate",
+        "Phosphorolytic splitting",
+        "Splitting to acetyl-Co A"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-64",
+      "question": "Sucrose intolerance in children is followed with dyspeptic disturbances and weight insufficiency. What is the reason of this disease?",
+      "options": [
+        "Lack in sucrase activity",
+        "Lack in hexokinase activity",
+        "Lack in fructokinase activity",
+        "Decrease of amylase activity",
+        "Decrease of lactase activity"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-65",
+      "question": "Plant food is rich in starch. Tick substance formed in complete starch digestion:",
+      "options": [
+        "Amylose",
+        "Fructose",
+        "Glucose",
+        "Ribose",
+        "Sucrose"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-66",
+      "question": "Plant food is rich in starch. Tick substances formed in incomplete starch digestion:",
+      "options": [
+        "Amylose",
+        "Fructose",
+        "Glucose",
+        "Maltose",
+        "Sucrose"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-67",
+      "question": "Dietary polysaccharides undergo hydrolytic splitting in gastro-intestinal tract. Which enzymes participate in carbohydrate digestion?",
+      "options": [
+        "Salivary amylase",
+        "Pancreatic amylase",
+        "Pancreatic lipase",
+        "Trypsin",
+        "Pepsin"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-68",
+      "question": "Where does the carbohydrates digestion begin?",
+      "options": [
+        "Mouse",
+        "Pancreas",
+        "Stomach",
+        "Duodenum",
+        "Small intestine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-69",
+      "question": "Blood glucose level is regulated by several hormones. Choose the hormone decreasing blood glucose:",
+      "options": [
+        "Adrenalin",
+        "Thyroxin",
+        "Glucocorticoids",
+        "Insulin",
+        "Glucagon"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-70",
+      "question": "Glycogen store plays significant role in maintenance of blood glucose constancy. Tick the hormones enhancing glycogen synthesis:",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Adrenalin",
+        "Androgens",
+        "Mineralocorticoids"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-71",
+      "question": "Glucose is oxidized in tissues by different ways dependently on oxygen uptake. Which statement characterizes the matter of anaerobic glucose oxidation?",
+      "options": [
+        "Partial glucose oxidation to lactate",
+        "Glucose oxidation in oxygen absence",
+        "Glucose oxidation to water and carbon dioxide",
+        "Glucose oxidation to acetyl-Co A",
+        "Glucose oxidation in oxygen presence"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-72",
+      "question": "Aerobic glucose oxidation fulfills energetic function. What is the energetical efficiency of aerobic oxidation of 1 glucose molecule (in ATP quantity and % of energy intake)?",
+      "options": [
+        "36 molecules ATP per 1 molecule glucose",
+        "2 molecules ATP per 1 molecule glucose",
+        "Nearly 50% energy of complete glucose oxidation in vitro",
+        "2% energy of complete glucose oxidation in vitro",
+        "10% energy of complete glucose oxidation in vitro"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-73",
+      "question": "The key reaction of liver glycogen degradation is glucose-1-phosphate formation. Which enzyme catalyzes glucose-1-phosphate formation from glycogen?",
+      "options": [
+        "Hexokinase",
+        "Phosphoglucomutase",
+        "Phosphorylase",
+        "Phosphatase",
+        "Amylase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-74",
+      "question": "In several tissues pentose-phosphate pathway is the main way of glucose splitting. Which of the following function does this pathway fulfill?",
+      "options": [
+        "Supplying the organism with energy",
+        "Source of pentoses in tissues",
+        "Promotes acetyl-CoA utilization",
+        "Provides cells with NADPH",
+        "Serves as a source of Kreb's cycle (TAC) metabolites"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-75",
+      "question": "Generally gluconeogenesis represents process reversed from glycolysis. However several stages are irreversible. Which of listed below stages of glycolysis are referred to irreversible?",
+      "options": [
+        "Conversion of phosphodioxyacetone to 3-phosphoglyceraldehyde",
+        "Conversion of phosphoenolpyruvate to pyruvate",
+        "Conversion of glucose to glucose-1-phosphate",
+        "Conversion of glucose to glucose-6-phosphate",
+        "Conversion of fructose-6-phosphate to fructose-1,6-diphosphate"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-76",
+      "question": "Important components of plant food are cellulose and other food fibers. What does their biologic role consist of?",
+      "options": [
+        "Energetic",
+        "Substrates for microflora of large intestine",
+        "Stimulators of intestine mobility",
+        "Structural",
+        "Adsorption of toxic compounds"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-77",
+      "question": "In some normal and pathologic conditions blood glucose is markedly increased. The intensification of which processes can be the reason of hyperglycemia?",
+      "options": [
+        "Glycogen synthesis",
+        "Glucose absorption from intestine",
+        "Glycogen degradation",
+        "Gluconeogenesis (glucose formation anew)"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-78",
+      "question": "Glycosaminoglycans are included in heteropolysaccharides class. Which of listed substances are the units of their structure?",
+      "options": [
+        "Aminosugars",
+        "Pentoses",
+        "Hexuronic acids",
+        "Glycogen",
+        "Hexosophosphates",
+        "Sulpho-derevatives of hexoses and aminosugars"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-79",
+      "question": "Glycosaminoglycans are the major components of extracellular substance of connective tissue. Which biologic functions do glycosaminoglycans fulfill?",
+      "options": [
+        "Energetical",
+        "Structural",
+        "Participation in water distribution in the bodу",
+        "Receptors",
+        "Immune defense"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-80",
+      "question": "Gluconeogenesis (glucose formation anew) is the main source of glucose in tissues. Which tissue is this process the most active in?",
+      "options": [
+        "Liver",
+        "Muscles",
+        "Myocardium",
+        "Erythrocytes",
+        "Adipose tissue"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-81",
+      "question": "Insufficient activity of fructose metabolism enzymes in children is followed with severe clinical symptoms. Which enzyme is defected in fructose intolerance?",
+      "options": [
+        "Hexokinase",
+        "Phosphofructokinase",
+        "Phosphorylase",
+        "Fructose-1-phosphate aldolase",
+        "Fructose-1,6-diphosphate aldolase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-82",
+      "question": "Concentrations of different carbohydrates in blood are distinct. Which of listed below carbohydrates is contained in blood in the highest concentration?",
+      "options": [
+        "Glycogen",
+        "Sialic acids",
+        "Glucose",
+        "Fructose",
+        "Galactose"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-83",
+      "question": "Some carbohydrates and products of their digestion undergo absorption. Which of listed below carbohydrates can be absorbed in intestine?",
+      "options": [
+        "Glucose",
+        "Lactose",
+        "Fructose",
+        "Maltose",
+        "Galactose"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-84",
+      "question": "Some carbohydrates and products of their digestion undergo absorption. Which of listed below carbohydrates cannot be absorbed in intestine?",
+      "options": [
+        "Pentoses",
+        "Lactose",
+        "Fructose",
+        "Maltose",
+        "Galactose"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-85",
+      "question": "Some people suffer from dyspepsia when they intake fresh milk containing milk sugar (lactose). What is the reason of lactose intolerance?",
+      "options": [
+        "Decrease of galactokinase activity",
+        "Decrease of hexose-1-phosphate uridyltransferase activity",
+        "Decrease of intestinal lactase activity",
+        "Decrease of sucrase activity",
+        "Decrease of amylase activity"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-86",
+      "question": "Blood glucose level is the most important constant of blood. Which diapason of blood glucose changes is normal?",
+      "options": [
+        "2.0-8.0 mmol/L",
+        "3.5-6.2 mmol/L",
+        "8.5-10.5 mmol/L"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-87",
+      "question": "In physiologic conditions blood glucose level is regulated by some hormones. Which of listed hormones enhances blood glucose?",
+      "options": [
+        "Adrenalin",
+        "Thyroxin",
+        "Glucocorticoids",
+        "Insulin",
+        "Glucagon"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-88",
+      "question": "In some physiologic conditions blood glucose replenishment is necessary. It’s provided by enhance of glycogen degradation. Which of listed hormones increases glycogen degradation?",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Glucocorticoids",
+        "Adrenalin",
+        "Mineralocorticoids"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-89",
+      "question": "Anaerobic glucose oxidation is the main source of energy in the beginning of intensive muscle work. How much is energetical efficiency of glycolysis (in ATP quantity and % of energy intake)?",
+      "options": [
+        "2 molecules ATP per 1 molecule glucose",
+        "12 molecules ATP per 1 molecule glucose",
+        "36 molecules ATP per 1 molecule glucose",
+        "50% energy of complete glucose oxidation in vitro",
+        "2% energy of complete glucose oxidation in vitro"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-90",
+      "question": "The main energetically efficient way of glucose oxidation is aerobic splitting. Which of listed answers characterizes the matter of aerobic glucose oxidation?",
+      "options": [
+        "Glucose oxidation to lactate",
+        "Glucose oxidation to carbon dioxide and water",
+        "Glucose oxidation in oxygen absence",
+        "Glucose oxidation in oxygen presence",
+        "Glucose oxidation to acetyl-CoA"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-91",
+      "question": "Aerobic glucose oxidation is the main way of its utilization in number of human tissues. Which of listed answers characterize physiological significance of aerobic glucose oxidation?",
+      "options": [
+        "Low efficient way of energy obtaining for work",
+        "High efficient way of energy obtaining for work",
+        "Isn’t involved in energy turnover",
+        "It’s followed by glycogen synthesis",
+        "It’s followed by synthesis of high quantity of ATP"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-92",
+      "question": "Glucose-6-phosphate dehydrogenase is the key enzyme of pentose-phosphate pathway. Decrease of its activity is the reason of one type of hemolytic anemia. Which of listed compounds is the coenzyme of glucose-6-phosphate dehydrogenase?",
+      "options": [
+        "NAD+",
+        "FMN",
+        "NADP+",
+        "Thiamin diphosphate",
+        "FAD"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-93",
+      "question": "Choose the processes involved in Cori cycle?",
+      "options": [
+        "Lactate transport from muscles to liver",
+        "Glycogen degradation in liver",
+        "Glucose transport from liver to muscles",
+        "Gluconeogenesis in liver",
+        "Anaerobic glycolysis in muscles",
+        "Aerobic glycolysis in muscles"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-94",
+      "question": "Glucuronic acid is actively synthesized in some tissues. What is its biological function?",
+      "options": [
+        "Structural component of glycosaminoglycans (GAGs)",
+        "Antitoxic function",
+        "Energetic role",
+        "Using in lactose synthesis",
+        "Using in glycogen synthesis"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-95",
+      "question": "The aldose sugar is:",
+      "options": [
+        "Glycerose",
+        "Ribulose",
+        "Erythrulose",
+        "Dihydoxyacetone"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-96",
+      "question": "A triose sugar is:",
+      "options": [
+        "Glycerose",
+        "Ribose",
+        "Erythrose",
+        "Fructose"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-97",
+      "question": "Tick the pentose sugars:",
+      "options": [
+        "Dihydroxyacetone",
+        "Ribulose",
+        "Erythrose",
+        "Glucose",
+        "Xylose"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-98",
+      "question": "Polysaccharides are:",
+      "options": [
+        "Polymers",
+        "Acids",
+        "Proteins",
+        "Oils"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-99",
+      "question": "Two sugars which differ from one another only in configuration around a single carbon atom are termed:",
+      "options": [
+        "Epimers",
+        "Anomers",
+        "Optical isomers",
+        "Stereoisomers"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-100",
+      "question": "The most important epimer of glucose is:",
+      "options": [
+        "Galactose",
+        "Fructose",
+        "Arabinose",
+        "Xylose"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-101",
+      "question": "α-D-glucopyranose and β-D-glucopyranose are:",
+      "options": [
+        "Stereoisomers",
+        "Epimers",
+        "Anomers",
+        "Keto-aldo pairs"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-102",
+      "question": "Compounds having the same structural formula but differing in spatial configuration are known as:",
+      "options": [
+        "Stereoisomers",
+        "Optical isomers",
+        "Anomers",
+        "Epimers"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-103",
+      "question": "The carbohydrate of the blood group substances is:",
+      "options": [
+        "Sucrose",
+        "Fucose",
+        "Arabinose",
+        "Maltose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-104",
+      "question": "The sugar found in DNA is:",
+      "options": [
+        "Xylose",
+        "Ribose",
+        "Deoxyribose",
+        "Ribulose"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-105",
+      "question": "The sugar found in RNA is:",
+      "options": [
+        "Ribose",
+        "Deoxyribose",
+        "Ribulose",
+        "Erythrose"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-106",
+      "question": "The sugar found in milk is:",
+      "options": [
+        "Galactose",
+        "Glucose",
+        "Fructose",
+        "Lactose"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-107",
+      "question": "Invert sugar is:",
+      "options": [
+        "Lactose",
+        "Sucrose",
+        "Hydrolytic products of sucrose",
+        "Fructose"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-108",
+      "question": "Sucrose consists of:",
+      "options": [
+        "Glucose + glucose",
+        "Glucose + fructose",
+        "Glucose + galactose",
+        "Glucose + mannose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-109",
+      "question": "Which of the following is a non-reducing sugar?",
+      "options": [
+        "Isomaltose",
+        "Maltose",
+        "Lactose",
+        "Trehalose"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-110",
+      "question": "Which of the following is a reducing sugar?",
+      "options": [
+        "Sucrose",
+        "Trehalose",
+        "Isomaltose",
+        "Agar"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-111",
+      "question": "A polysacchharide which is often called animal starch is:",
+      "options": [
+        "Glycogen",
+        "Starch",
+        "Inulin",
+        "Dextrin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-112",
+      "question": "Which of the following is a heteroglycan?",
+      "options": [
+        "Dextrins",
+        "Agar",
+        "Inulin",
+        "Chitin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-113",
+      "question": "The glycosaminoglycan which does not contain uronic acid is:",
+      "options": [
+        "Dermatan sulphate",
+        "Chondroitin sulphate",
+        "Keratan sulphate",
+        "Heparan sulphate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-114",
+      "question": "The glycosaminoglycan which does not contain uronic acid is:",
+      "options": [
+        "Hyaluronic acid",
+        "Heparin",
+        "Chondroitin sulphate",
+        "Dermatan sulphate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-115",
+      "question": "Keratan sulphate is found in abundance in:",
+      "options": [
+        "Heart muscle",
+        "Liver",
+        "Adrenal cortex",
+        "Cornea"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-116",
+      "question": "Repeating units of hyaluronic acid are:",
+      "options": [
+        "N-acetyl glucosamine and D-glucuronic acid",
+        "N-acetyl galactosamine and D-glucuronic acid",
+        "N-acetyl glucosamine and galactose",
+        "N-acetyl galactosamine and L- iduronic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-117",
+      "question": "Glucose at oxidation does not give:",
+      "options": [
+        "Glycoside acid",
+        "Glucaric acid",
+        "Gluconic acid",
+        "Glucuronic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-118",
+      "question": "Starch is a:",
+      "options": [
+        "Polysaccharide",
+        "Disaccharide",
+        "Monosaccharide",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-119",
+      "question": "A positive Seliwanoff’s test is obtained with:",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Lactose",
+        "Maltose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-120",
+      "question": "The most abundant carbohydrate found in nature is:",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-121",
+      "question": "Maltose can be formed by hydrolysis of:",
+      "options": [
+        "Starch",
+        "Dextrin",
+        "Glycogen",
+        "Lactose",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-122",
+      "question": "α–D–Glucuronic acid is present in:",
+      "options": [
+        "Hyaluronic acid",
+        "Chondroitin sulphate",
+        "Heparin",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-123",
+      "question": "Fructose is present in hydrolysate of:",
+      "options": [
+        "Sucrose",
+        "Inulin",
+        "Keratan sulphate",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-124",
+      "question": "Ribulose is:",
+      "options": [
+        "Ketotetrose",
+        "Aldotetrose",
+        "Ketopentose",
+        "Aldopentose"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-125",
+      "question": "A carbohydrate, commonly known as dextrose is:",
+      "options": [
+        "Dextrin",
+        "D-Fructose",
+        "D-Glucose",
+        "Glycogen"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-126",
+      "question": "A carbohydrate, known commonly as invert sugar, is:",
+      "options": [
+        "Fructose",
+        "Sucrose",
+        "Glucose",
+        "Lactose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-127",
+      "question": "A heteropolysacchraide among the following is:",
+      "options": [
+        "Inulin",
+        "Cellulose",
+        "Heparin",
+        "Dextrin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-128",
+      "question": "The predominant form of glucose in solution is:",
+      "options": [
+        "Acyclic form",
+        "Hydrated acyclic form",
+        "Glucofuranose",
+        "Glucopyranose"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-129",
+      "question": "Hyaluronic acid is found in:",
+      "options": [
+        "Joints",
+        "Brain",
+        "Abdomen",
+        "Mouth"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-130",
+      "question": "The smallest monosaccharide having furanose ring structure is:",
+      "options": [
+        "Erythrose",
+        "Ribose",
+        "Glucose",
+        "Fructose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-131",
+      "question": "N–Acetylglucosamnine is present in:",
+      "options": [
+        "Hyaluronic acid",
+        "Chondroitin sulphate",
+        "Heparin",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-132",
+      "question": "Iodine gives red colour with:",
+      "options": [
+        "Starch",
+        "Dextrin",
+        "Glycogen",
+        "Inulin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-133",
+      "question": "Amylose is a constituent of:",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "None of these",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-134",
+      "question": "Synovial fluid contains:",
+      "options": [
+        "Heparin",
+        "Hyaluronic acid",
+        "Chondroitin sulphate",
+        "Keratin sulphate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-135",
+      "question": "Gluconeogenesis is decreased by:",
+      "options": [
+        "Glucagon",
+        "Epinephrine",
+        "Glucocorticoids",
+        "Insulin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-136",
+      "question": "Lactate formed in muscles can be utilised through:",
+      "options": [
+        "Rapoport-Luebeling cycle",
+        "Glucose-alanine cycle",
+        "Cori cycle",
+        "Citric acid cycle"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-137",
+      "question": "Glucose-6-phosphatase is not present in:",
+      "options": [
+        "Liver and kidneys",
+        "Kidneys and muscles",
+        "Kidneys and adipose tissue",
+        "Muscles and adipose tissue"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-138",
+      "question": "Pyruvate carboxylase is regulated by:",
+      "options": [
+        "Induction",
+        "Repression",
+        "Allosteric regulation",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-139",
+      "question": "The highest concentrations of fructose are found in:",
+      "options": [
+        "Aqueous humor",
+        "Vitreous humor",
+        "Synovial fluid",
+        "Seminal fluid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-140",
+      "question": "Glucose uptake by liver cells is:",
+      "options": [
+        "Energy-consuming",
+        "A saturable process",
+        "Insulin-dependent",
+        "Insulin-independent"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-141",
+      "question": "Congenital galactosaemia can lead to:",
+      "options": [
+        "Mental retardation",
+        "Premature cataract",
+        "Death",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-142",
+      "question": "Uridine diphosphate glucose (UDP-glucose) is:",
+      "options": [
+        "Required for metabolism of galactose",
+        "Required for synthesis of glucuronic acid",
+        "A substrate for glycogen synthetase",
+        "Required for synthesis of TAG"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-143",
+      "question": "Catalytic activity of salivary amylase requires the presence of:",
+      "options": [
+        "Chloride ions",
+        "Bromide ions",
+        "Iodide ions",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-144",
+      "question": "The following is actively absorbed in the intestine:",
+      "options": [
+        "Fructose",
+        "Mannose",
+        "Galactose",
+        "None of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-145",
+      "question": "Cori cycle transfers:",
+      "options": [
+        "Glucose from muscles to liver",
+        "Lactate from muscles to liver",
+        "Lactate from liver to muscles",
+        "Pyruvate from liver to muscles"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-146",
+      "question": "Ethanol decreases gluconeogenesis by:",
+      "options": [
+        "Inhibiting glucose-6-phosphatase",
+        "Inhibiting PEP carboxykinase",
+        "Converting NAD+ into NADH and decreasing the availability of pyruvate",
+        "Converting NAD+ into NADH and decreasing the availability of lactate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-147",
+      "question": "Glycogenin is:",
+      "options": [
+        "Uncoupler of oxidative phosphorylation",
+        "Polymer of glycogen molecules",
+        "Protein primer for glycogen synthesis",
+        "Intermediate in glycogen breakdown"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-148",
+      "question": "In the diet of a diabetic patient, the recommended carbohydrate intake should preferably be in the form of:",
+      "options": [
+        "Monosaccharides",
+        "Dissaccharides",
+        "Polysaccharides",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-149",
+      "question": "Obesity increases the risk of:",
+      "options": [
+        "Hypertension",
+        "Diabetes mellitus",
+        "Cardiovascular diseases",
+        "Pyelonephritis",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-150",
+      "question": "Mucopolysaccharides are:",
+      "options": [
+        "Hоmopolysaccharides",
+        "Hetеropolysaccharide",
+        "Proteins",
+        "Amino acids"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-151",
+      "question": "Cellulose is made up of the molecules of:",
+      "options": [
+        "α-glucose",
+        "β-glucose",
+        "Both of the above",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-152",
+      "question": "N-acetylneuraminic acid is an example of:",
+      "options": [
+        "Sialic acid",
+        "Mucic acid",
+        "Glucuronic acid",
+        "Hippuric acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-153",
+      "question": "In place of glucuronic acid chondroitin sulphate B contains:",
+      "options": [
+        "Gluconic acid",
+        "Gulonic acid",
+        "Induronic acid",
+        "Sulphonic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-154",
+      "question": "Hexokinase has a high affinity for glucose than:",
+      "options": [
+        "Fructokinase",
+        "Galactokinase",
+        "Glucokinase",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-155",
+      "question": "Dihydroxyacetone phosphate and glyceraldehyde-3-phosphate are intercoverted by:",
+      "options": [
+        "Triose isomerase",
+        "Phosphotriose isomerase",
+        "Diphosphotriose isomerase",
+        "Dihydroxyacetone phosphorylase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-156",
+      "question": "Galactose is phosphorylated by galactokinase to form:",
+      "options": [
+        "Galactose-6-phosphate",
+        "Galactose-1,6-diphosphate",
+        "Galactose-1-phosphate",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-157",
+      "question": "The conversion of alanine to glucose is termed:",
+      "options": [
+        "Glycolysis",
+        "Oxidative decarboxylation",
+        "Specific dynamic action",
+        "Gluconeogenesis"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-158",
+      "question": "The blood sugar raising action of the hormones of suprarenal cortex is due to:",
+      "options": [
+        "Gluconeogenesis",
+        "Glycogenolysis",
+        "Glucagon-like activity",
+        "Due to inhibition of glomerular filtration"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-159",
+      "question": "Under anaerobic conditions the glycolysis one mole of glucose yields __ moles of ATP:",
+      "options": [
+        "1",
+        "2",
+        "8",
+        "30"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-160",
+      "question": "Which of the following metabolite integrates glucose and fatty acid metabolism?",
+      "options": [
+        "Acetyl-CoA",
+        "Pyruvate",
+        "Citrate",
+        "Lactate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-161",
+      "question": "Cerebrosides consist of mostly of this sugar:",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Galactose",
+        "Arabinose"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-162",
+      "question": "Glucose will be converted into fatty acids if the diet has excess of:",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fat",
+        "Vitamins"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-163",
+      "question": "Pentose production is increased in:",
+      "options": [
+        "HMP shunt",
+        "Uromic acid pathway",
+        "EM pathway",
+        "TCA cycle"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-164",
+      "question": "The following is an enzyme required for glycolysis:",
+      "options": [
+        "Pyruvate kinase",
+        "Pyruvate carboxylase",
+        "Glucose-6-phosphatase",
+        "Glycerokinase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-165",
+      "question": "Our body can get pentoses from:",
+      "options": [
+        "Glycolytic pathway",
+        "Uromic acid pathway",
+        "TCA cycle",
+        "HMP shunt"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-166",
+      "question": "Conversion of glucose to glucose-6phosphate in human liver is by:",
+      "options": [
+        "Hexokinase only",
+        "Glucokinase only",
+        "Hexokinase and glucokinase",
+        "Glucose-6-phosphate phosphatase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-167",
+      "question": "The normal glucose tolerance curve reaches peak in:",
+      "options": [
+        "15 min",
+        "1 hr",
+        "2 hrs",
+        "2 ½ hrs"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-168",
+      "question": "Glucose tolerance is increased at:",
+      "options": [
+        "Diabetes mellitus",
+        "Adrenalectomy",
+        "Acromegaly",
+        "Thyrotoxicosis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-169",
+      "question": "Glucose tolerance is decreased in:",
+      "options": [
+        "Diabetes mellitus",
+        "Hypopituitarisme",
+        "Addison’s disease",
+        "Hypothyroidism"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-170",
+      "question": "During glycolysis, fructose-1,6-diphosphate is decomposed by the enzyme:",
+      "options": [
+        "Enolase a",
+        "Fructokinase",
+        "Aldolase",
+        "Diphosphofructophosphatose"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-171",
+      "question": "The following enzyme is required for the hexose monophosphate shunt pathway:",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Phosphorylase",
+        "Aldolase",
+        "Glucose-6-phosphate dehydrogenase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-172",
+      "question": "Dehydrogenase enzymes of the hexose monophosphate shunt are:",
+      "options": [
+        "NAD+ specific",
+        "NADP+ specific",
+        "FAD specific",
+        "FMN specific"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-173",
+      "question": "Glycogen is converted to glucose-1-phosphate by:",
+      "options": [
+        "UDPG transferase",
+        "Branching enzyme",
+        "Phosphorylase",
+        "Phosphatase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-174",
+      "question": "Which of the following is not the enzyme involved in glycolysis?",
+      "options": [
+        "Enolase",
+        "Aldolose",
+        "Hexokinase",
+        "Glucose oxidase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-175",
+      "question": "Gluconeogenesis is increased at the following conditions:",
+      "options": [
+        "Diabetes insipidus",
+        "Diabetes mellitus",
+        "Hypothyroidism",
+        "Liver diseases"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-176",
+      "question": "Two examples of substrate level phosphorylation in EM pathway of glucose metabolism are in the reactions of:",
+      "options": [
+        "1,3-bisphosphoglycerate and phosphoenol pyruvate",
+        "Glucose-6 phosphate and fructose-6-phosphate",
+        "3-phosphoglyceraldehyde and phosphoenolpyruvate",
+        "1,3-diphosphoglycerate and 2-phosphoglycerate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-177",
+      "question": "Fatty acids cannot be converted into carbohydrates in the body as the following reaction is not possible:",
+      "options": [
+        "Conversion of glucose-6-phosphate into glucose",
+        "Fructose-1,6-bisphosphate to fructose-6-phosphate",
+        "Transformation of acetyl-CoA to pyruvate",
+        "Formation of acetyl-CoA from fatty acids"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-178",
+      "question": "Tissues form lactic acid from glucose. This phenomenon is termed as:",
+      "options": [
+        "Aerobic glycolysis",
+        "Oxidation",
+        "Oxidative phosphorylation",
+        "Anaerobic glycolysis"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-179",
+      "question": "One molecule glucose gives ______ molecules CO2 in one round of HMP shunt:",
+      "options": [
+        "6",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-180",
+      "question": "The 4 rate limiting enzymes of gluconeogenesis are:",
+      "options": [
+        "Glucokinase, Pyruvate carboxylae phosphoenol pyruvate carboxykinase and glucose-6-phosphatase",
+        "Pyruvate carboxylase, phosphoenol pyruvate carboxykinase, fructose-1,6-diphosphatase and glucose-6-phosphatase",
+        "Pyruvate kinase, pyruvate carboxylase, phosphoenol pyruvate carboxykinase and glucose-6-phosphatase",
+        "Phosphofructokinase, pyruvate carboxylase, phosphoenol pyruvate carboxykinase and fructose-1, 6-diphosphatase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-181",
+      "question": "Glucose enters the cells by:",
+      "options": [
+        "insulin independent transport",
+        "insulin dependent transport",
+        "enzyme mediated transport",
+        "all options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-182",
+      "question": "Glycogen while being acted upon by active phosphorylase is converted first to:",
+      "options": [
+        "Glucose",
+        "Glucose 1-phosphate and Glycogen with 1 carbon less",
+        "Glucose-6-phosphate and Glycogen with 1 carbon less",
+        "6-Phosphogluconic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-183",
+      "question": "Reactivation of inactive liver phosphorylase is normally favoured by:",
+      "options": [
+        "Insulin",
+        "Epinephrine",
+        "ACTH",
+        "Glucagon"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-184",
+      "question": "Which of the following reaction gives lactose?",
+      "options": [
+        "UDP-galactose and glucose",
+        "UDP-glucose and galactose",
+        "Glucose and Galactose",
+        "Glucose, Galactose and UTP"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-185",
+      "question": "UDP-glucuronic acid is required for the biosynthesis of:",
+      "options": [
+        "Chondroitin sulphates",
+        "Glycogen",
+        "Lactose",
+        "Starch"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-186",
+      "question": "Tick the conditions which gluconeogenesis is increased at:",
+      "options": [
+        "Diabetes mellitus and atherosclerosis",
+        "Fed condition and thyrotoxicosis",
+        "Diabetes mellitus and starvation",
+        "Alcohol intake and cigarette smoking"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-187",
+      "question": "The total glycogen content of the body is about ______ gms:",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "500"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-188",
+      "question": "The total glucose in the body is ________ gms:",
+      "options": [
+        "10-15",
+        "20-30",
+        "40-50",
+        "60-80"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-189",
+      "question": "Polysaccharides:",
+      "options": [
+        "Contain many monosaccharide units which may or may not be of the same kind",
+        "Function mainly a storage or structural compounds",
+        "Are present in large amounts in connective tissue",
+        "Are well digested in intestine",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-190",
+      "question": "The absorption of glucose in the digestive tract:",
+      "options": [
+        "Occurs in the small intestine",
+        "Is stimulated by the hormone Glucagon",
+        "Occurs more rapidly than the absorption of any other sugar",
+        "Is impaired in cases of diabetes mellitus"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-191",
+      "question": "The regulator of the enzyme glycogen synthase is:",
+      "options": [
+        "Citric acid",
+        "2,3- bisphosphoglycerate",
+        "Pyruvate",
+        "GTP"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-192",
+      "question": "The defect of which enzyme causes von Gierke's disease (I type glycogenosis)?",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Lysosomal α-1.4-glucosidase",
+        "Amylo α-1.6-glucosidase",
+        "Glucosyl 4-6 transferase",
+        "Muscle glycogen phosphorylase",
+        "Liver glycogen phosphorylase",
+        "Phosphofruckokinase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-193",
+      "question": "The defect of which enzyme causes Pompe's disease?",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Lysosomal α-1.4-glucosidase",
+        "Amylo α-1.6-glucosidase",
+        "Glucosyl 4-6 transferase",
+        "Muscle glycogen phosphorylase",
+        "Liver glycogen phosphorylase",
+        "Phosphofruckokinase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-194",
+      "question": "The defect of which enzyme causes Anderson's disease (amylopectinosis)?",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Lysosomal α-1.4-glucosidase",
+        "Amylo α-1.6-glucosidase",
+        "Glucosyl 4-6 transferase",
+        "Muscle glycogen phosphorylase",
+        "Liver glycogen phosphorylase",
+        "Phosphofruckokinase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-195",
+      "question": "The defect of which enzyme causes Cori's disease (Forbe's disease)?",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Lysosomal α-1.4-glucosidase",
+        "Amylo α-1.6-glucosidase",
+        "Glucosyl 4-6 transferase",
+        "Muscle glycogen phosphorylase",
+        "Liver glycogen phosphorylase",
+        "Phosphofruckokinase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-196",
+      "question": "The defect of which enzyme causes Her's disease?",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Lysosomal α-1.4-glucosidase",
+        "Amylo α-1.6-glucosidase",
+        "Glucosyl 4-6 transferase",
+        "Muscle glycogen phosphorylase",
+        "Liver glycogen phosphorylase",
+        "Phosphofruckokinase"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "carb-197",
+      "question": "The defect of which enzyme causes Tarul's disease?",
+      "options": [
+        "Glucose-6-phosphatase",
+        "Lysosomal α-1.4-glucosidase",
+        "Amylo α-1.6-glucosidase",
+        "Glucosyl 4-6 transferase",
+        "Muscle glycogen phosphorylase",
+        "Liver glycogen phosphorylase",
+        "Phosphofruckokinase"
+      ],
+      "correctAnswers": [
+        6
+      ],
+      "explanation": ""
+    }
+  ]
+}
