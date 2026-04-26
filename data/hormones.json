@@ -1,0 +1,1265 @@
+{
+  "title": "Hormones MCQ",
+  "questions": [
+    {
+      "id": "horm-1",
+      "question": "cAMP and cGMP are derived from",
+      "options": [
+        "ATP and GTP by the actions of guanylate cyclase and adenylate cyclase respectively",
+        "ATP and GTP by the actions of adenylate cyclase and guanylate cyclase respectively",
+        "GTP and ATP by the actions of adenylate cyclase and guanylate cyclase respectively",
+        "None"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-2",
+      "question": "The enzyme activated by cyclic AMP is",
+      "options": [
+        "Protein kinase B",
+        "Protein kinase A",
+        "Protein kinase C",
+        "G protein receptor kinase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-3",
+      "question": "Which of the following catalyzes the cutting of plasma membrane lipid into IP3 and diacylglycerol?",
+      "options": [
+        "Phosphokinase C",
+        "Phospholipase C",
+        "Lipokinase",
+        "Phosphodiesterase C"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-4",
+      "question": "A hormone can be considered as",
+      "options": [
+        "First messenger",
+        "Second messenger",
+        "Third messenger",
+        "Fourth messenger"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-5",
+      "question": "Which second messenger signals the release of Ca2+ from endoplasmic reticulum?",
+      "options": [
+        "inositol triphosphate",
+        "diacyl glycerol",
+        "cAMP",
+        "cGMP"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-6",
+      "question": "How do steroid hormones produce their effects in cells?",
+      "options": [
+        "By activating key enzymes in metabolic pathway",
+        "By binding to intracellular receptors and promoting transcription of specific genes",
+        "By promoting degradation of specific m-RNAs",
+        "By activating translation of certain m-RNAs"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-7",
+      "question": "Steroid hormones receptor binds to",
+      "options": [
+        "Hormone response elements in DNA",
+        "Hormone response elements in proteins",
+        "Ribosomes to stimulate translation",
+        "Cell membrane thereby increases permeability"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-8",
+      "question": "Mode of action of steroid hormones involve",
+      "options": [
+        "Stimulation of DNA replication",
+        "Stimulation of the gene expression",
+        "Inhibition of protein synthesis",
+        "Second messenger"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-9",
+      "question": "Tick the UNcorrect statement about hormones",
+      "options": [
+        "Influence membrane permeability",
+        "Influence enzyme activity",
+        "Influence synthesis of enzymes",
+        "Act as enzymes"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-10",
+      "question": "A hormone secreted from anterior pituitary is",
+      "options": [
+        "Growth hormone",
+        "Vasopressin",
+        "Oxytocin",
+        "Epinephrine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-11",
+      "question": "A hormone secreted from posterior pituitary is",
+      "options": [
+        "Vasopressin",
+        "Thyrotropic hormone",
+        "Prolactin",
+        "Adrenocorticotropic hormone"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-12",
+      "question": "Acromegaly results due to excessive release of",
+      "options": [
+        "Thyroxine",
+        "Growth hormone",
+        "Insulin",
+        "Glucagon"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-13",
+      "question": "Growth hormone is released by",
+      "options": [
+        "Somatostatin",
+        "Growth hormone releasing hormone",
+        "Prolactin release inhibiting hormone",
+        "Luteinizing releasing hormone"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-14",
+      "question": "ACTH stimulates the secretion of",
+      "options": [
+        "Glucocorticoids",
+        "Epinephrine",
+        "Thyroxine",
+        "Luteinizing hormone"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-15",
+      "question": "Excessive secretion of ACTH causes",
+      "options": [
+        "Cushing’s syndrome",
+        "Addison’s disease",
+        "Myxoedema",
+        "Thyrotoxicosis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-16",
+      "question": "In Cushing’s syndrome - a tumour associated disease of adrenal cortex, there is",
+      "options": [
+        "Decreased epinephrine production",
+        "Excessive cortisol production",
+        "Excessive epinephrine production",
+        "Decreased cortsoil production"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-17",
+      "question": "The predominant glucocorticoid is",
+      "options": [
+        "Cortisol",
+        "Aldosterone",
+        "Dehydroephiandrosterone",
+        "Androstenedione"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-18",
+      "question": "All mammalian steroid hormones are formed from",
+      "options": [
+        "Purine",
+        "Pyrimidine",
+        "Cholesterol",
+        "Pyrrole"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-19",
+      "question": "The most important effect of aldosterone is to",
+      "options": [
+        "Increase the rate of tubular reabsorption of sodium",
+        "Decrease the rate of tubular reabsorption of potassium",
+        "Decrease the reabsorption of chloride",
+        "Decrease the renal reabsorption of sodium"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-20",
+      "question": "Catecholamine hormones are synthesized in the",
+      "options": [
+        "Chromaffin cells of adrenal medulla",
+        "Zona glomerulosa of adrenal cortex",
+        "Zona fasciculate of adrenal cortex",
+        "Zona reticularis of adrenal cortex"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-21",
+      "question": "The hormone required for uterine muscle contraction for child birth is",
+      "options": [
+        "Progesterone",
+        "Estrogen",
+        "Oxytocin",
+        "Vasopressin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-22",
+      "question": "Melanogenesis is stimulated by",
+      "options": [
+        "MSH",
+        "FSH",
+        "LH",
+        "HCG"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-23",
+      "question": "Antidiuretic hormone",
+      "options": [
+        "Reabsorbs water from renal tubules",
+        "Excretes water from renal tubules",
+        "Causes low specific gravity of urine",
+        "Excretes hypotonic urine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-24",
+      "question": "Increased reabsorption of water from the kidney is the major consequence of the secretion of the hormone",
+      "options": [
+        "Cortisol",
+        "Insulin",
+        "Vasopressin",
+        "Aldosterone"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-25",
+      "question": "Epinephrine is rapidly metabolized by",
+      "options": [
+        "Monoamine oxidase",
+        "Deaminase",
+        "Transaminase",
+        "Decarboxylase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-26",
+      "question": "Pheochromocytomas are tumours of",
+      "options": [
+        "Adrenal cortex",
+        "Adrenal medulla",
+        "Pancreas",
+        "Bone"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-27",
+      "question": "Epinephrine stimulates glycogenolysis in",
+      "options": [
+        "Liver",
+        "Muscle",
+        "Liver and muscle",
+        "Kidney"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-28",
+      "question": "Epinephrine is derived from norepinephrine by",
+      "options": [
+        "Decarboxylation",
+        "Hydroxylation",
+        "Oxidation",
+        "N-methylation"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-29",
+      "question": "Excess secretion of thyroid hormones causes",
+      "options": [
+        "Hyperthyroidism",
+        "Myxoedema",
+        "Cretinism",
+        "Cushing syndrome"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-30",
+      "question": "Insufficient free T3 and T4 results in",
+      "options": [
+        "Grave’s disease",
+        "Myxoedema",
+        "Cushing syndrome",
+        "Gigantism"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-31",
+      "question": "TSH stimulates the synthesis of",
+      "options": [
+        "Thyroxine",
+        "Adrenocorticoids",
+        "Epinephrine",
+        "Insulin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-32",
+      "question": "Thyroid hormones are synthesized by the iodination of the amino acid:",
+      "options": [
+        "Glycine",
+        "Phenylalanine",
+        "Alanine",
+        "Tyrosine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-33",
+      "question": "β-cells of islet of Langerhans of the pancreas secrete",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Somatostatin",
+        "Pancreatic polypeptide"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-34",
+      "question": "Target tissue of insulin is",
+      "options": [
+        "Red blood cells",
+        "Renal tubular cells",
+        "GI tract epithelial cells",
+        "Liver"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-35",
+      "question": "Insulin stimulates",
+      "options": [
+        "Hepatic glycogenolysis",
+        "Hepatic glycogenesis",
+        "Lipolysis",
+        "Gluconeogenesis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-36",
+      "question": "Action of insulin on lipid metabolism is",
+      "options": [
+        "It increases lipolysis and increases triglyceride synthesis",
+        "It decreases lipolysis and increases triglyceride synthesis",
+        "It decreases lipolysis and decreases triglyceride synthesis",
+        "It increases synthesis of triglyceride and increased ketogenesis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-37",
+      "question": "Deficiency of insulin results in",
+      "options": [
+        "Rapid uptake of sugar",
+        "Low blood glucose level",
+        "Decrease urine output",
+        "Presence of glucose in urine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-38",
+      "question": "The α-cells of pancreas islets produce",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Somatostatin",
+        "Pancreatic polypeptide"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-39",
+      "question": "Glucagon enhances",
+      "options": [
+        "Hepatic glycogenolysis",
+        "Muscle glycogenolysis",
+        "Hepatic glycogenesis",
+        "Lipogenesis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-40",
+      "question": "Glucagon",
+      "options": [
+        "Increases protein synthesis",
+        "Inhibits lipolysis in adipocytes",
+        "Increases gluconeogenesis in liver",
+        "Stimulates muscle glycogenolysis"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-41",
+      "question": "The production of progesterone by corpus luteum cell is stimulated by",
+      "options": [
+        "LH",
+        "TSH",
+        "ACTH",
+        "MSH"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-42",
+      "question": "The precursor of testosterone is",
+      "options": [
+        "Aldosterone",
+        "Methyl testosterone",
+        "Estrone",
+        "Pregnenolone"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-43",
+      "question": "The only correct statement about hormone receptors is",
+      "options": [
+        "Receptors for protein hormones are present in cytosol",
+        "Receptors for steroid hormones are membrane bound",
+        "Hormone-receptor binding is irreversible",
+        "Receptors can undergo down regulation and up regulation"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-44",
+      "question": "All the following statements about hormones are true except",
+      "options": [
+        "All of them require specific carriers in plasma",
+        "All of them require specific receptors in target cells",
+        "Some of them are subject to feedback regulation",
+        "Some of them increase the transcription of certain genes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-45",
+      "question": "All the following statements about steroid hormones are true except",
+      "options": [
+        "They are hydrophobic",
+        "They require carriers to transport them in circulation",
+        "Their receptors are intracellular",
+        "They require cyclic AMP as second messenger"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-46",
+      "question": "Some hormones produce their intracellular effects by activating",
+      "options": [
+        "Phospholipase A1",
+        "Phospholipase B",
+        "Phospholipase C",
+        "All of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-47",
+      "question": "G-proteins act as",
+      "options": [
+        "Hormone carriers",
+        "Hormone receptors",
+        "Second messengers",
+        "Signal transducers"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-48",
+      "question": "Protein kinase C is activated by",
+      "options": [
+        "Cyclic AMP",
+        "Cyclic GMP",
+        "Diacyl glycerol",
+        "Inositol triphosphate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-49",
+      "question": "Melatonin is synthesised in",
+      "options": [
+        "Hypothalamus",
+        "Posterior pituitary gland",
+        "Pineal gland",
+        "Melanocytes"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-50",
+      "question": "Melatonin is synthesised from",
+      "options": [
+        "Phenylalanine",
+        "Tyrosine",
+        "Tryptophan",
+        "None of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-51",
+      "question": "Melanocyte stimulating hormone is secreted by",
+      "options": [
+        "Pineal gland",
+        "Anterior lobe of pituitary gland",
+        "Posterior lobe of pituitary gland",
+        "Intermediate lobe of pituitary gland"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-52",
+      "question": "A hormone synthesised in the hypothalamus is",
+      "options": [
+        "Melatonin",
+        "Melanocyte stimulating hormone",
+        "Vasopressin",
+        "Prolactin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-53",
+      "question": "Posterior pituitary gland secretes",
+      "options": [
+        "Catecholamines",
+        "Oxytocin",
+        "Follicle stimulating hormone",
+        "Serotonin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-54",
+      "question": "Diabetes insipidus is caused by deficient secretion of",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Vasopressin",
+        "Oxytocin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-55",
+      "question": "Somatotropin is secreted by",
+      "options": [
+        "Hypothalamus",
+        "Anterior pituitary",
+        "Posterior pituitary",
+        "Thyroid gland"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-56",
+      "question": "Growth hormone increases",
+      "options": [
+        "Protein synthesis",
+        "Lipogenesis",
+        "Glycogenolysis",
+        "All of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-57",
+      "question": "Secretion of somatotrophin is promoted by",
+      "options": [
+        "Somatomedin",
+        "Somatostatin",
+        "Growth hormone releasing hormone",
+        "Hypoglycaemia"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-58",
+      "question": "All the following statements about thyrotropin releasing hormone are true except",
+      "options": [
+        "It is secreted by hypothalamus",
+        "It is a pentapeptide",
+        "It increases the secretion of TSH",
+        "Its secretion is inhibited by high level of T3 and T4 in blood"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-59",
+      "question": "All the following statements about FSH are true except",
+      "options": [
+        "It is a tropic hormone secreted by anterior pituitary",
+        "Its secretion is increased by gonadotropin releasing hormone",
+        "It acts on Sertoli cells",
+        "It increases the synthesis of testosterone"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-60",
+      "question": "Overproduction of growth hormone during childhood causes",
+      "options": [
+        "Acromegaly",
+        "Gigantism",
+        "Cushing’s disease",
+        "Simmond’s disease"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-61",
+      "question": "Decreased secretion of growth hormone during childhood causes",
+      "options": [
+        "Simmond’s disease",
+        "Cushing’s disease",
+        "Dwarfism",
+        "Cretinism"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-62",
+      "question": "An amino acid used for the synthesis of thyroid hormone is",
+      "options": [
+        "Tyrosine",
+        "Tryptophan",
+        "Histidine",
+        "Proline"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-63",
+      "question": "An enzyme required for the synthesis of thyroid hormones is",
+      "options": [
+        "Iodinase",
+        "Deiodinase",
+        "Thyroperoxidase",
+        "Thyroxine synthetase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-64",
+      "question": "The most powerful thyroid hormone is",
+      "options": [
+        "Reverse T3",
+        "DIT",
+        "T3",
+        "T4"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-65",
+      "question": "Clinical features of hyperthyroidism include",
+      "options": [
+        "Goiter, heat intolerance, weight loss and tachycardia",
+        "Goiter, tremors, tachycardia and cold intolerance",
+        "Exophthalmos, goiter, tachycardia and loss of appetite",
+        "Exophthalmos, goiter, tremors and obesity"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-66",
+      "question": "Mental retardation can occur in",
+      "options": [
+        "Cretinism",
+        "Juvenile myxoedema",
+        "Myxoedema",
+        "Juvenile thyrotoxicosis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-67",
+      "question": "Tyrosine is required for the synthesis of all of the following except",
+      "options": [
+        "Melatonin",
+        "Epinephrine",
+        "Norepinephrine",
+        "Thyroxine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-68",
+      "question": "Epinephrine decreases",
+      "options": [
+        "Glycogenesis",
+        "Glycogenolysis",
+        "Gluconeogenesis",
+        "Lipolysis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-69",
+      "question": "Cortisol is a",
+      "options": [
+        "Glucocorticoid",
+        "Mineralocorticoid",
+        "Androgen",
+        "Estrogen"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-70",
+      "question": "The major mineralcorticoid is",
+      "options": [
+        "Hydrocortisone",
+        "Aldosterone",
+        "Aldactone A",
+        "Androstenedione"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-71",
+      "question": "The second messenger for glucocorticoids is",
+      "options": [
+        "Cyclic AMP",
+        "Cyclic GMP",
+        "Inositol triphosphate",
+        "No second messenger is required"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-72",
+      "question": "Glucocorticoids increase all of the following except",
+      "options": [
+        "Gluconeogenesis",
+        "Lipolysis in extremities",
+        "Synthesis of eicosanoids",
+        "Hepatic glycogenesis"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-73",
+      "question": "Mineralocorticoids regulate the metabolism of all of the following except",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Chloride"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-74",
+      "question": "A hormone used for detection of pregnancy is",
+      "options": [
+        "Estrogen",
+        "Progesterone",
+        "Oxytocin",
+        "Chorionic gonadotropin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-75",
+      "question": "One of the following is not used as a second messenger by hormones",
+      "options": [
+        "mRNA",
+        "cAMP",
+        "calcium ions",
+        "inositol triphosphate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-76",
+      "question": "This pancreatic hormone increases the blood-sugar level:",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Pancreozymin",
+        "Pancreatic polypeptide"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-77",
+      "question": "Which one of the following statements is fully correct?",
+      "options": [
+        "Hormones are needed in the diet",
+        "Hormones can be elaborated only by endocrine glands",
+        "All the hormones enter the cells and perform their function",
+        "Hormones are substance synthesized in the body in small quantities and control and regulate metabolic events"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-78",
+      "question": "Which of one of the following is released by hypothalamus?",
+      "options": [
+        "Somatostatin",
+        "Somatotropic hormone",
+        "Somato medin C",
+        "Luteinising hormone"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-79",
+      "question": "Steroid hormones are synthesized from",
+      "options": [
+        "Adenine",
+        "Protein",
+        "Vitamin",
+        "Cholesterol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-80",
+      "question": "Hormones act only on specific organs or tissues. These are called",
+      "options": [
+        "Active sites",
+        "Reaction centre",
+        "Target organ/Tissue",
+        "Physiological site"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-81",
+      "question": "Increased reabsorption of water from the kidney is the major consequence of which of the following hormones?",
+      "options": [
+        "Cortisol",
+        "Insulin",
+        "Vasopressin",
+        "Aldosterone"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-82",
+      "question": "All the following hormones use cAMP as a second messenger except",
+      "options": [
+        "Estrogen",
+        "FSH",
+        "Luteinizing hormone",
+        "Glucagon"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-83",
+      "question": "All the following hormones promote hyperglycemia except",
+      "options": [
+        "Epinephrine",
+        "Norepinephrine",
+        "Insulin",
+        "Glucagon"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-84",
+      "question": "TSH hormone biochemically is a",
+      "options": [
+        "Protein",
+        "Fat",
+        "Glycoprotein",
+        "Carbohydrate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-85",
+      "question": "The secondary sexual characters in females is effected by",
+      "options": [
+        "Estrogens",
+        "Glucocorticoids",
+        "MIS",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-86",
+      "question": "Which of the following hormones is not involved in carbohydrate metabolism?",
+      "options": [
+        "ACTH",
+        "Glucagon",
+        "Vasopressin",
+        "Growth hormone"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-87",
+      "question": "Which one of the following is not a symptom of Cushing’s disease?",
+      "options": [
+        "Hyperglycemia",
+        "Hypernatremia",
+        "Hirsutism",
+        "Hyperkalemia"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-88",
+      "question": "Women become susceptible to osteoporosis after menopause due to decreased",
+      "options": [
+        "Secretion of parathormone",
+        "Conversion of vitamin D into calcitriol",
+        "Secretion of estrogens",
+        "Secretion of progesterone"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-89",
+      "question": "Acromegaly results in all the following except",
+      "options": [
+        "Overgrowth of the bones of face, hands and feet",
+        "Increased stature",
+        "Enlargements of viscera",
+        "Impaired glucose tolerance"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "horm-90",
+      "question": "Acromegaly results from overproduction of",
+      "options": [
+        "ACTH during childhood",
+        "TSH during adult life",
+        "Growth hormone during childhood",
+        "Growth hormone during adult life"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    }
+  ]
+}
