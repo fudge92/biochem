@@ -1,0 +1,3716 @@
+{
+  "title": "Lipid Chemistry and Metabolism MCQ",
+  "questions": [
+    {
+      "id": "lipid-1",
+      "question": "Identify the following chemical formula: C17H33COOH",
+      "options": [
+        "Linolenic acid",
+        "Linoleic acid",
+        "Oleic acid",
+        "Palmitic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-2",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Cholic acid",
+        "Glycocholic acid",
+        "Cholesterol",
+        "Xenodeoxycholic acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-3",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Cholic acid",
+        "Linoleic acid",
+        "Cholesterol",
+        "Xenodeoxycholic acid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-4",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Cholic acid",
+        "Linoleic acid",
+        "Cholesterol",
+        "Xenodeoxycholic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-5",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Сefalin",
+        "Phosphatidylserine",
+        "Cholesterol",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-6",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Сefalin",
+        "Phosphatidylserine",
+        "Cholesterol",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-7",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Cholesterol ester",
+        "Ceramide",
+        "Ganglioside",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-8",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Cholesterol ester",
+        "Ceramide",
+        "Cerebroside",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-9",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Cholesterol ester",
+        "Ceramide",
+        "Cerebroside",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-10",
+      "question": "Identify the following chemical formula:",
+      "options": [
+        "Cholesterol ester",
+        "Linoleic acid",
+        "Cholesterol",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-11",
+      "question": "Identify the following chemical formula: C17H29COOH",
+      "options": [
+        "Linolenic acid",
+        "Linoleic acid",
+        "Cholesterol",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-12",
+      "question": "Identify the following chemical formula: C17H31COOH",
+      "options": [
+        "Linolenic acid",
+        "Linoleic acid",
+        "Oleic acid",
+        "Palmitic acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-13",
+      "question": "Free fatty acids in the plasma:",
+      "options": [
+        "Circulate in the unbound state",
+        "Circulate in the binded with lipoproteids state",
+        "Circulate in the binded with albumins state",
+        "Circulate in the binded with special proteins state"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-14",
+      "question": "What compartment does the de novo fatty acid synthesis occur in?",
+      "options": [
+        "Mitochondria",
+        "Peroxisome",
+        "Endoplasmic reticulum",
+        "Cytosol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-15",
+      "question": "What is the precursor for fatty acid synthesis?",
+      "options": [
+        "Acetyl CoA",
+        "Propionyl CoA",
+        "Succinyl CoA",
+        "Acetoacetyl CoA"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-16",
+      "question": "The conversion of acetyl CoA to malonyl CoA is the rate-limiting step in the fatty acid synthesis. Which of the following enzyme catalyzes the above-mentioned reaction?",
+      "options": [
+        "Acetyl CoA carboxylase",
+        "Malonyl CoA synthetase",
+        "Acetyl CoA decarboxylase",
+        "Malonyl CoA synthase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-17",
+      "question": "The acetyl CoA is produced in the mitochondria and must be transported into the cytosol for synthesis of fatty acid. Which of the following is true regarding its transport?",
+      "options": [
+        "Acetyl CoA is diffused from the mitochondrial membrane",
+        "Acetyl CoA is transported by its specific transporter protein",
+        "Acetyl CoA is converted into pyruvate, enters into the cytosol",
+        "Acetyl CoA is converted into citrate, enters into the cytosol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-18",
+      "question": "What is the allosteric regulator of acetyl CoA carboxylase?",
+      "options": [
+        "Fatty acid",
+        "ATP",
+        "Citrate",
+        "Acetyl CoA"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-19",
+      "question": "Which of the following event inactivates acetyl CoA carboxylase?",
+      "options": [
+        "ADP-Ribosylation",
+        "Glycosylation",
+        "Phosphorylation",
+        "Farnesylation"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-20",
+      "question": "Which of the following is not a positive regulator of acetyl-CoA carboxylase?",
+      "options": [
+        "Excess calories",
+        "Insulin",
+        "Citrate",
+        "Long chain fatty acid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-21",
+      "question": "Which of the following statement is not true regarding fatty acid synthase?",
+      "options": [
+        "Fatty acid synthase is a multifunctional enzyme",
+        "Fatty acid synthase is active as a dimer",
+        "Fatty acid synthase is activated by high-calorie food",
+        "Fatty acid synthase complex is inhibited by its phosphorylation"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-22",
+      "question": "What form of energy is required for fatty acid biosynthesis?",
+      "options": [
+        "ATP",
+        "NADH",
+        "NADPH",
+        "FADH2"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-23",
+      "question": "What is the source of NADPH required for fatty acid synthesis?",
+      "options": [
+        "Pentose phosphate pathway",
+        "Glycolysis",
+        "CAC",
+        "All options are correct"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-24",
+      "question": "The following require cholesterol EXCEPT:",
+      "options": [
+        "Bile acid synthesis",
+        "Steroid hormone synthesis",
+        "Membrane fluidity",
+        "Thyroid hormone synthesis"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-25",
+      "question": "Which of the following lipid acts as lungs surfactant?",
+      "options": [
+        "Phosphatidylcholine",
+        "Phosphatidylethanolamine",
+        "Ceramide",
+        "Phosphatidylinositol"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-26",
+      "question": "Which of the following is simple lipid?",
+      "options": [
+        "Lecithin",
+        "Fatty acid",
+        "Triacylglycerol",
+        "Steroids"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-27",
+      "question": "All of the following are complex lipids, except:",
+      "options": [
+        "Phosphatidic acid",
+        "Cerebroside",
+        "Cardiolipin",
+        "Cholesterol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-28",
+      "question": "Which of the following are essential fatty acids?",
+      "options": [
+        "Linolenic acid",
+        "Arachidonic acid",
+        "Oleic acid",
+        "Palmitic acid"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-29",
+      "question": "Bile acids are derived from:",
+      "options": [
+        "Cholesterol",
+        "Amino acids",
+        "Fatty acids",
+        "Bilirubin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-30",
+      "question": "Which of the following lipid is mostly present in mitochondrial membranes?",
+      "options": [
+        "Lecithin",
+        "Cephalin",
+        "Cardiolipin",
+        "Ceramide"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-31",
+      "question": "Insulin enhances the uptake of triacylglycerols in adipose tissues. Which of the following enzyme is activated that facilitates the uptake?",
+      "options": [
+        "Hormone-sensitive lipase",
+        "Lipoprotein lipase",
+        "LCAT",
+        "Apo C-II"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-32",
+      "question": "Familial hypercholesterolemia is a genetic disorder of lipid metabolism. The defect lies in:",
+      "options": [
+        "Transport of cholesterol from extrahepatic tissue to the liver",
+        "Impairment of cholesterol degradative pathway",
+        "Impairment of uptake of cholesterol by tissues",
+        "Impairment of HDL metabolism due to deficiency of Apo-A"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-33",
+      "question": "Which of the following inhibits acetyl CoA carboxylase - a rate-limiting enzyme of fatty acids metabolism?",
+      "options": [
+        "Citrate",
+        "ATP",
+        "Malonyl CoA",
+        "Acyl CoA"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-34",
+      "question": "Which of the following molecule is not a gluconeogenic substrate?",
+      "options": [
+        "alanine",
+        "oxaloacetate",
+        "glycerol",
+        "acetyl-CoA"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-35",
+      "question": "The highest phospholipids content is found in …",
+      "options": [
+        "Chylomicrons",
+        "VLDL",
+        "LDL",
+        "HDL"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-36",
+      "question": "The class of lipoproteins that is beneficial to atherosclerosis is …",
+      "options": [
+        "Low-density of lipoproteins",
+        "Very low-density lipoproteins",
+        "High-density lipoproteins",
+        "Chylomicrons"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-37",
+      "question": "Zellweger’s syndrome is associated with abnormality of",
+      "options": [
+        "Nonessential fatty acid metabolism",
+        "Essential fatty acid metabolism",
+        "cholesterol metabolism",
+        "Lipoprotein metabolism"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-38",
+      "question": "Although ketogenesis occurs in hepatocytes it cannot utilize ketone bodies. It is due to deficiency of the enzyme:",
+      "options": [
+        "Thiokinase",
+        "Thiophorase",
+        "Thiolase",
+        "Thiolyase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-39",
+      "question": "Fatty acid oxidation is regulated by malonyl-CoA. The malonyl-CoA inhibits:",
+      "options": [
+        "The entry of fatty acid into the cell",
+        "Activation of fatty acid to fatty acyl-CoA",
+        "Shuttling of fatty acyl-CoA to mitochondria",
+        "Dehydrogenation of fatty acyl-CoA to enoy-CoA"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-40",
+      "question": "What is the enzyme responsible for breakdown of triglycerides into fatty acids and mono-acylglycerol in the intestine?",
+      "options": [
+        "Pancreatic lipase",
+        "Lipoprotein lipase",
+        "Hormone sensitive lipase",
+        "Phospholipase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-41",
+      "question": "What are the functions of bile acids in the intestine?",
+      "options": [
+        "Activation of TAG-lipase",
+        "Emulsification",
+        "Co-factor for cholesteryl esterase",
+        "Participation in lipid absorption",
+        "Stimulation of peristalsis",
+        "Stabilisation of emulsion",
+        "Stimulation of putrefaction"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-42",
+      "question": "What is the precursor for bile salt synthesis?",
+      "options": [
+        "Fatty acid",
+        "Glucose",
+        "Cholesterol",
+        "Glycerol"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-43",
+      "question": "Which of the following class of fatty acids can be directly absorbed from intestine?",
+      "options": [
+        "Very long chain fatty acids",
+        "Long chain fatty acids",
+        "Short chain fatty acids",
+        "Cholesterol esters"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-44",
+      "question": "Lack of appropriate lipid absorption leads to condition known as:",
+      "options": [
+        "Metabolic syndrome",
+        "Obesity",
+        "Fatty liver",
+        "Steatorrhea"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-45",
+      "question": "Which of the following is an essential fatty acid?",
+      "options": [
+        "Linolenic",
+        "Palmitic",
+        "Oleic",
+        "Stearic"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-46",
+      "question": "Which of the following is a polar derivative of cholesterol?",
+      "options": [
+        "Bile salt",
+        "Oestrogen",
+        "Vitamin D",
+        "Progesterone"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-47",
+      "question": "Which of the following processes is not a source of glycerol?",
+      "options": [
+        "Adipolysis",
+        "Glycolysis",
+        "Glycogenolysis",
+        "Diet"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-48",
+      "question": "Which of the following is false about fatty acids?",
+      "options": [
+        "Melting point of fatty acids decreases with increase in degree of saturation",
+        "Lipids in tissues that are subjected to cooling are more unsaturated",
+        "Naturally occurring unsaturated long-chain fatty acids are nearly Trans-configuration",
+        "The membrane lipids contain mostly unsaturated fatty acids"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-49",
+      "question": "Which of the following fatty acid has 16 carbon atoms?",
+      "options": [
+        "Linolenic acid",
+        "Oleic acid",
+        "Palmitic acid",
+        "Stearic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-50",
+      "question": "Which of the following is a hydroxyl fatty acid?",
+      "options": [
+        "Linoleic acid",
+        "Palmitic acid",
+        "Linolenic acid",
+        "Cerebronic acid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-51",
+      "question": "Out of the following, which is not an essential amino acid?",
+      "options": [
+        "Linolic acid",
+        "Linolenic acid",
+        "Arachidic acid",
+        "Arachidonic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-52",
+      "question": "Which of the following is a storage form of lipid?",
+      "options": [
+        "Glycolipid",
+        "Phospholipid",
+        "Sufolipid",
+        "Triacyl glycerol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-53",
+      "question": "Out of the following, cholesterol does not serve as a precursor for which compounds?",
+      "options": [
+        "Vitamin D",
+        "Sex hormones",
+        "Bile salts",
+        "Bile pigments"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-54",
+      "question": "Which of the following is a sphingophospholipid?",
+      "options": [
+        "Lecithin",
+        "Sphingomyelin",
+        "Plasmolegen",
+        "Cardiolipin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-55",
+      "question": "Which of the following glycerophospholid acts as a lipotropic agent?",
+      "options": [
+        "Cardiolipin",
+        "Phosphatidylserine",
+        "Phosphatidylinositol",
+        "Phosphatidylcholine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-56",
+      "question": "Which of the following phospholipids is a component of inner mitochondrial membrane?",
+      "options": [
+        "Plasmologen",
+        "Cephalin",
+        "Lecithin",
+        "Cardiolipin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-57",
+      "question": "In which of the following glycerophospholipids two phosphatidic acids share a single glycerol?",
+      "options": [
+        "Cardiolipin",
+        "Phosphatidylserine",
+        "Phosphatidylinositol",
+        "Phosphatidylcholine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-58",
+      "question": "Platelet activating factor stimulates the release of which of the following compounds?",
+      "options": [
+        "Vasopressin",
+        "Serotonin",
+        "Adrenaline",
+        "Cortisol"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-59",
+      "question": "Which of the following membrane lipids have a direct glycosidic linkage between the head-group sugar and the backbone glycerol?",
+      "options": [
+        "Glycolipids",
+        "Phospholipids",
+        "Sphingolipids",
+        "Ether lipids"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-60",
+      "question": "The backbone of phospholipids is",
+      "options": [
+        "L-glycerol 1-phosphate",
+        "L-glycerol 3-phosphate",
+        "D-glycerol 3-phosphate",
+        "sn-glycerol 1-phosphate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-61",
+      "question": "What is the head-group alcohol in plasmolegen and platelet-activating factor?",
+      "options": [
+        "Alkene",
+        "Choline",
+        "Alkane",
+        "Acetic acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-62",
+      "question": "Which of the following does not contain glycerol?",
+      "options": [
+        "Glycerophospholipids",
+        "Galactolipids",
+        "Sphingolipids",
+        "Triacylglycerols"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-63",
+      "question": "Which of the following vitamin is derived from cholesterol?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-64",
+      "question": "What leads to the activation of protein kinase C?",
+      "options": [
+        "Release of intracellular Ca+2 + diacylglycerol",
+        "Release of intracellular Mg+ + diacylglycerol",
+        "Release of intracellular Ca+2 + glycerol",
+        "Release of intracellular Ca+2 + triacylglycerol"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-65",
+      "question": "Which of the following serves as a specific binding site for the proteins involved in membrane fusion during exocytosis?",
+      "options": [
+        "Phosphatidylinositol",
+        "Phosphatidylinositol 4, 5-biphosphate",
+        "Phosphatidylinositol 3, 5-biphosphate",
+        "Phosphatidylinositol 3, 4-biphosphate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-66",
+      "question": "Which of the following hormone is responsible for the activation of phospholipase C?",
+      "options": [
+        "Serotonin",
+        "Cortisol",
+        "Vasopressin",
+        "Adrenaline"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-67",
+      "question": "An example of glycerophospholipid involved in cell signaling is:",
+      "options": [
+        "Cardiolipin",
+        "Phosphatidic acid",
+        "Phosphatidylcholine",
+        "Phosphatidylinositol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-68",
+      "question": "How many products are obtained by the hydrolysis of phosphatidylinositol by phospholipase C?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-69",
+      "question": "Which of the following is false about lipids?",
+      "options": [
+        "They are either strongly hydrophobic or amphipathic",
+        "They are more soluble in water",
+        "Extraction of lipids from tissues require organic solvents",
+        "They are insoluble in water"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-70",
+      "question": "Which of the following is not a phospholipase?",
+      "options": [
+        "A",
+        "C",
+        "D",
+        "K"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-71",
+      "question": "Which of the following acts as a passive electrical insulator?",
+      "options": [
+        "Myelin sheath",
+        "Plasma membrane",
+        "Inner mitochondrial membrane",
+        "Outer mitochondrial membrane"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-72",
+      "question": "Which of the following membranes contain low cholesterol and high cardiolipin?",
+      "options": [
+        "Myelin sheath",
+        "Plasma membrane",
+        "Inner mitochondrial membrane of hepatocyte",
+        "Cell wall"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-73",
+      "question": "Which of the following is important in signal transduction triggered by hormones?",
+      "options": [
+        "Phosphatidylinositol and its derivatives",
+        "Phosphatidylserine and its derivatives",
+        "Phosphatidylglycerol and its derivatives",
+        "Phosphatidylethanolamine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-74",
+      "question": "Which of the following is a choline containing lipid?",
+      "options": [
+        "Sphingomyelin",
+        "Phosphatidylserine",
+        "Phosphatidylglycerol",
+        "Phosphatidylethanolamine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-75",
+      "question": "Which of the following has high lipid content?",
+      "options": [
+        "Myelin sheath",
+        "Plasma membrane",
+        "Inner mitochondrial membrane",
+        "Outer mitochondrial membrane"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-76",
+      "question": "Plasma membrane is permeable to:",
+      "options": [
+        "ATP",
+        "Glucose",
+        "K+",
+        "Urea"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-77",
+      "question": "How are the intrinsic proteins in cell membrane distributed?",
+      "options": [
+        "Uniform",
+        "Random",
+        "Symmetric",
+        "Asymmetric"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-78",
+      "question": "Movement of phospholipids from side to side is called:",
+      "options": [
+        "Facilitated diffusion",
+        "Lateral diffusion",
+        "Transverse diffusion",
+        "Simple diffusion"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-79",
+      "question": "Movement of phospholipids to opposite sides is called:",
+      "options": [
+        "Facilitated diffusion",
+        "Lateral diffusion",
+        "Transverse diffusion",
+        "Simple diffusion"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-80",
+      "question": "Trans bilayer diffusion is also called:",
+      "options": [
+        "Facilitated diffusion",
+        "Lateral diffusion",
+        "Flip flop",
+        "Simple diffusion"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-81",
+      "question": "Which of the following is an example of heterodimeric protein?",
+      "options": [
+        "Integrin",
+        "Antibodies",
+        "Receptor tyrosine kinase",
+        "G-protein coupled receptor"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-82",
+      "question": "Which of the following is an example of peripheral membrane protein?",
+      "options": [
+        "Insulin receptor",
+        "Glycophorin",
+        "Integrin",
+        "Glycolipid transfer proteins"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-83",
+      "question": "Which of the following proteins does not function in cell-to-cell interaction?",
+      "options": [
+        "Integrin",
+        "Cadherin",
+        "N-CAM",
+        "Cytochrome c"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-84",
+      "question": "Which of the following is one of the family of immunoglobin like proteins that mediate Ca+2?",
+      "options": [
+        "N-CAM",
+        "Integrin",
+        "Cadherin",
+        "Selectin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-85",
+      "question": "Which out of the following is not a mediated transport?",
+      "options": [
+        "Facilitated diffusion",
+        "Primary active transport",
+        "Secondary active transport",
+        "Simple diffusion"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-86",
+      "question": "Which of the following is energy independent?",
+      "options": [
+        "Active transport",
+        "Primary active transport",
+        "Secondary active transport",
+        "Passive transport"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-87",
+      "question": "Semipermeable membrane allows:",
+      "options": [
+        "Solute to pass",
+        "Solution to pass",
+        "Solvent to pass",
+        "Proteins to pass"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-88",
+      "question": "In which of the following means of transport a cell expels large molecules out of it?",
+      "options": [
+        "Phagocytosis",
+        "Exocytosis",
+        "Endocytosis",
+        "Diffusion"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-89",
+      "question": "Which of the following transports only one kind of substrate?",
+      "options": [
+        "Uniport carriers",
+        "Symport carriers",
+        "Antiport carriers",
+        "Membrane proteins"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-90",
+      "question": "Which of the following induces conformational change in protein?",
+      "options": [
+        "Uniport",
+        "Symport",
+        "Antiport",
+        "Facilitated diffusion"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-91",
+      "question": "Which of the following is required for conversion of acetyl-CoA to malonyl-CoA during the synthesis of fatty acids?",
+      "options": [
+        "NADPH",
+        "H2O",
+        "Folic acid",
+        "Biotin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-92",
+      "question": "The prosthetic group of acyl carrier protein is:",
+      "options": [
+        "4’-phosphopantetheine",
+        "3’-phosphopantetheine",
+        "2’-phosphopantetheine",
+        "1’-phosphopantetheine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-93",
+      "question": "Which of the following carries acyl groups in thio-ester linkage during the synthesis of fatty acids?",
+      "options": [
+        "Acyl carrier protein",
+        "Acetyl-CoA ACP transacetylase",
+        "Enoyl-ACP reductase",
+        "Malonyl-CoA ACP transferase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-94",
+      "question": "Which of the following condenses acyl and malonyl groups during the synthesis of fatty acids?",
+      "options": [
+        "Acyl carrier protein",
+        "Acetyl-CoA ACP transacetylase",
+        "β-ketoacyl ACP synthase",
+        "Malonyl-CoA ACP transferase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-95",
+      "question": "Which of the following transfers malonyl group from -CoA to ACP during the synthesis of fatty acids?",
+      "options": [
+        "Acyl carrier protein",
+        "Acetyl-CoA ACP transacetylase",
+        "Enoyl-ACP reductase",
+        "Malonyl-CoA ACP transferase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-96",
+      "question": "Which of the following reduces β-keto group to β-hydroxyl group during the synthesis of fatty acids?",
+      "options": [
+        "β-ketoacyl ACP reductase",
+        "β-hydroxyacyl ACP dehydratase",
+        "Enoyl ACP reductase",
+        "Malonyl-CoA ACP transferase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-97",
+      "question": "Which of the following removes H2O from β-hydroxyl ACP, creating double bond during the synthesis of fatty acids?",
+      "options": [
+        "β-ketoacyl ACP reductase",
+        "β-hydroxyacyl ACP dehydratase",
+        "Enoyl ACP reductase",
+        "Malonyl-CoA ACP transferase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-98",
+      "question": "Which of the following reduces double bond, forming saturated acyl-ACP during the synthesis of fatty acids?",
+      "options": [
+        "β-ketoacyl ACP reductase",
+        "β-hydroxyacyl ACP dehydratase",
+        "Enoyl-ACP reductase",
+        "Malonyl-CoA ACP transferase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-99",
+      "question": "Which of the following converts PGH2 to thromboxane A2?",
+      "options": [
+        "Enoyl-ACP reductase",
+        "β-ketoacyl ACP reductase",
+        "Cyclooxygenase",
+        "Thromboxane synthase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-100",
+      "question": "Which of the following is not true regarding synthesis of triacyl glycerol in adipose tissue?",
+      "options": [
+        "Phosphatidate is hydrolyzed",
+        "Glycerol 3-phosphate dehydrogenase plays an important role",
+        "Glycerol kinase plays an important role",
+        "It is synthesized from dihydroxyacetone phosphate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-101",
+      "question": "Hydrolysis of phosphatidic acid by phosphatidic acid phosphatase yields:",
+      "options": [
+        "1, 2-diacylglycerol",
+        "1, 3-diacylglycerol",
+        "1, 4-diacylglycerol",
+        "1, 5-diacylglycerol"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-102",
+      "question": "In animal tissues, triacylglycerols and glycerophospholipids share two precursors:",
+      "options": [
+        "Fatty acyl-Co-A and L-glycerol 3-phosphate",
+        "Fatty acetyl-CoA and L-glycerol 2-phosphate",
+        "Diacylglycerol 3-phosphate and L-glycerol 3-phosphate",
+        "L-glycerol 3-phosphate and diacylglycerol 2-phosphate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-103",
+      "question": "Which of the following is more commonly called phosphatidic acid?",
+      "options": [
+        "Diacylglycerol 3-phosphate",
+        "Fatty acyl-CoA",
+        "L-glycerol 3-phosphate",
+        "L-glycerol 2-phosphate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-104",
+      "question": "Where does triacylglycerol form?",
+      "options": [
+        "Liver",
+        "Kidneys",
+        "Adipose tissue",
+        "Heart"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-105",
+      "question": "In adipose tissue, glyceroneogenesis couples with:",
+      "options": [
+        "Reesterification",
+        "Esterification",
+        "Glycolysis",
+        "Phosphorylation"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-106",
+      "question": "Dihydroxyacetone phosphate precursor of glycerol 3-phosphate is derived from:",
+      "options": [
+        "Glycerol",
+        "Triacylglycerol",
+        "Glycerol 3-phosphate",
+        "Pyruvate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-107",
+      "question": "Biological steroid derived from cholesterol is:",
+      "options": [
+        "Clenbuterol",
+        "Cortisol",
+        "Winstrol",
+        "Dianabol"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-108",
+      "question": "Displacement of CMP through nucleophilic attack by the hydroxyl group of C-1 hydroxyl of glycerol 3-phosphate yields:",
+      "options": [
+        "Phosphatidyl serine",
+        "Phosphatidyl glycerol 3-phosphate",
+        "Phosphatidyl glycerol",
+        "Phosphatidylethanolamine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-109",
+      "question": "The precursor of eicosanoids in human body is:",
+      "options": [
+        "Ceramide",
+        "Arachidonic acid",
+        "Cholesterol",
+        "Squaline"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-110",
+      "question": "Which of the following is considered as the structural parent of all sphingolipids?",
+      "options": [
+        "Sphingosine",
+        "Ceramide",
+        "Lecithin",
+        "Sphyngomylein"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-111",
+      "question": "The most complex sphingolipid is:",
+      "options": [
+        "Cerebroside",
+        "Gangleoside",
+        "Globoside",
+        "Ceramide"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-112",
+      "question": "Phosphatidylserine is derived only from:",
+      "options": [
+        "Phosphatidylethanolamine",
+        "Phosphatidyl glycerol",
+        "Phosphatidyl choline",
+        "CDP-diacylglycerol"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-113",
+      "question": "Sphingophospholipid is also called as:",
+      "options": [
+        "Sphingomyelin",
+        "N-acylsphingosine",
+        "Sphinganine",
+        "Gangliosides"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-114",
+      "question": "Chemically, prednisolone and prednisone are:",
+      "options": [
+        "Steroids",
+        "Glycerol derivatives",
+        "Non-steroid anti-inflammatory drug",
+        "Amino alcohols"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-115",
+      "question": "The essential intermediates in the pathway from acetate to cholesterol are:",
+      "options": [
+        "Acetic acid",
+        "Ethylene",
+        "Isoprene units",
+        "Methane"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-116",
+      "question": "The first intermediate in cholesterol synthesis is:",
+      "options": [
+        "Mevalonate",
+        "Isoprene",
+        "Squalene",
+        "Ethylene"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-117",
+      "question": "Which of the following is the major point of regulation on the pathway to cholesterol?",
+      "options": [
+        "Thiolase",
+        "HMG co-A synthase",
+        "HMG co-A reductase",
+        "Pyruvate kinase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-118",
+      "question": "Which of the following is the integral membrane protein of smooth ER?",
+      "options": [
+        "Thiolase",
+        "HMG co-A synthase",
+        "HMG co-A reductase",
+        "Pyruvate kinase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-119",
+      "question": "How many carbons are present in geranyl pyrophosphate?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-120",
+      "question": "Lipids are classified in dependence on alcohol occurring in their structure. Which alcohols are found in natural lipids?",
+      "options": [
+        "Ethanol",
+        "Glycerol",
+        "Butanol",
+        "Sphingosine",
+        "Cholesterol"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-121",
+      "question": "Choose the triacylglycerol functions:",
+      "options": [
+        "Energetic",
+        "Structural",
+        "Storage",
+        "Regulatory",
+        "Supporting the internal organs in definite position",
+        "Mechanical protection of internal organs"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-122",
+      "question": "Cerebrosides are chiefly distributed in white matter of brain. Choose their structural components.",
+      "options": [
+        "Glycerol",
+        "Sphingosine",
+        "Oligosaccharide",
+        "Monosaccharide",
+        "Fatty acid",
+        "Phosphoric acid"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-123",
+      "question": "Biological membranes are the unique lipoprotein complexes. What lipids are occurred in their structure?",
+      "options": [
+        "Triacylglycerols",
+        "Phospholipids",
+        "Cerebrosides",
+        "Gangliosides",
+        "Prostaglandins",
+        "Cholesterol"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-124",
+      "question": "Sphingomyelins entering the myelin shift composition condition their electro-isolating properties. Choose the sphingomyelin structural components from listed below.",
+      "options": [
+        "Glycerol",
+        "Sphingosine",
+        "Oligosaccharide",
+        "Monosaccharide",
+        "Fatty acid",
+        "Phosphoric acid",
+        "Choline"
+      ],
+      "correctAnswers": [
+        1,
+        4,
+        5,
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-125",
+      "question": "Hydrolases take part in lipid digestion. Choose enzymes participating in this process.",
+      "options": [
+        "Amylase",
+        "Phospholipase",
+        "Cholestsrolesterase",
+        "Pancreatic lipase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-126",
+      "question": "Role of bile is very important for lipid absorption. What functions do bile acids perform as the main components of bile?",
+      "options": [
+        "Participation in emulsification of lipids in intestine",
+        "Participation in transport of fatty acids by blood stream",
+        "Stabilization of lipid emulsion in intestine",
+        "Participation in absorption of lipid digestion products",
+        "Increasing the pancreatic lipase activity"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-127",
+      "question": "Tic the main lipid transport form from intestine.",
+      "options": [
+        "LDL",
+        "HDL",
+        "VLDL",
+        "Chylomicrons"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-128",
+      "question": "Lipids are transported by blood in different lipoproteins. What biologic function does VLDL perform?",
+      "options": [
+        "Exogenic triacylglycerols transport",
+        "Cholesterol transport",
+        "Phospholipids transport",
+        "Endogenic triacylglycerols transport"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-129",
+      "question": "What lipoproteins transport the cholesterol to liver where it’s converted to bile acids or excreted with bile afterwards?",
+      "options": [
+        "Chylomicrons",
+        "LDL",
+        "VLDL",
+        "HDL"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-130",
+      "question": "Arachidonic acid derivatives are biologic active compounds. Tic the eicosanoids among listed below.",
+      "options": [
+        "Prostaglandins",
+        "Prostacyclins",
+        "Thromboxanes",
+        "Catheholamines",
+        "Leukotrienes"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-131",
+      "question": "Lipolysis is controlled by lipid mobilizing hormones. What key enzyme do they influence on?",
+      "options": [
+        "TAG-lipase",
+        "DAG-lipase",
+        "MAG-lipase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-132",
+      "question": "Energetic production of fatty acid catabolism (b-oxidation) depends on hydrocarbon chain length and degree of its saturation. Choose the fatty acid which oxidation gives the most amount of ATP among listed below ones possessing the same number of carbons.",
+      "options": [
+        "Stearic",
+        "Linoleic",
+        "Oleic",
+        "Linolenic"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-133",
+      "question": "Ketone bodies are formed in organism permanently. Their concentration is increased in tissues, blood, urine in some pathologic conditions. Choose the metabolites that can be initiatory substrates in process of ketone body formation (ketogenesis).",
+      "options": [
+        "Pyruvate",
+        "Acetyl-CoA",
+        "b-hydroxy, b-methylglutaryl-CoA",
+        "Lactate",
+        "Phosphoglycerol"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-134",
+      "question": "Some compounds possessing lipotropic effect and prevent liver fatty degeneration are widely used in clinic. Choose these ones among listed below.",
+      "options": [
+        "Methionine",
+        "Vitamin B12",
+        "Choline",
+        "Folic acid",
+        "Glucose",
+        "Unsaturated fatty acids",
+        "Sphingosine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-135",
+      "question": "Cholesterol biosynthesis is the multistage process. Choose the intermediate products of this synthesis.",
+      "options": [
+        "Mevalonic acid",
+        "b-hydroxy, b-methylglutaryl-CoA",
+        "Squalene",
+        "b-hydroxy butyric acid",
+        "Carnitine",
+        "Arachidonic acid"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-136",
+      "question": "Tick hormones activating lipolysis by influence TAG-lipase:",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Lipotropin",
+        "Parathyroid hormone",
+        "Adrenalin",
+        "Aldosterone"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-137",
+      "question": "Increase in blood cholesterol concentration is a risk factor of atherosclerosis development. Choose the maximum blood cholesterol concentration for adults.",
+      "options": [
+        "5,2 mmol/L",
+        "8,2 mmol/L",
+        "2,0 mmol/L",
+        "10,0 mmol/L"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-138",
+      "question": "Biosynthesis of fatty acids occurs by “fatty acid synthase complex” in cytosol. What fatty acid is the end product of this process?",
+      "options": [
+        "Oleic acid",
+        "Stearic",
+        "Palmitic",
+        "Lignoceric"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-139",
+      "question": "Glycosphingolipids are the structural components of cell membrane. Choose compounds necessary for their synthesis.",
+      "options": [
+        "UDP-derivatives of monosaccharides",
+        "Phosphoric acid",
+        "Fatty acids",
+        "Sphingosine",
+        "Glycerol"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-140",
+      "question": "Fatty acid b-oxidation is the important supplier of ATP. Choose the intermediary products of this biosynthesis.",
+      "options": [
+        "Mevalonic acid",
+        "b-hydroxy -acyl –CoA",
+        "b-hydroxy, b-methylglutaryl –CoA",
+        "Enoyl-CoA",
+        "b-Ketoacyl-CoA"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-141",
+      "question": "The key enzyme inhibitors of cholesterol biosynthesis are widely used for atherosclerosis treatment. Tick the key enzyme.",
+      "options": [
+        "Acethyl-CoA-acethyl trancferase",
+        "b-hydroxy, b-methylglutaryl-CoA-synthetase",
+        "b-hydroxy, b-methylglutaryl-CoA-reductase (HMG-CoA-reductase)"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-142",
+      "question": "Lipids are the important energetic substrates. What lipids perform energetic and storage function?",
+      "options": [
+        "Glycerophospholipids",
+        "Triacylglycerols",
+        "Gangliosides",
+        "Cerebrosides"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-143",
+      "question": "What functions do lipids perform?",
+      "options": [
+        "Energetic",
+        "Regulatory",
+        "Structural",
+        "Storage",
+        "Catalytic"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-144",
+      "question": "Glycerophospholipids are the important component of cell membranes. Choose their structural components.",
+      "options": [
+        "Glycerol",
+        "Sphingasine",
+        "Saturated fatty acids",
+        "Unsaturated fatty acids",
+        "Ethanolamine",
+        "Serine",
+        "Phosphoric acid",
+        "Inositol",
+        "Choline"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-145",
+      "question": "Choose steroids among listed below compounds.",
+      "options": [
+        "Cerebrosides",
+        "Cholesteryl esters",
+        "Cortex hormones",
+        "Sex hormones",
+        "Bile acids",
+        "Vitamin D",
+        "Gangliosides",
+        "Cholesterol",
+        "Lecithin"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-146",
+      "question": "Ganglyosides are chiefly distributed in gray matter. Choose their chemical components.",
+      "options": [
+        "Glycerol",
+        "Sphingosine",
+        "Oligosaccharide",
+        "Fatty acids",
+        "Phosphoric acid"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-147",
+      "question": "What are the lipid daily requirements for adults?",
+      "options": [
+        "400-500g",
+        "80-100g",
+        "150-200",
+        "250-300"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-148",
+      "question": "Bile acids play an important role in lipid digestion. Tick these ones among listed below:",
+      "options": [
+        "Glucuronic acid",
+        "Linoleic acid",
+        "Chenodeoxycholic acid",
+        "Glycocholic acid",
+        "Cholic acid",
+        "Deoxycholic acid",
+        "Arachidonic acid",
+        "Taurodeoxycholic acid"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-149",
+      "question": "Lipids are transported by different lipoproteins. What these ones transport the endogenic triacylglycerols?",
+      "options": [
+        "LDL",
+        "HDL",
+        "VLDL",
+        "Chylomicrones"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-150",
+      "question": "Chylomicrones are one of the most important lipid transport forms in organism. What function do they perform?",
+      "options": [
+        "Transport of endogenic fats",
+        "Transport of re-synthesized fats in intestinal mucousa",
+        "Transport of cholesterol to peripheral tissues",
+        "Transport of cholesterol to liver",
+        "Transport of phospholipids"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-151",
+      "question": "Cholesterol is synthesized mainly in hepatocytes. What lipoproteins transport cholesterol to different tissues?",
+      "options": [
+        "Chylomicrones",
+        "VLDL",
+        "LDL",
+        "HDL"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-152",
+      "question": "Mitochondrial fatty acid b-oxidation plays an important role in energy providing of cardiac muscle. What compound participates in transport of long chain fatty acids from cytoplasm to mitochondria?",
+      "options": [
+        "Carnitine",
+        "Carnosine",
+        "Anserine",
+        "Choline",
+        "Coenzyme A"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-153",
+      "question": "Fatty acid β-oxidation is the main process of their degradation. What metabolite is β-oxidation ended with?",
+      "options": [
+        "Pyruvate",
+        "Acetyl-CoA",
+        "Lactate",
+        "Acetone"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-154",
+      "question": "Ketone bodies are accumulated in organism in diabetes mellitus and starvation. Tick the ketone bodies.",
+      "options": [
+        "Acetoacetic acid",
+        "Oxalacetic acid",
+        "Succinic acid",
+        "Acetone",
+        "b-hydroxyibutiric acid",
+        "Pyruvic acid"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-155",
+      "question": "What hormone activates lipogenesis providing fat deposits in adipose tissue?",
+      "options": [
+        "Insulin",
+        "Somatotropin",
+        "Cathecholamines",
+        "Glucagon",
+        "Thyroxine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-156",
+      "question": "Synthesis of glycerophospholipids (structural components of biological membranes) occurs in cells. Tick the intermediate products of this synthesis:",
+      "options": [
+        "Glycerol-3-phosphate",
+        "Phosphatidylcholine",
+        "Diacylglycerol",
+        "Phosphatidyl-ethanolamine",
+        "Phosphatidic acid"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-157",
+      "question": "Fatty acid b-oxidation is the main source of ATP. What organelles is it found in?",
+      "options": [
+        "In endoplasmic reticulum",
+        "In cell membranes",
+        "In ribosomes",
+        "In cytoplasm",
+        "In mitochondria",
+        "In nucleus",
+        "In peroxisomes"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-158",
+      "question": "Choose the bond broken down by phospholipase A2 (the key enzyme of eicosanoid formation).",
+      "options": [
+        "Between glycerol and fatty acid in a-position",
+        "Between glycerol and fatty acid in b-position",
+        "Between glycerol and phosphoric acid",
+        "Between phosphoric acid and choline"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-159",
+      "question": "It’s known that atherogenic coefficient (total cholesterol- cholesterolHDL) is the biochemical diagnostic criterion of atherosclerosis development risk. Tick the normal coefficient for adults:",
+      "options": [
+        "1,0-2,0",
+        "3,0-3,5",
+        "2,0-3,0",
+        "4,0-4,5",
+        "1,3-2,5",
+        "4,5-5,5"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-160",
+      "question": "Corticosteroids are used as antipyric medicines. This effect is conditioned by eicosanoid synthesis inhibition. What enzyme do they inhibit?",
+      "options": [
+        "Phospholipase A2",
+        "Lipoxigenase",
+        "Cyclooxigenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-161",
+      "question": "Abundance of dietary carbohydrates are converted to triacylglycerols in adipose tissue. Choose the intermediate products of this synthesis:",
+      "options": [
+        "Phosphoglycerol",
+        "Diacylglycerol",
+        "Phosphatidylcholine",
+        "Phosphatidiс acid",
+        "Ceramide"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-162",
+      "question": "Tissue glycerophospholipids are renovated. What bond is broken down by phospholipase C?",
+      "options": [
+        "Between glycerol and fatty acid in a-position",
+        "Between glycerol and fatty acid in b-position",
+        "Between glycerol and phosphoric acid",
+        "Between phosphoric acid and choline"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-163",
+      "question": "It’s known that aspirin possesses not only febrifugal effect but antiinflamatory action. What enzyme participating in eicosanoids synthesis does aspirin inhibit?",
+      "options": [
+        "Phospholipase A2",
+        "Cyclooxigenese",
+        "Lipoxigenese",
+        "Cytochromoxidase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-164",
+      "question": "An example of a saturated fatty acid is:",
+      "options": [
+        "Palmitic acid",
+        "Oleic acid",
+        "Linoleic acid",
+        "Erucic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-165",
+      "question": "If the fatty acid is esterified with an alcohol of high molecular weight instead of glycerol, the resulting compound is:",
+      "options": [
+        "Lipositol",
+        "Plasmalogen",
+        "Wax",
+        "Cephalin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-166",
+      "question": "The fatty acid present in cerebrosides is:",
+      "options": [
+        "Lignoceric acid",
+        "Valeric acid",
+        "Caprylic acid",
+        "Behenic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-167",
+      "question": "The number of double bonds in arachidonic acid:",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-168",
+      "question": "A lipid containing alcoholic amine residue is:",
+      "options": [
+        "Phosphatidic acid",
+        "Ganglioside",
+        "Glucocerebroside",
+        "Sphingomyelin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-169",
+      "question": "Cephalin consists of",
+      "options": [
+        "Glycerol, fatty acids, phosphoric acid and choline",
+        "Glycerol, fatty acids, phosphoric acid and ethanolamine",
+        "Glycerol, fatty acids, phosphoric acid and inosito",
+        "Glycerol, fatty acids, phosphoric acid and serine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-170",
+      "question": "In mammals, the major fat in adipose tissues is",
+      "options": [
+        "Phospholipid",
+        "Cholesterol",
+        "Sphingolipids",
+        "Triacylglycerol"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-171",
+      "question": "Glycosphingolipids are a combination of:",
+      "options": [
+        "Ceramide with one or more sugar residues",
+        "Glycerol with galactose",
+        "Sphingosine with galactose",
+        "Sphingosine with phosphoric acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-172",
+      "question": "The importance of phospholipids as constituent of cell membrane is because they possess",
+      "options": [
+        "Fatty acids",
+        "Both polar and nonpolar groups",
+        "Glycerol",
+        "Phosphoric acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-173",
+      "question": "Gangliosides are complex glycosphingolipids found in:",
+      "options": [
+        "Liver",
+        "Brain",
+        "Kidney",
+        "Muscle"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-174",
+      "question": "Phospholipid acting as surfactant is:",
+      "options": [
+        "Cephalin",
+        "Phosphatidyl inositol",
+        "Lecithin",
+        "Phosphatidyl serine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-175",
+      "question": "Gangliosides derived from glucosylceramide contain in addition one or more molecules of:",
+      "options": [
+        "Sialic acid",
+        "Glycerol",
+        "Diacylglycerol",
+        "Hyaluronic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-176",
+      "question": "Deterioration of food (rancidity) is due to presence of:",
+      "options": [
+        "Cholesterol",
+        "Vitamin E",
+        "Peroxidation of lipids",
+        "Phenolic compounds"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-177",
+      "question": "Salkowski test is performed to detect:",
+      "options": [
+        "Glycerol",
+        "Cholesterol",
+        "Fatty acids",
+        "Vitamin D"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-178",
+      "question": "Dietary fats after absorption appear in the circulation as:",
+      "options": [
+        "HDL",
+        "VLDL",
+        "LDL",
+        "Chylomicron"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-179",
+      "question": "Long chain fatty acids are first activated to acetyl-CoA in:",
+      "options": [
+        "Cytosol",
+        "Microsomes",
+        "Nucleus",
+        "Mitochondria"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-180",
+      "question": "The enzyme acyl-CoA synthase catalyses the conversion of a fatty acid of an active fatty acid in the presence of",
+      "options": [
+        "AMP",
+        "ADP",
+        "ATP",
+        "GTP"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-181",
+      "question": "Carnitine is synthesized from:",
+      "options": [
+        "Lysine and methionine",
+        "Glycine and arginine",
+        "Aspartate and glutamate",
+        "Proline and hydroxyproline"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-182",
+      "question": "Gaucher’s disease is due to deficiency of the enzyme:",
+      "options": [
+        "Sphingomyelinase",
+        "Glucocerebrosidase",
+        "Galactocerbrosidase",
+        "β-Galactosidase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-183",
+      "question": "An important finding in Neimann-Pick disease is:",
+      "options": [
+        "Leukopenia",
+        "Cardiac enlargement",
+        "Corneal opacity",
+        "Hepatosplenomegaly"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-184",
+      "question": "Phrynoderma is a deficiency of:",
+      "options": [
+        "Essential fatty acids",
+        "Proteins",
+        "Amino acids",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-185",
+      "question": "The end products of saponification:",
+      "options": [
+        "glycerol",
+        "acid",
+        "soap",
+        "all options are correct"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-186",
+      "question": "Which of the following is omega-3 fatty acid?",
+      "options": [
+        "Linoleic acid",
+        "α-Linolenic acid",
+        "γ-Linolenic acid",
+        "Arachidonic acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-187",
+      "question": "Triglycerides are:",
+      "options": [
+        "Heavier than water",
+        "Major constituents of membranes",
+        "Non-polar",
+        "Hydrophilic"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-188",
+      "question": "Cerebronic acid is present in",
+      "options": [
+        "Glycerophospholipids",
+        "Sphingophospholipids",
+        "Galactosyl ceramide",
+        "Gangliosides"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-189",
+      "question": "Acylsphingosine is also known as:",
+      "options": [
+        "Sphingomyelin",
+        "Ceramide",
+        "Cerebroside",
+        "Sulphatide"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-190",
+      "question": "The highest phospholipids content is found in:",
+      "options": [
+        "Chylomicrons",
+        "VLDL",
+        "LDL",
+        "HDL"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-191",
+      "question": "The major lipid in chylomicrons is:",
+      "options": [
+        "Triglycerides",
+        "Phospholipids",
+        "Cholesterol",
+        "Free fatty acids"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-192",
+      "question": "Number of carbon atoms in cholesterol is",
+      "options": [
+        "17",
+        "19",
+        "27",
+        "30"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-193",
+      "question": "The lipoprotein richest in cholesterol is:",
+      "options": [
+        "Chylomicrons",
+        "VLDL",
+        "LDL",
+        "HDL"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-194",
+      "question": "The nitrogenous base in lecithin is:",
+      "options": [
+        "Ethanolamine",
+        "Choline",
+        "Serine",
+        "Betaine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-195",
+      "question": "A 20-carbon fatty acid among the following is:",
+      "options": [
+        "Linoleic acid",
+        "α -Linolenic acid",
+        "β -Linolenic acid",
+        "Arachidonic acid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-196",
+      "question": "Triglycerides are transported from liver to extrahepatic tissues by:",
+      "options": [
+        "Chylomicrons",
+        "VLDL",
+        "HDL",
+        "LDL"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-197",
+      "question": "Hepatic lipogenesis is stimulated by:",
+      "options": [
+        "cAMP",
+        "Glucagon",
+        "Epinephrine",
+        "Insulin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-198",
+      "question": "β-Oxidation of fatty acids requires all the following coenzymes except:",
+      "options": [
+        "CoA",
+        "FAD",
+        "NAD",
+        "NADP"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-199",
+      "question": "Which of the following can be oxidized by β-oxidation pathway?",
+      "options": [
+        "Saturated fatty acids",
+        "Monosaturated fatty acids",
+        "Polyunsaturated fatty acids"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-200",
+      "question": "Propionyl CoA is formed at oxidation of:",
+      "options": [
+        "Monounsaturated fatty acids",
+        "Polyunsaturated fatty acids",
+        "Fatty acids with odd number of carbon atoms",
+        "None of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-201",
+      "question": "An enzyme required for the synthesis of ketone bodies is:",
+      "options": [
+        "Acetyl CoA carboxylase",
+        "HMG CoA synthetase",
+        "HMG CoA reductase",
+        "HMG CoA lyase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-202",
+      "question": "Ketone bodies are synthesized in:",
+      "options": [
+        "Adipose tissue",
+        "Liver",
+        "Muscles",
+        "Brain"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-203",
+      "question": "All the following statements about ketone bodies are true except:",
+      "options": [
+        "Their synthesis increases in diabetes mellitus",
+        "They are synthesized in mitochondria",
+        "They can deplete the alkali reserve",
+        "They can be oxidized in the liver"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-204",
+      "question": "Anti-inflammatory corticosteroids inhibit the synthesis of:",
+      "options": [
+        "Leukotrienes",
+        "Prostaglandins",
+        "Thromboxanes",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-205",
+      "question": "In glycerophospholipids, a polyunsaturated fatty acid is commonly attached to which of the following carbon atom of glycerol?",
+      "options": [
+        "Carbon 1",
+        "Carbon 2",
+        "Both (1) and (2)",
+        "None of these"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-206",
+      "question": "Lysolecithin is formed from lecithin by removal of:",
+      "options": [
+        "Fatty acid from position 1",
+        "Fatty acid from position 2",
+        "Phosphorylcholine",
+        "Choline"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-207",
+      "question": "Sphingosine is synthesized from:",
+      "options": [
+        "Palmitoyl CoA and Choline",
+        "Palmitoyl CoA and ethanolamine",
+        "Palmitoyl CoA and serine",
+        "Acetyl CoA and choline"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-208",
+      "question": "For synthesis of sphingosine, all the following coenzymes are required except:",
+      "options": [
+        "Pyridoxal phosphate",
+        "NADPH",
+        "FAD",
+        "NAD"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-209",
+      "question": "Cerebrosides contain all the following except:",
+      "options": [
+        "Galactose",
+        "Sulphate",
+        "Sphingosine",
+        "Fatty acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-210",
+      "question": "Niemann-Pick disease results from deficiency of:",
+      "options": [
+        "Ceramidase",
+        "Sphingomyelinase",
+        "Arylsulphatase A",
+        "Hexosaminidase A"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-211",
+      "question": "Chylomicron remnants are catabolised in:",
+      "options": [
+        "Intestine",
+        "Adipose tissue",
+        "Liver",
+        "Liver and intestine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-212",
+      "question": "VLDL remnant may be converted into",
+      "options": [
+        "VLDL",
+        "LDL",
+        "HDL",
+        "Chylomicrons"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-213",
+      "question": "Receptors for chylomicron remnants are:",
+      "options": [
+        "Apo A specific",
+        "Apo B-48 specific",
+        "Apo C specific",
+        "Apo E specific"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-214",
+      "question": "HDL is synthesized in",
+      "options": [
+        "Adipose tissue",
+        "Liver",
+        "Intestine",
+        "Liver and intestine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-215",
+      "question": "Fatty liver may be caused by",
+      "options": [
+        "Deficiency of methionine",
+        "Puromycin",
+        "Chronic alcoholism",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-216",
+      "question": "Alcohol dehydrogenase converts ethanol into:",
+      "options": [
+        "Acetyl CoA",
+        "Acetaldehyde",
+        "Acetate",
+        "CO2 and H2O"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-217",
+      "question": "Lipids are stored in the body mainly in the form of:",
+      "options": [
+        "Phospholipids",
+        "Glycolipids",
+        "Triglycerides",
+        "Fatty acids"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-218",
+      "question": "Lipid stores are mainly present in",
+      "options": [
+        "Liver",
+        "Brain",
+        "Muscles",
+        "Adipose tissue"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-219",
+      "question": "Glycerol is converted into glycerol-3-phosphate by:",
+      "options": [
+        "Thiokinase",
+        "Triokinase",
+        "Glycerol kinase",
+        "All of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-220",
+      "question": "In adipose tissue, glycerol-3-phosphate required for the synthesis of triglycerides comes mainly from:",
+      "options": [
+        "Hydrolysis of pre-existing triglycerides",
+        "Hydrolysis of phospholipids",
+        "Dihydroxyacetone phosphate formed in glycolysis",
+        "Free glycerol"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-221",
+      "question": "Glycerol released from adipose tissue by hydrolysis of triglycerides is mainly:",
+      "options": [
+        "Taken up by liver",
+        "Taken up by extrahepatic tissues",
+        "Reutilised in adipose tissue",
+        "Excreted from the body"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-222",
+      "question": "Free glycerol cannot be used for triglyceride synthesis in:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Intestine",
+        "Adipose tissue"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-223",
+      "question": "Saliva contains a lipase which acts on triglycerides having:",
+      "options": [
+        "Short chain fatty acids",
+        "Medium chain fatty acids",
+        "Long chain fatty acids",
+        "All of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-224",
+      "question": "Salivary lipase converts dietary triglycerides into",
+      "options": [
+        "Diglycerides and fatty acids",
+        "Monoglycerides and fatty acids",
+        "Glycerol and fatty acids",
+        "All of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-225",
+      "question": "Pancreatic lipase requires for its activity:",
+      "options": [
+        "Co-lipase",
+        "Bile salts",
+        "Phospholipids",
+        "None of these"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-226",
+      "question": "Pancreatic lipase converts triacylglycerols into:",
+      "options": [
+        "2, 3-Diacylglycerol",
+        "1-Monoacylglycerol",
+        "2-Monoacylglycerol",
+        "3-Monoacylglycerol"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-227",
+      "question": "Oxidation of fatty acids occurs",
+      "options": [
+        "In the cytosol",
+        "In the matrix of mitochondria",
+        "On inner mitochondrial membrane",
+        "On the microsomes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-228",
+      "question": "Activation of fatty acids requires all the following except:",
+      "options": [
+        "ATP",
+        "Coenzyme A",
+        "Thiokinase",
+        "Carnitine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-229",
+      "question": "Mitochondrial thiokinase acts on:",
+      "options": [
+        "Short chain fatty acids",
+        "Medium chain fatty acids",
+        "Long chain fatty acids",
+        "All of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-230",
+      "question": "Carnitine is required for the transport of:",
+      "options": [
+        "Triglycerides out of liver",
+        "Triglycerides into mitochondria",
+        "Short chain fatty acids into mitochondria",
+        "Long chain fatty acids into mitochondria"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-231",
+      "question": "Carnitine acylcarnitine translocase is present:",
+      "options": [
+        "In the inner mitochondrial membrane",
+        "In the mitochondrial matrix",
+        "On the outer surface of inner mitochondrial membrane",
+        "On the inner surface of inner mitochondrial membrane"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-232",
+      "question": "α-Oxidation of fatty acids occurs mainly in:",
+      "options": [
+        "Liver",
+        "Brain",
+        "Muscles",
+        "Adipose tissue"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-233",
+      "question": "Fat depots are located in",
+      "options": [
+        "Intermuscular connective tissue",
+        "Mesentary",
+        "Omentum",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-234",
+      "question": "Co-lipase is a:",
+      "options": [
+        "Bile salt",
+        "Vitamin",
+        "Protein",
+        "Phospholipid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-235",
+      "question": "Mitochondrial membrane is permeable to:",
+      "options": [
+        "Short chain fatty acids",
+        "Medium chain fatty acids",
+        "Long chain fatty acids",
+        "All of these"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-236",
+      "question": "Tick the necessary conditions for lipids digestion:",
+      "options": [
+        "Enzymes presence",
+        "pH optimum",
+        "Emulsification",
+        "Vitamins presence",
+        "Intensive peristalsis"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-237",
+      "question": "What is the optimal pH for lipids digestion?",
+      "options": [
+        "1-2",
+        "4-5.5",
+        "8-8.5",
+        "9-11"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-238",
+      "question": "What is the total lipids blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 3,4 mM/L"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-239",
+      "question": "What is the TAG (triacylglycerols) blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 3,4 mM/L"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-240",
+      "question": "What is the free fatty acids blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 3,4 mM/L"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-241",
+      "question": "What is the phospholipids blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 3,4 mM/L"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-242",
+      "question": "What is the cholesterol blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 3,4 mM/L"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-243",
+      "question": "What is the cholesterol HDL blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 3,4 mM/L"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-244",
+      "question": "What is the cholesterol LDL blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 3,4 mM/L"
+      ],
+      "correctAnswers": [
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-245",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Acyl-CoA DH",
+        "Enoylhydroxy DH",
+        "Acetyl-CoA DH",
+        "Thiolase",
+        "Palmityl-CoA DH"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-246",
+      "question": "Which enzyme catalyses the following reaction?",
+      "options": [
+        "Acyl-CoA DH",
+        "Enoylhydroxy DH",
+        "Acetyl-CoA DH",
+        "Thiolase",
+        "Palmityl-CoA DH"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-247",
+      "question": "Tick the correct sequence of enzymes catalysed this process:",
+      "options": [
+        "Glycerokinase, glycerophosphate DH",
+        "Glycerophosphate synthase, phosphodihydroxyaceton synthase",
+        "Glycerokinase, phosphodihydroxyaceton synthase",
+        "Glycerophosphate synthase, glycerophosphate DH"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-248",
+      "question": "What is the ketone bodies blood reference value?",
+      "options": [
+        "4-8 g/L",
+        "1 – 2,5 mMol/L",
+        "0,5 – 1,0 mM/L",
+        "2,25 – 3,0 mM/L",
+        "3,2 - 5,2 mM/L",
+        "≥ 1mM/L",
+        "≤ 0.6 mM/L"
+      ],
+      "correctAnswers": [
+        6
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-249",
+      "question": "Tich the activators of ketone bodies in tissues:",
+      "options": [
+        "Acetyl-CoA",
+        "HS-CoA",
+        "Succinyl-CoA",
+        "Propionyl-CoA"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-250",
+      "question": "How many ATP molecules does 1 molecule acetoacetyl-CoA give at its oxidation:",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "24",
+        "36 Proteins Metabolism"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-1",
+      "question": "Which among the following is a non-essential amino acid?",
+      "options": [
+        "Serine",
+        "Threonine",
+        "Lysine",
+        "Histidine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-2",
+      "question": "Which of the following is an essential amino acid?",
+      "options": [
+        "Cysteine",
+        "Asparagine",
+        "Glutamine",
+        "Phenylalanine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-3",
+      "question": "Which among the following is glucogenic amino acid?",
+      "options": [
+        "Isoleucine",
+        "Leucine",
+        "Lysine",
+        "Histidine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "lipid-4",
+      "question": "An amino acid that yields acetoacetyl CoA during the catabolism of its carbon skeleton will be considered",
+      "options": [
+        "Glycogenic",
+        "Ketogenic",
+        "Both glycogenic and ketogenic",
+        "Essential"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}
