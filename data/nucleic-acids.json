@@ -1,0 +1,1437 @@
+{
+  "title": "Nucleic Acids MCQ",
+  "questions": [
+    {
+      "id": "na-1",
+      "question": "An amino group donated by glutamine is attached at C-1 of PRPP, this results in",
+      "options": [
+        "5-phosphoribosylamine",
+        "4-phosphoribosylamine",
+        "3-phosphoribosylamine",
+        "2-phosphoribosylamine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-2",
+      "question": "The first intermediate with a complete purine ring is",
+      "options": [
+        "Inosinate",
+        "Formate",
+        "Aspartate",
+        "Glycine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-3",
+      "question": "Which substances are precursors in pyrimidine synthesis?",
+      "options": [
+        "Glycine",
+        "Aspartate",
+        "Glutamine",
+        "Leucine"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-4",
+      "question": "Which of the following are precursors in purine pathway?",
+      "options": [
+        "Glycine",
+        "Aspartate",
+        "Glutamine",
+        "Leucine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-5",
+      "question": "In the first committed step of pyrimidine biosynthesis, the reaction is catalyzed by",
+      "options": [
+        "Adenylate kinase",
+        "Aspartate transcarbamoylase",
+        "Dihyhroorotase",
+        "Cytidylate synthase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-6",
+      "question": "Phosphorylation of AMP to ADP is promoted by",
+      "options": [
+        "Adenylate kinase",
+        "Aspartate transcarbamoylase",
+        "Dihyhroorotase",
+        "Cytidylate synthase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-7",
+      "question": "CTP is formed from UTP by the action of",
+      "options": [
+        "Adenylate kinase",
+        "Aspartate transcarbamoylase",
+        "Dihyhroorotase",
+        "Cytidylate synthase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-8",
+      "question": "Conversion of dUMP to dTMP is catalyzed by",
+      "options": [
+        "Thymidylate synthase",
+        "Dihydrofolate reductase",
+        "Dihyhroorotase",
+        "Cytidylate synthase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-9",
+      "question": "Adenosine deaminase deaminates adenosine to",
+      "options": [
+        "Hypoxanthine",
+        "Inosine",
+        "Xanthine",
+        "Guanosine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-10",
+      "question": "Which of the following is degraded to methylmalonylsemialdehyde",
+      "options": [
+        "Glutamine",
+        "Tyrosine",
+        "Thymine",
+        "Leucine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-11",
+      "question": "Identify the purine base of nucleic acids in the following",
+      "options": [
+        "Cytosine",
+        "Thymine",
+        "Uracil",
+        "Adenine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-12",
+      "question": "Which of the following is not the component of RNA?",
+      "options": [
+        "Thymine",
+        "Adenine",
+        "Guanine",
+        "Cytosine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-13",
+      "question": "Which of the following statements is true?",
+      "options": [
+        "Sugar component of a nucleotide is ribose",
+        "Sugar component of a nucleotide is deoxyribose",
+        "The bases in nucleotides are attached to a pentose sugar moiety by a glycosidic linkage",
+        "The sugar molecule of the nucleotide is in L-configuration"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-14",
+      "question": "What is the composition of nucleoside?",
+      "options": [
+        "a sugar + a phosphate",
+        "a base + a sugar",
+        "a base + a phosphate",
+        "a base + a sugar + phosphate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-15",
+      "question": "What is the composition of nucleotide?",
+      "options": [
+        "a sugar + a phosphate",
+        "a base + a sugar",
+        "a base + a phosphate",
+        "a base + a sugar + phosphate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-16",
+      "question": "Group of adjacent nucleotides are joined by",
+      "options": [
+        "Phosphodiester bond",
+        "Peptide bond",
+        "Ionic bond",
+        "Covalent bond"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-17",
+      "question": "The sugar molecule in a nucleotide is",
+      "options": [
+        "Pentose",
+        "Hexose",
+        "Tetrose",
+        "Triose"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-18",
+      "question": "Which of the following is true about phosphodiester linkage?",
+      "options": [
+        "3’-phosphate group of one nucleotide unit is joined to the 3’-hydroxyl group of the next nucleotide",
+        "5’-phosphate group of one nucleotide unit is joined to the 5’-hydroxyl group of the next nucleotide",
+        "3’-phosphate group of one nucleotide unit is joined to the 5’-hydroxyl group of the next nucleotide",
+        "5’-phosphate group of one nucleotide unit is joined to the 3’-hydroxyl group of the next nucleotide"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-19",
+      "question": "Building blocks of nucleic acids are",
+      "options": [
+        "Nucleotides",
+        "Nucleosides",
+        "Amino acids",
+        "Histones"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-20",
+      "question": "Number of hydrogen bonds between adenine and thymine",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-21",
+      "question": "Number of hydrogen bonds between guanine and cytosine",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-22",
+      "question": "Which ratio is constant for DNA?",
+      "options": [
+        "A + G / T + C",
+        "A + T / G + C",
+        "A + C / U + G",
+        "A + U / G + C"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-23",
+      "question": "According to Chargaff’s rule, in a DNA molecule",
+      "options": [
+        "The amount of adenine and thymine is equal to the amount of guanine and cytosine",
+        "The amount of adenine and guanine is equal to the amount of thymine and cytosine",
+        "The amount of adenine and uracil is equal to the amount of guanine and cytosine",
+        "The amount of adenine and guanine is equal to the amount of uracil and cytosine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-24",
+      "question": "Which of the following statements is NOT true about RNA?",
+      "options": [
+        "Does not have a double stranded structure",
+        "Thymine is present",
+        "Does not obey Chargaff’s rule",
+        "The sugar contained in RNA is a ribose"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-25",
+      "question": "Which of the following statements is true",
+      "options": [
+        "The template strand matches the sequence of the RNA transcript",
+        "The two strands of DNA run parallel to each other",
+        "G-C bonds are much more resistant to denaturation than A-T rich regions",
+        "The common form of DNA is left handed"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-26",
+      "question": "Which of the following is false about DNA denaturation",
+      "options": [
+        "Disruption of hydrogen bonds",
+        "Disruption of phosphodiester linkage",
+        "Loss of helical structure of DNA",
+        "It is a result of change in pH or increase in temperature"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-27",
+      "question": "Which of the following nucleotides is not present in RNA",
+      "options": [
+        "AMP",
+        "GMP",
+        "CMP",
+        "TMP"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-28",
+      "question": "Which of the following nucleotides is NOT present in DNA",
+      "options": [
+        "AMP",
+        "GMP",
+        "UMP",
+        "CMP"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-29",
+      "question": "Which of the following involves in carrying genetic information from DNA for protein synthesis?",
+      "options": [
+        "m-RNA",
+        "t-RNA",
+        "r-RNA",
+        "sn-RNA"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-30",
+      "question": "The function of nucleotide includes",
+      "options": [
+        "Second Messenger",
+        "Energy currency and high energy equivalents",
+        "Regulators of intermediary metabolism",
+        "All answers are true"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-31",
+      "question": "Which of the following is not the precursor for the denovo purine biosynthesis?",
+      "options": [
+        "Aspartic Acid",
+        "Glycine",
+        "Glutamine",
+        "Arginine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-32",
+      "question": "Which of the following serves as the cofactor for the denovo synthesis of purine metabolism?",
+      "options": [
+        "Thiamine",
+        "Biotin",
+        "Folate",
+        "Flavin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-33",
+      "question": "What is an activator of the enzyme “Glutamine: Phosphoribosylpyrophosphate amidotransferase” a committed step of de novo biosynthesis of purines?",
+      "options": [
+        "Adenosine Monophosphate",
+        "Guanosine Monophosphate",
+        "Inosine Monophosphate",
+        "Phosphoribosyl Pyrophosphate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-34",
+      "question": "Which of the following is the coenzyme for the synthesis of deoxyribonucleotides catalyzed by an enzyme ribonucleotide reductase?",
+      "options": [
+        "Glutathione",
+        "Thioredoxin",
+        "NADH",
+        "Folate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-35",
+      "question": "Severe combined immunodeficiency disease is caused by the deficiency of",
+      "options": [
+        "AMP deaminase",
+        "Adenosine deaminase",
+        "PRPP synthetase",
+        "There are no correct answers"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-36",
+      "question": "Carbamoyl phosphate synthetase II (CPS-II) is the committed step in the formation of carbamoyl phosphate is",
+      "options": [
+        "Activated by PRPP",
+        "Inhibited by UMP",
+        "Activated by ATP",
+        "All answers are correct"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-37",
+      "question": "Which of the following cofactors is used during the conversion of uracil to thymine?",
+      "options": [
+        "S-Adenosyl Methionine",
+        "Tetrahydrofolate",
+        "Tetrahydrobiopterin",
+        "Biotin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-38",
+      "question": "Which of the following cofactor/coenzyme is NOT utilized in the conversion of ribose to deoxyribose?",
+      "options": [
+        "NADPH",
+        "FADH2",
+        "Tetrahydrofolate",
+        "Thioredoxin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-39",
+      "question": "Followings are the example of nucleosides EXCEPT",
+      "options": [
+        "Adenosine",
+        "Cytidine",
+        "Cytosine",
+        "Uridine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-40",
+      "question": "The nitrogens of a purine molecule are derived from all of the following amino acids",
+      "options": [
+        "Aspartic Acid and Glutamine",
+        "Asparagine and Glutamine",
+        "Glutamate and Alanine",
+        "Glycine and Alanine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-41",
+      "question": "Which of the following steps of pyrimidine biosynthesis occurs in mitochondria?",
+      "options": [
+        "Synthesis of carbamoyl phosphate catalyzed by CPS II",
+        "Conversion of carbamoyl phosphate to carbamoyl aspartate catalyzed by aspartate transcarbamoylase",
+        "Synthesis of dihydroorotate catalyzed by dihydroorotase",
+        "Formation of orotic acid catalyzed by dihydroorotase dehydrogenase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-42",
+      "question": "Methotrexate inhibits the following enzyme",
+      "options": [
+        "ribonucleotide reductase",
+        "thymidylate synthase",
+        "dihydrofolate reductase",
+        "PRPP‑amidotransferase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-43",
+      "question": "Orotic aciduria is an inherited genetic disorder caused by a deficiency of the following enzyme",
+      "options": [
+        "Carbamoyl phosphate synthetase II",
+        "Aspartate transcarbamoylase",
+        "Dihydroorotase dehydrogenase",
+        "Orotate phosphoribosyl transferase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-44",
+      "question": "Fluorouracil is an anti-tumor agent that binds and irreversibly inhibits the following enzyme",
+      "options": [
+        "ribonucleotide reductase",
+        "thymidylate synthase",
+        "dihydrofolate reductase",
+        "PRPP‑amidotransferase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-45",
+      "question": "Which of the following is the degradation product of pyrimidines?",
+      "options": [
+        "beta -alanine",
+        "Uric acid",
+        "Allantoin",
+        "Glycine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-46",
+      "question": "A pyrimidine nucleotide is",
+      "options": [
+        "GMP",
+        "AMP",
+        "CMP",
+        "IMP"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-47",
+      "question": "Methylated purines and pyrimidines are characteristically present in",
+      "options": [
+        "mRNA",
+        "hnRNA",
+        "tRNA",
+        "rRNA"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-48",
+      "question": "The structure of tRNA appears like a",
+      "options": [
+        "Helix",
+        "Hair pin",
+        "Clover leaf",
+        "Coil"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-49",
+      "question": "The number of base pair in a single turn of B-form DNA about the axis of the molecule is",
+      "options": [
+        "4",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-50",
+      "question": "The distance spanned by one turn of DNA is",
+      "options": [
+        "1.0 nm",
+        "2.0 nm",
+        "3.0 nm",
+        "3.4 nm"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-51",
+      "question": "An increased melting temperature of duplex DNA results from a high content of",
+      "options": [
+        "Adenine + Guanine",
+        "Thymine + Cytosine",
+        "Cytosine + Guanine",
+        "Cytosine + Adenine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-52",
+      "question": "The degradation of RNA by pancreatic ribonuclease produces",
+      "options": [
+        "Nucleoside 2-Phosphates",
+        "Nucleoside 5′-phosphates",
+        "Oligonucleosides",
+        "Nucleoside 3′-phosphate and oligonucleotide"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-53",
+      "question": "Intestinal nucleosidases act on nucleosides and produce",
+      "options": [
+        "Purine base only",
+        "Phosphate only",
+        "Sugar only",
+        "Purine or pyrimidine bases and sugars"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-54",
+      "question": "In purine biosynthesis carbon atoms at 4 and 5 position and N at 7 position are contributed by",
+      "options": [
+        "Glycine",
+        "Glutamine",
+        "Alanine",
+        "Threonine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-55",
+      "question": "N10-formyl and N5N10-methenyl tetrahydrofolate contributes purine carbon atoms at position",
+      "options": [
+        "4 and 6",
+        "4 and 5",
+        "5 and 6",
+        "2 and 8"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-56",
+      "question": "In purine nucleus nitrogen atom at 1 position is derived from",
+      "options": [
+        "Aspartate",
+        "Glutamate",
+        "Glycine",
+        "Alanine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-57",
+      "question": "In the biosynthesis of purine nucleotides the AMP feed back regulates",
+      "options": [
+        "Adenylosuccinase",
+        "Adenylosuccinate synthetase",
+        "IMP dehydrogenase",
+        "HGPR Tase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-58",
+      "question": "Pyrimidine and purine nucleoside biosynthesis share a common precursor",
+      "options": [
+        "PRPP",
+        "Glycine",
+        "Fumarate",
+        "Alanine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-59",
+      "question": "Pyrimidine biosynthesis begins with the formation from glutamine, ATP and CO2, of",
+      "options": [
+        "Carbamoyl aspartate",
+        "Orotate",
+        "Carbamoyl phosphate",
+        "Dihydroorotate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-60",
+      "question": "The two nitrogen of the pyrimidine ring are contributed by",
+      "options": [
+        "Ammonia and glycine",
+        "Aspartate and carbamoyl phosphate",
+        "Glutamine and ammonia",
+        "Aspartate and ammonia"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-61",
+      "question": "The first true pyrimidine ribonucleotide synthesized is",
+      "options": [
+        "UMP",
+        "UDP",
+        "TMP",
+        "CTP"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-62",
+      "question": "The enzyme aspartate transcarbamoylase of pyrimidine biosynthesis is inhibited by",
+      "options": [
+        "ATP",
+        "ADP",
+        "AMP",
+        "CTP"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-63",
+      "question": "In humans end product of purine catabolism is",
+      "options": [
+        "Uric acid",
+        "Urea",
+        "Allantoin",
+        "Xanthine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-64",
+      "question": "The correct sequence of the reactions of catabolism of adenosine is",
+      "options": [
+        "Adenosine→hypoxanthine→xanthine→uric acid",
+        "Adenosine→xanthine→inosine→uric acid",
+        "Adenosine→inosine→hypoxanthine→ xanthine→ uric acid",
+        "Adenosine→xanthine→inosine→hypoxanthine→ uric acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-65",
+      "question": "Gout is a metabolic disorder of catabolism of",
+      "options": [
+        "Pyrimidine",
+        "Purine",
+        "Alanine",
+        "Phenylalanine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-66",
+      "question": "Gout is characterized by increased plasma levels of",
+      "options": [
+        "Urea",
+        "Uric acid",
+        "Creatine",
+        "Creatinine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-67",
+      "question": "Lesch-Nyhan syndrome, the sex linked recessive disorder is due to the lack of the enzyme",
+      "options": [
+        "Hypoxanthine-guanine phosphoribosyl transferse",
+        "Xanthine oxidase",
+        "Adenine phosphoribosyl transferase",
+        "Adenosine deaminase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-68",
+      "question": "Lesch-Nyhan syndrome may lead to",
+      "options": [
+        "Compulsive self destructive behaviour with elevated levels of urate in serum",
+        "Hypouricemia due to liver damage",
+        "Failure to thrive and megaloblastic anemia",
+        "Protein intolerance and hepatic encephalopathy"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-69",
+      "question": "The catabolic products of pyrimidines in human are",
+      "options": [
+        "β-Alanine",
+        "Urea",
+        "Uric acid",
+        "Guanine"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-70",
+      "question": "An autosomal recessive disorder, xanthinuria is due to deficiency of the enzymes",
+      "options": [
+        "Adenosine deaminase",
+        "Xanthine oxidase",
+        "HGPRTase",
+        "Transaminase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-71",
+      "question": "Transfer RNA transfers",
+      "options": [
+        "Information from DNA to ribosomes",
+        "Information from mRNA to cytosol",
+        "Amino acids from cytosol to ribosomes",
+        "Proteins from ribosomes to cytosol"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-72",
+      "question": "Nucleotides required for the synthesis of nucleic acids can be obtained from",
+      "options": [
+        "Dietary nucleic acids and nucleotides",
+        "De novo synthesis",
+        "Salvage of pre-existing bases and nucleosides",
+        "De novo synthesis and salvage"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-73",
+      "question": "The nitrogen atoms for de novo synthesis of purine nucleotides are provided by",
+      "options": [
+        "Aspartate and glutamate",
+        "Aspartate and glycine",
+        "Aspartate, glutamine and glycine",
+        "Aspartate, glutamate and glycine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-74",
+      "question": "The enzyme required for salvage of free purine bases is",
+      "options": [
+        "Adenine phosphoribosyl transferase",
+        "Hypoxanthine guanine phosphoribosyl transferase",
+        "Adenine phosphoribosyl transferase and hypoxanthine guanine phosphoribosyl transferase",
+        "None of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-75",
+      "question": "Daily uric acid excretion in adult men is",
+      "options": [
+        "0.01-0.05g",
+        "0.06-0.15g",
+        "0.35-1.5g",
+        "2.5-5.0g"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-76",
+      "question": "The nitrogen atoms of pyrimidine nucleus are provided by",
+      "options": [
+        "Glutamate",
+        "Glutamate and aspartate",
+        "Glutamine",
+        "Glutamine and aspartate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-77",
+      "question": "The carbon atoms of pyrimidine nucleus are provided by",
+      "options": [
+        "Glycine and aspartate",
+        "CO2 and aspartate",
+        "CO2 and glutamate",
+        "CO2 and glutamine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-78",
+      "question": "CTP synthetase forms CTP from",
+      "options": [
+        "CDP and inorganic phosphate",
+        "CDP and ATP",
+        "UTP and glutamine",
+        "UTP and glutamate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-79",
+      "question": "During de novo synthesis of pyrimidine nucleotides, the first ring compound to be formed is",
+      "options": [
+        "Carbamoyl aspartic acid",
+        "Dihydro-orotic acid",
+        "Orotic acid",
+        "Orotidine monophosphate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-80",
+      "question": "De novo synthesis of pyrimidine nucleotides is regulated by",
+      "options": [
+        "Carbamoyl phosphate synthetase",
+        "Aspartate transcarbamoylase",
+        "Carbamoyl phosphate synthetase and aspartate transcarbamoylase",
+        "None of these"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-81",
+      "question": "Cytosolic carbamoyl phosphate synthetase is inhibited by",
+      "options": [
+        "UTP",
+        "CTP",
+        "PRPP",
+        "TMP"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-82",
+      "question": "Cytosolic carbamoyl phosphate synthetase is activated by",
+      "options": [
+        "Glutamine",
+        "PRPP",
+        "ATP",
+        "Aspartate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-83",
+      "question": "Aspartate transcarbamoylase is inhibited by",
+      "options": [
+        "CTP",
+        "PRPP",
+        "ATP",
+        "TMP"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-84",
+      "question": "β -Aminoisobytyrate is formed from catabolism of",
+      "options": [
+        "Cytosine",
+        "Uracil",
+        "Thymine",
+        "Xanthine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-85",
+      "question": "β -Alanine is formed from catabolism of",
+      "options": [
+        "Thymine",
+        "Thymine and cytosine",
+        "Thymine and uracil",
+        "Cytosine and uracil"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-86",
+      "question": "All of the following statements about primary gout are true except",
+      "options": [
+        "Uric acid stones may be formed in kidneys",
+        "Arthritis of small joints occurs commonly",
+        "Urinary excretion of uric acid is decreased",
+        "It occurs predominantly in males"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-87",
+      "question": "All of the following statements about allopurinol are true except",
+      "options": [
+        "It is a structural analogue of uric acid",
+        "It can prevent uric acid stones in the kidneys",
+        "It increases the urinary excretion of xanthine and hypoxanthine",
+        "It is a competitive inhibitor of xanthine oxidase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-88",
+      "question": "Complete absence of hypoxanthine guanine phospharibosyl transferase causes",
+      "options": [
+        "Primary gout",
+        "Immunodeficiency",
+        "Uric acid stones",
+        "Lesh-Nyhan syndrome"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-89",
+      "question": "All of the following can occur in LeschNyhan syndrome except",
+      "options": [
+        "Gouty arthritis",
+        "Uric acid stones",
+        "Retarted growth",
+        "Self-mutiliating behavior"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-90",
+      "question": "A drug which prevents uric acid synthesis by inhibiting the enzyme Xanthine oxidase is",
+      "options": [
+        "Aspirin",
+        "Allopurinol",
+        "Colchicine",
+        "Phenyl benzoate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-91",
+      "question": "This substance is:",
+      "options": [
+        "adenine",
+        "hypoxanthine",
+        "xanthine",
+        "uric acid",
+        "urea",
+        "guanine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-92",
+      "question": "This substance is:",
+      "options": [
+        "adenine",
+        "hypoxanthine",
+        "xanthine",
+        "uric acid",
+        "urea",
+        "guanine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-93",
+      "question": "This substance is:",
+      "options": [
+        "adenine",
+        "hypoxanthine",
+        "xanthine",
+        "uric acid",
+        "urea",
+        "guanine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-94",
+      "question": "This compound is:",
+      "options": [
+        "adenine",
+        "guanine",
+        "hypoxanthine",
+        "xanthine",
+        "uric acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-95",
+      "question": "This compound is:",
+      "options": [
+        "adenine",
+        "guanine",
+        "hypoxanthine",
+        "xanthine",
+        "uric acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-96",
+      "question": "This compound is:",
+      "options": [
+        "dihydrouracil",
+        "orotate",
+        "thymine",
+        "cytosine",
+        "uracil",
+        "dihydroorotate"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-97",
+      "question": "This compound is:",
+      "options": [
+        "orotate",
+        "dihydroorotate",
+        "thymine",
+        "cytosine",
+        "uracil",
+        "dihydrouracil"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-98",
+      "question": "This compound is:",
+      "options": [
+        "dihydrothymine",
+        "dihydroorotate",
+        "thymine",
+        "cytosine",
+        "uracil"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-99",
+      "question": "What is the function of this substance:",
+      "options": [
+        "component of DNA",
+        "second messenger of extracellular chemical signals",
+        "anticancer drug",
+        "component of RNA"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-100",
+      "question": "This compound is:",
+      "options": [
+        "ATP",
+        "nucleotide of DNA",
+        "nucleotide of RNA",
+        "nucleoside"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "na-101",
+      "question": "This compound is:",
+      "options": [
+        "dihydrouracil",
+        "orotate",
+        "uric acid",
+        "uracil",
+        "dihydroorotate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}
