@@ -1,11 +1,11 @@
-{
+to{
   "title": "Biochemistry structures",
   "questions": [
     {
       "id": "biochem-structure-1",
       "question": "Identify the following chemical structure:",
       "image": "data/structures/vitamin-b1.jpg",
-      "structureLabel": "Vitamin B1 structure",
+      "structureLabel": "",
       "options": [
         "Vitamin D",
         "Vitamin B12",
