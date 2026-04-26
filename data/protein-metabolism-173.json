@@ -1,0 +1,2478 @@
+{
+  "title": "Protein Metabolism MCQ",
+  "questions": [
+    {
+      "id": "protein-1",
+      "question": "Which among the following is a non-essential amino acid?",
+      "options": [
+        "Serine",
+        "Threonine",
+        "Lysine",
+        "Histidine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-2",
+      "question": "Which of the following is an essential amino acid?",
+      "options": [
+        "Cysteine",
+        "Asparagine",
+        "Glutamine",
+        "Phenylalanine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-3",
+      "question": "Which among the following is glucogenic amino acid?",
+      "options": [
+        "Isoleucine",
+        "Leucine",
+        "Lysine",
+        "Histidine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-4",
+      "question": "An amino acid that yields acetoacetyl CoA during the catabolism of its carbon skeleton will be considered",
+      "options": [
+        "Glycogenic",
+        "Ketogenic",
+        "Both glycogenic and ketogenic",
+        "Essential"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-5",
+      "question": "Glutamate is metabolically converted to α-ketoglutarate and NH3 by a process",
+      "options": [
+        "Oxidative deamination",
+        "Transamination",
+        "Reductive deamination",
+        "Deamination"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-6",
+      "question": "The convertion of glutamate to α-ketoglutarate and NH3 is catalyzed by",
+      "options": [
+        "L-glutamate dehydrogenase",
+        "L-glutamate oxidase",
+        "L-glutamate transaminase",
+        "L-glutamate deaminase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-7",
+      "question": "Free ammonia combined with glutamate to yield glutamine by the action of",
+      "options": [
+        "Glutaminase",
+        "Glutamine synthase",
+        "Glutamate dehydrogenase",
+        "Amino transferase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-8",
+      "question": "Pyridoxal phosphate and pyridoxamine phosphate are tightly bound coenzymes of",
+      "options": [
+        "Amino transferases",
+        "Glutaminase",
+        "Glutamine synthase",
+        "Glutamate dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-9",
+      "question": "The necessary coenzyme for transamination reactions is",
+      "options": [
+        "Pyridoxal phosphate",
+        "Thiamine pyrophosphate",
+        "NAD",
+        "Coenzyme A"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-10",
+      "question": "The first step of indirect deamination is promoted by",
+      "options": [
+        "Amino transferases",
+        "Glutamate deaminase",
+        "Glutamine synthase",
+        "Glutamate dehydrogenase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-11",
+      "question": "The combined action of aminotransferase and glutamate dehydrogenase is referred as",
+      "options": [
+        "Oxidative deamination",
+        "Transamination",
+        "Reductive deamination",
+        "Indirect deamination"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-12",
+      "question": "Glutamine is converted to glutamate and NH4 + by",
+      "options": [
+        "Amino transferases",
+        "Glutaminase",
+        "Glutamine synthase",
+        "Glutamate dehydrogenase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-13",
+      "question": "Trypsinogen is converted to its active state by",
+      "options": [
+        "Enteropeptidase",
+        "Chymotrypsin",
+        "Cholecystokinin",
+        "Secretin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-14",
+      "question": "Which of the following hydrolyzes successive amino-terminal residues from short peptides?",
+      "options": [
+        "Aminopeptidase",
+        "Enteropeptidase",
+        "Carboxypeptidase",
+        "Dipeptidase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-15",
+      "question": "Which of the following hydrolyzes successive carboxy-terminal residues from short peptides?",
+      "options": [
+        "Aminopeptidase",
+        "Enteropeptidase",
+        "Carboxypeptidase",
+        "Dipeptidase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-16",
+      "question": "Which of the enzymes is an endopeptidase?",
+      "options": [
+        "Carboxypeptidase",
+        "Aminopeptidase",
+        "Dipeptidase",
+        "Elastase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-17",
+      "question": "Which of the enzymes is an exopeptidase?",
+      "options": [
+        "Elastase",
+        "Carboxypeptidase",
+        "Trypsin",
+        "Chymotrypsin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-18",
+      "question": "Urea production occurs almost exclusively in",
+      "options": [
+        "Kidneys",
+        "Liver",
+        "Blood",
+        "Urine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-19",
+      "question": "The first amino group entering into urea cycle is derived from",
+      "options": [
+        "Carbamoyl phosphate",
+        "Ornithine",
+        "Citrulline",
+        "Argininosuccinate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-20",
+      "question": "The second amino group entering into urea cycle is derived from",
+      "options": [
+        "Glutamate",
+        "Ornithine",
+        "Citrulline",
+        "Aspartate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-21",
+      "question": "Which of the components of CAC is prodused in urea cycle?",
+      "options": [
+        "Succinate",
+        "Fumarate",
+        "Oxaloacetate",
+        "Acetyl CoA"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-22",
+      "question": "Nitrogen atoms of urea produced in the urea cycle are derived from",
+      "options": [
+        "Ammonia and aspartic acid",
+        "Ammonia and arginine",
+        "Ammonia and ornithine",
+        "Ammonia and glutamine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-23",
+      "question": "Products of urea cycle are",
+      "options": [
+        "urea, ammonia, ATP and fumaric acid",
+        "urea, AMP, ADP and fumaric acid",
+        "urea, aspartic acid, ATP and fumaric acid",
+        "urea, ornithine, ATP and fumaric acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-24",
+      "question": "The carbon atom source while producing urea in the urea cycle is",
+      "options": [
+        "CO2",
+        "Ornithine",
+        "Aspartic acid",
+        "Arginine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-25",
+      "question": "Which of the following is not an essential amino acid?",
+      "options": [
+        "Glycine",
+        "Leucine",
+        "Methionine",
+        "Histidine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-26",
+      "question": "Urea cycle converts",
+      "options": [
+        "Keto acids into amino acids",
+        "Amino acids into keto acids",
+        "Ammonia into a less toxic form",
+        "Ammonia into a more toxic form"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-27",
+      "question": "Initial substances for urea cycle are",
+      "options": [
+        "CO2, ammonia, three molecule of ATP, aspartic acid",
+        "urea, one molecule of AMP, two molecule of ADP, fumaric acid",
+        "aspartic acid, ammonia, one molecule of ATP, fumaric acid",
+        "urea, ammonia, one molecule of ATP, fumaric acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-28",
+      "question": "Which of the following amino acids is exclusively ketogenic?",
+      "options": [
+        "Leucine",
+        "Asparagine",
+        "Threonine",
+        "Proline"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-29",
+      "question": "Which of the following is exclusively glucogenic?",
+      "options": [
+        "Arginine",
+        "Leucine",
+        "Lysine",
+        "Phenylalanine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-30",
+      "question": "The branched chain amino acid is not",
+      "options": [
+        "Leucine",
+        "Isoleucine",
+        "Valine",
+        "Alanine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-31",
+      "question": "What is the result of indirect deamination of aspartic acid?",
+      "options": [
+        "Fumarate",
+        "Oxaloacetate",
+        "Pyruvate",
+        "Acetoacetate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-32",
+      "question": "Which of the following is a non-essential amino acid?",
+      "options": [
+        "Methionine",
+        "Threonine",
+        "Lysine",
+        "Cysteine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-33",
+      "question": "Which of the following is not an aromatic amino acid?",
+      "options": [
+        "Phenylalanine",
+        "Tyrosine",
+        "Tryptophan",
+        "Leucine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-34",
+      "question": "Which of the following can be formed by hydroxylation of phenylalanine?",
+      "options": [
+        "Serine",
+        "Tyrosine",
+        "Threonine",
+        "Tryptophan"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-35",
+      "question": "Tyrosine gives rise to a family of catecholamines that does not include",
+      "options": [
+        "Dopamine",
+        "Norepinephrine",
+        "Epinephrine",
+        "Phenylalanine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-36",
+      "question": "Inherited defect of phenylalanine hydroxylase causes",
+      "options": [
+        "phenylketonuria",
+        "albinism",
+        "alkaptonuria",
+        "tyrosinemia"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-37",
+      "question": "Which of the following gives rise to γ-amino butyrate?",
+      "options": [
+        "Histidine decarboxylation",
+        "Glutamate decarboxylation",
+        "Glutamate deamination",
+        "Histidine deamination"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-38",
+      "question": "Which of the following is a result of tryptophan decarboxylation?",
+      "options": [
+        "Dopamine",
+        "Histamine",
+        "Epinephrine",
+        "Serotonin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-39",
+      "question": "Biogenic amines are formed by",
+      "options": [
+        "Decarboxylation of amino acids",
+        "Transamination of amino acids",
+        "Reductive amination of alpha ketoacids",
+        "Deamination of amino acids"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-40",
+      "question": "Hiperammonemia is a metabolic disorder of",
+      "options": [
+        "Phenylalanine hydroxylation",
+        "Melanin synthesis",
+        "Urea cycle",
+        "Tyrosine degradation"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-41",
+      "question": "Phenylketonuria is a metabolic disorder of",
+      "options": [
+        "Phenylalanine hydroxylation",
+        "Melanin synthesis",
+        "Urea cycle",
+        "Tyrosine degradation"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-42",
+      "question": "Albinism is a metabolic disorder of",
+      "options": [
+        "Phenylalanine hydroxylation",
+        "Melanine synthesis",
+        "Urea cycle",
+        "Tyrosine degradation"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-43",
+      "question": "Alkaptonuria is a metabolic disorder of",
+      "options": [
+        "Phenylalanine hydroxylation",
+        "Melanin synthesis",
+        "Urea cycle",
+        "Tyrosine degradation"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-44",
+      "question": "The precursor of melanin is",
+      "options": [
+        "Phenylalanine",
+        "Tyrosine",
+        "Tryptophan",
+        "Methionine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-45",
+      "question": "The defective enzyme in alkaptonuria is",
+      "options": [
+        "Phenylalanine hydroxylase",
+        "Tyrosine hydroxylase",
+        "Homogentisate oxidase",
+        "Tyrosine transaminase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-46",
+      "question": "The defective enzyme in albinism is",
+      "options": [
+        "Phenylalanine hydroxylase",
+        "Tyrosine hydroxylase",
+        "Homogentisate oxidase",
+        "Tyrosine transaminase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-47",
+      "question": "The main symptom of phenylketonuria is",
+      "options": [
+        "hypopigmentation",
+        "severe mental retardation",
+        "dark colour of urine",
+        "arthritis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-48",
+      "question": "The symptoms of alkaptonuria are",
+      "options": [
+        "hypopigmentation",
+        "severe mental retardation",
+        "dark colour of urine",
+        "arthritis"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-49",
+      "question": "Which of the following products is formed during normal metabolism of phenylalanine by phenylalanine hydroxylase?",
+      "options": [
+        "Tyrosine",
+        "Phenylpyruvate",
+        "Phenylacetate",
+        "Phenyl lactate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-50",
+      "question": "Identify the amino acid that is both glucogenic and ketogenic",
+      "options": [
+        "Methionine",
+        "Cysteine",
+        "Tryptophan",
+        "Valine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-51",
+      "question": "Identify the amino acid that participates in methyl group transfer:",
+      "options": [
+        "Leucine",
+        "Valine",
+        "Lysine",
+        "Methionine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-52",
+      "question": "Which of the following amino acids has an important role in the transport of amino group from peripheral tissues to the liver?",
+      "options": [
+        "Glutamate",
+        "Methionine",
+        "Glutamine",
+        "Arginine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-53",
+      "question": "The following metabolites are excreted via urine to maintain the nitrogen balance except:",
+      "options": [
+        "Amino acids",
+        "Creatinine",
+        "Urea",
+        "Ammonia"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-54",
+      "question": "What does the term “essential amino acids” mean?",
+      "options": [
+        "They are initial substances for gluconeogenesis",
+        "They are used in synthesis of most functionally significant proteins",
+        "They aren’t synthesized in human's body",
+        "They are used in synthesis of proteins and other biologically important compounds"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-55",
+      "question": "Which statements describe the dietary significance of proteins?",
+      "options": [
+        "The main source of nitrogen for organism",
+        "Source of energy for organism",
+        "Source of essential amino acids",
+        "Source of non-essential amino acids"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-56",
+      "question": "Nitrogen turnover is characterized with “loss quotient”. What does last term mean?",
+      "options": [
+        "Maximal protein quantity expended by tissues in usual nutrition",
+        "Maximal protein quantity expended in organism in maximal energy expenditure",
+        "Protein quantity daily lost by organism in complete protein starvation",
+        "Protein quantity daily lost by organism in kidney disease"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-57",
+      "question": "“Protein minimum” is sometimes taken in account in human daily diet composition. What does this term mean?",
+      "options": [
+        "Protein quantity in diet which maintains positive nitrogen balance",
+        "Protein quantity in diet that corresponds to loss quotient",
+        "Protein quantity in diet which makes negative nitrogen balance",
+        "The least quantity of proteins in diet which can maintain nitrogen equilibrium during a little time"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-58",
+      "question": "Nutritious value of proteins can be described by following characteristics",
+      "options": [
+        "possibility of proteins being hydrolyzed by peptidases of gastro-intestinal tract",
+        "animal origin of proteins",
+        "presence of all essential amino acids in proteins",
+        "correlation of amino acids proportion in dietary product and tissue proteins"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-59",
+      "question": "Protein digestion starts in stomach. Which of listed enzymes are present in stomach juice?",
+      "options": [
+        "Pepsin",
+        "Rennin (Chymosin)",
+        "Chymotrypsin",
+        "Trypsin"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-60",
+      "question": "Protein digestion in small intestine occurs with participation of pancreatic and intestinal mucosa proteases. Which of listed enzymes is produced by intestinal mucosa?",
+      "options": [
+        "Carboxypeptidase",
+        "Aminopeptidase",
+        "Elastase",
+        "Dipeptidase"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-61",
+      "question": "Which type of enzymes activation occurs in the gastrointestinal tract?",
+      "options": [
+        "Complex formation with carbohydrates",
+        "Complex formation with lipids",
+        "Partial proteolysis",
+        "Phosphorylation"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-62",
+      "question": "Non-digested proteins and products of their non-complete hydrolysis give substrates for putrefaction flora in colon. Which of listed factors intensify protein putrefaction process?",
+      "options": [
+        "Diet with low cellulose quantity",
+        "Predominance of low-quality proteins in a diet",
+        "Enforced the intestine peristalsis",
+        "Diet with enhanced cellulose amount"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-63",
+      "question": "Tick toxic products of protein degradation by putrefaction microflora in colon.",
+      "options": [
+        "Spermidine",
+        "Skatole",
+        "Ammonia",
+        "Putrescine",
+        "Cadaverine",
+        "Hippuric acid"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-64",
+      "question": "The unique property of hepatocytes is the capacity to detoxify some xenobiotics by conjugation. Which of listed compounds can be used for this process?",
+      "options": [
+        "Sulfate",
+        "Glucuronic acid",
+        "Acetoacetic acid",
+        "Glycine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-65",
+      "question": "Toxic products of putrefaction and other metabolites are detoxified in liver. Which of listed processes serve this purpose?",
+      "options": [
+        "gluconeogenesis",
+        "Ornithine cycle",
+        "Cori cycle",
+        "Oxidative reactions",
+        "Conjugation (synthesis of paired compound)",
+        "Methylation reaction"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-66",
+      "question": "Indicant is one of the nitrogenous compounds of urine. What does enhanced indicant excretion inform about?",
+      "options": [
+        "Pigment turnover disturbances",
+        "Kidney disease",
+        "Intensification of protein putrefaction in colon",
+        "Liver damage",
+        "Carbohydrate turnover disorder"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-67",
+      "question": "Quick’s test is one of the clinical tests for estimation of liver antitoxic function. Which metabolite excretion is estimated by Quick’s test?",
+      "options": [
+        "Ammonia salts",
+        "Indicant",
+        "Hippuric acid",
+        "Bilirubin",
+        "Benzoic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-68",
+      "question": "Which of these compounds are biogenic amines?",
+      "options": [
+        "Carnosine",
+        "γ-aminobutiric acid",
+        "Serotonin",
+        "Noradrenaline",
+        "Histamine",
+        "Creatinine"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-69",
+      "question": "Adrenaline and noradrenaline are formed as results of the metabolism of",
+      "options": [
+        "Tryptophan",
+        "Histidine",
+        "Tyrosine",
+        "Glutamic acid",
+        "Lysine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-70",
+      "question": "Which substances can take part in transamination of amino acids?",
+      "options": [
+        "Pyruvate",
+        "α-ketoglutarate",
+        "Lactate",
+        "β-hydroxybutirate"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-71",
+      "question": "Which enzymes participate in oxidative deamination of amino acids?",
+      "options": [
+        "Monoamine oxidases",
+        "Amino acid oxidases",
+        "Glutamate dehydrogenase",
+        "Histidine deaminase"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-72",
+      "question": "Following enzymes participate in amino acids conversion. Which enzymes activity estimation is often used for diagnostic purpose?",
+      "options": [
+        "Alanine aminotransferase",
+        "Aspartate aminotransferase",
+        "Glycine oxidase",
+        "Glutaminase"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-73",
+      "question": "Which statement about amino acids transamination is false?",
+      "options": [
+        "Transamination provides a pathway of amino acids catabolism and link with CAC",
+        "It is a pathway for non-essential amino acids synthesis",
+        "Free ammonia is released in this pathway",
+        "Analysis of certain enzyme activities in blood serum give valuable diagnostic information for a number of diseases"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-74",
+      "question": "Which type of amino acids deamination does not occur in human tissue?",
+      "options": [
+        "Reductive deamination",
+        "Oxidative deamination",
+        "Intramolecular deamination",
+        "Indirect deamination"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-75",
+      "question": "What is the main product of amino acids catabolism that is excreted from human body?",
+      "options": [
+        "Creatine",
+        "Ammonia salts",
+        "Indicant",
+        "Urea",
+        "Uric acid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-76",
+      "question": "Biogenic amines are inactivated by the process of",
+      "options": [
+        "Deamination",
+        "Oxidation",
+        "Reduction",
+        "Methylation"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-77",
+      "question": "Ammonia concentration in blood (micromole/L) is",
+      "options": [
+        "10-25",
+        "25-40",
+        "40-65",
+        "65-80"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-78",
+      "question": "Daily excretion of urea is",
+      "options": [
+        "10-20 g",
+        "20-30 g",
+        "15-25 g",
+        "25-35 g"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-79",
+      "question": "Which substances can accept free ammonium in tissues?",
+      "options": [
+        "Acetoacetic acid",
+        "Proteins",
+        "a-ketoglutaric acid",
+        "Glutamic acid"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-80",
+      "question": "Which statement about kidney glutaminase is true?",
+      "options": [
+        "It's activity increased at acidic pH",
+        "It's activity increased at alkaline pH",
+        "It's activity increased at neutral pH",
+        "It's activity does not depend on pH"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-81",
+      "question": "Ammonia excretion with urine is",
+      "options": [
+        "0.5-1.5 g",
+        "1.5-3 g",
+        "3-4 g",
+        "4-5 g"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-82",
+      "question": "What does the term \"glucogenic amino acids\" mean?",
+      "options": [
+        "They disorder cell capacity to utilize glucose",
+        "They are transformed to glucose",
+        "They can replace glucose as energetical substrate",
+        "They suppress gluconeogenesis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-83",
+      "question": "Which vitamins take active part in the transfer of one-carbon radicals?",
+      "options": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Folic acid",
+        "Vitamin B2"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-84",
+      "question": "Which amino acids act as donors of one-carbon radicals?",
+      "options": [
+        "Glycine",
+        "Alanine",
+        "Serine",
+        "Methionine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-85",
+      "question": "Which of listed diseases develop due to amino acids catabolism disorder?",
+      "options": [
+        "Gout",
+        "Alkaptonuria",
+        "Albinism",
+        "Mixedema"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-86",
+      "question": "Which enzymes are pancreatic?",
+      "options": [
+        "Pepsin",
+        "Trypsin",
+        "Chymotrypsin",
+        "Elastase",
+        "Carboxypeptidase",
+        "Aminopeptidase"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-87",
+      "question": "Which function of HCl in stomach is false?",
+      "options": [
+        "Provides pH=4-5",
+        "Activates pepsinogen",
+        "Kills certain microorganisms",
+        "Causes the denaturation of proteins"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-88",
+      "question": "What is the optimal pH for trypsin?",
+      "options": [
+        "1-2",
+        "4-5",
+        "6-7",
+        "8-9"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-89",
+      "question": "Which enzyme can convert pancreatic zymogens to active enzymes?",
+      "options": [
+        "Elastase",
+        "Trypsin",
+        "Chymotrypsin",
+        "Carboxypeptidase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-90",
+      "question": "Pepsinogen is converted to active pepsin by",
+      "options": [
+        "HCl",
+        "Bile salts",
+        "Ca2+",
+        "Enterokinase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-91",
+      "question": "The optimal pH for the enzyme pepsin is",
+      "options": [
+        "1-2",
+        "4-5",
+        "5-6",
+        "6-7"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-92",
+      "question": "The end products of protein digestion in G.I.T. are",
+      "options": [
+        "Dipeptides",
+        "Oligopeptides",
+        "Polypeptides",
+        "Amino acids"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-93",
+      "question": "Natural L-isomers of amino acids are absorbed from intestine by",
+      "options": [
+        "Passive diffusion",
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Active process"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-94",
+      "question": "A positive nitrogen balance occurs",
+      "options": [
+        "In growing infant",
+        "Following surgery",
+        "In advanced cancer",
+        "In kwashiorkor"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-95",
+      "question": "The main site of urea synthesis in mammals is",
+      "options": [
+        "Liver",
+        "Skin",
+        "Intestine",
+        "Kidney"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-96",
+      "question": "The enzymes of urea synthesis are found in",
+      "options": [
+        "Mitochondria only",
+        "Cytosol only",
+        "Both mitochondria and cytosol",
+        "Nucleus"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-97",
+      "question": "Most of the ammonia released from L-αamino acids reflects the coupled action of transaminase and",
+      "options": [
+        "L-glutamate dehydrogenase",
+        "L-amino acid oxidase",
+        "Histidase",
+        "Serine dehydratase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-98",
+      "question": "The amino acid which detoxicated benzoic acid to form hippuric acid is",
+      "options": [
+        "Glycine",
+        "Alanine",
+        "Serine",
+        "Glutamic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-99",
+      "question": "The amino acid that undergoes oxidative deamination at significant rate is",
+      "options": [
+        "Alanine",
+        "Aspartate",
+        "Glutamate",
+        "Glutamine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-100",
+      "question": "Free ammonia is released during",
+      "options": [
+        "Oxidative deamination of glutamate",
+        "Catabolism of purines",
+        "Catabolism of pyrimidines",
+        "All of these"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-101",
+      "question": "An organ which is extremely sensitive to ammonia toxicity is",
+      "options": [
+        "Liver",
+        "Brain",
+        "Kidney",
+        "Heart"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-102",
+      "question": "Histamine is formed from histidine by",
+      "options": [
+        "Deamination",
+        "Dehydrogenation",
+        "Decarboxylation",
+        "Carboxylation"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-103",
+      "question": "Glycine is not required for the formation of",
+      "options": [
+        "Glycocholic acid",
+        "Creatine",
+        "Purines",
+        "Pyrimidines"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-104",
+      "question": "All the following statements about phenylketonuria are correct except",
+      "options": [
+        "Phenylalanine cannot be converted into tyrosine",
+        "Urinary excretion of phenylpyruvate and phenyllactate is increased",
+        "It can be controlled by giving a low-phenylalanine diet",
+        "It leads to decreased synthesis of thyroid hormones, catecholamines and melanin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-105",
+      "question": "All the following statements about albinism are correct except",
+      "options": [
+        "Tyrosine hydroxylase (tyrosinase) is absent or deficient in melanocytes",
+        "Skin is hypopigmented",
+        "It results in mental retardation",
+        "Eyes are hypopigmented"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-106",
+      "question": "DOPA is an intermediate in the synthesis of",
+      "options": [
+        "Thyroid hormones",
+        "Catecholamines",
+        "Melanin",
+        "Catecholamines and melanin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-107",
+      "question": "All the following statements about pepsin are correct except",
+      "options": [
+        "It is smaller than pepsinogen",
+        "It is formed by the action of HCl on its precursor",
+        "Its optimum pH is 1.0–2.0",
+        "It hydrolyses the C-terminal and N-terminal peptide bonds of proteins"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-108",
+      "question": "Pancreatic juice contains the precursors of all of the following except",
+      "options": [
+        "Trypsin",
+        "Chymotrypsin",
+        "Carboxypeptidase",
+        "Aminopeptidase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-109",
+      "question": "The only correct statement about chymotrypsin is",
+      "options": [
+        "It is formed from trypsin",
+        "Carboxypeptidase converts trypsin into chymotrypsin",
+        "Its optimum pH is around 7",
+        "It hydrolyses peptide bonds involving aromatic amino acids"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-110",
+      "question": "Kwashiorkor occurs when the diet is severely deficient in",
+      "options": [
+        "Iron",
+        "Calories",
+        "Proteins",
+        "Essential fatty acids"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-111",
+      "question": "Histamine causes all the following except",
+      "options": [
+        "Stimulation of gastric secretion",
+        "Vasoconstriction",
+        "Pruritus",
+        "Increase in capillary permeability"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-112",
+      "question": "An amino acid not involved in urea cycle is",
+      "options": [
+        "Arginine",
+        "Histidine",
+        "Ornithine",
+        "Citrulline"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-113",
+      "question": "NH3 is detoxified in brain chiefly as",
+      "options": [
+        "Urea",
+        "Uric acid",
+        "Creatinine",
+        "Glutamine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-114",
+      "question": "In humans, NH3 is detoxified in liver as",
+      "options": [
+        "Creatinine",
+        "Uric acid",
+        "Urea",
+        "Uronic acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-115",
+      "question": "The metabolite which sustains urea cycle is",
+      "options": [
+        "Ornithine",
+        "Citrulline",
+        "Carbamoyl phosphate",
+        "n-acetyl glutamate"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-116",
+      "question": "The integrator between the TCA cycle and urea cycle is",
+      "options": [
+        "Fumarate",
+        "Malate",
+        "Pyruvate",
+        "Citrate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-117",
+      "question": "Two nitrogen atoms of Urea in the urea cycle come from",
+      "options": [
+        "NH3",
+        "One from NH3 and one from aspartate",
+        "One from NH3 and one from glutamate",
+        "One from NH3 and one from alanine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-118",
+      "question": "Pyruvic acid can be obtained by transamination of alanine with",
+      "options": [
+        "α- keto glutaric acid",
+        "Acetoacetic acid",
+        "β−OH butyric acid",
+        "Phosphoenol Pyruvic acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-119",
+      "question": "Formation of melanin from the amino acid requires the action of",
+      "options": [
+        "Dopa decarboxylase",
+        "Diamine oxidase",
+        "Peroxidase",
+        "Tyrosinase"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-120",
+      "question": "Citrulline is an intermediate of",
+      "options": [
+        "TCA cycle",
+        "Urea cycle",
+        "Pentose cycle",
+        "Calvin cycle"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-121",
+      "question": "Side chains of all amino acids contain aromatic rings except",
+      "options": [
+        "Pheynl alanine",
+        "Alanine",
+        "Tyrosine",
+        "Tryptophan"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-122",
+      "question": "Which of the following amino acids contain sulphur atom?",
+      "options": [
+        "Methionine",
+        "Threonine",
+        "Cystein",
+        "Leucine"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-123",
+      "question": "The following amino acids are required for completion of urea cycle except",
+      "options": [
+        "Aspartic acid",
+        "Arginine",
+        "Ornithine",
+        "Glutamic acid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-124",
+      "question": "All followings are ketogenic aminoacids except",
+      "options": [
+        "Leucine",
+        "Isoleucine",
+        "Phenyl alanine",
+        "Glycine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-125",
+      "question": "The amino acid producing indole by putrefaction:",
+      "options": [
+        "Tryptophan",
+        "Lysine",
+        "Phenylalanine",
+        "Tyrosine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-126",
+      "question": "The amino acid producing cadaverine by putrefaction:",
+      "options": [
+        "Tryptophan",
+        "Lysine",
+        "Phenylalanine",
+        "Tyrosine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-127",
+      "question": "Which one of the following is an essential amino acid?",
+      "options": [
+        "Arginine",
+        "Tyrosine",
+        "Phenylalanine",
+        "Proline"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-128",
+      "question": "What is the product of tyrosine putrefaction?",
+      "options": [
+        "Indole",
+        "Scatole",
+        "Phenol",
+        "Cadaverine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-129",
+      "question": "Which process is catalyzed by monooxygenases in liver?",
+      "options": [
+        "Ammonia detoxification",
+        "Hydroxylaton of toxic substances",
+        "Conjugate formation",
+        "Cleavage of toxic cyclic substances"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-130",
+      "question": "Indicant is derived from",
+      "options": [
+        "Tryptophan",
+        "Lysine",
+        "Phenylalanine",
+        "Tyrosine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-131",
+      "question": "Which statement about cathepsins is false?",
+      "options": [
+        "They are both lysosomal and cytosolic enzymes",
+        "They are classified to exopeptidases and endopeptidases",
+        "They are proteolytic enzymes",
+        "They take part in proteins digestion"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-132",
+      "question": "Which substances are products of amino acids degradation?",
+      "options": [
+        "oxaloacetate",
+        "α-ketoglutarate",
+        "fumarate",
+        "pyruvate",
+        "lactate",
+        "citrate"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-133",
+      "question": "One of the following amino acid is solely ketogenic:",
+      "options": [
+        "Lysine",
+        "Alanine",
+        "Valine",
+        "Glutamate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-134",
+      "question": "The milk protein in the stomach of the infants is digested by",
+      "options": [
+        "Pepsin",
+        "Trypsin",
+        "Chymotrypsin",
+        "Rennin"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-135",
+      "question": "Trypsin hydrolyzes peptide linkages containing",
+      "options": [
+        "Arginine",
+        "Histidine",
+        "Serine",
+        "Aspartate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-136",
+      "question": "Chymotrypsin in the small intestine hydrolyzes peptide linkages containing",
+      "options": [
+        "Alanine",
+        "Phenyl alanine",
+        "Valine",
+        "Methionine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-137",
+      "question": "Protein anabolism is stimulated by",
+      "options": [
+        "ACTH",
+        "Insulin",
+        "Glucagon",
+        "Epinephrine"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-138",
+      "question": "The metabolism of protein is integrated with that of carbohydrate and fat through",
+      "options": [
+        "Pyruvate",
+        "Citrate",
+        "Isocitrate",
+        "Malate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-139",
+      "question": "The unwanted amino acids abstracted from the tissues are either used up by the tissue or converted in the liver into",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Ammonium salts",
+        "Uric acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-140",
+      "question": "Which statement about amino acids is false?",
+      "options": [
+        "They are formed by the digestion of dietary proteins",
+        "They are formed by catabolism of tissue proteins",
+        "Non-essential amino acids are synthesized from carbohydrate catabolism metabolites",
+        "Essential amino acids are synthesized from carbohydrate catabolism metabolites"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-141",
+      "question": "The end product of amino acid nitrogen metabolism in human organism is",
+      "options": [
+        "Bile acids",
+        "Ketone bodies",
+        "Urea",
+        "Uric acid"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-142",
+      "question": "Synthesis of glutamine is accompanied by the hydrolysis of",
+      "options": [
+        "ATP",
+        "ADP",
+        "TPP",
+        "Creatin phosphate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-143",
+      "question": "Which clinical symptom in urea cycle disorder is false",
+      "options": [
+        "vomiting",
+        "break of coordination",
+        "brain edema",
+        "diarrhoea",
+        "sleepiness"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-144",
+      "question": "Protein deficiency disease is known as",
+      "options": [
+        "Cushing’s disease",
+        "Fabry’s disease",
+        "Parkinson’s disease",
+        "Kwashiorkor and marasmus"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-145",
+      "question": "Oxaloacetate is converted to aspartic acid by",
+      "options": [
+        "Reductase",
+        "Oxidase",
+        "Transminase",
+        "Catalase"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-146",
+      "question": "Inactive zymogens are precursors of all the following gastrointestinal enzymes except",
+      "options": [
+        "Carboxypeptidase",
+        "Pepsin",
+        "Amino peptidase",
+        "Chymotrypsin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-147",
+      "question": "Which of the amino acids produces a vasodilator on decarboxylation?",
+      "options": [
+        "Glutamic acid",
+        "Histidine",
+        "Tyrosine",
+        "Tryptophan"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-148",
+      "question": "One of the following has a phenolic group:",
+      "options": [
+        "Histidine",
+        "Hydroxy lysine",
+        "Serotonine",
+        "Hydroxy proline"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-149",
+      "question": "An amino acid which contains a disulphide bond is",
+      "options": [
+        "Methionine",
+        "Homocysteine",
+        "Cystine",
+        "Cysteine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-150",
+      "question": "Two amino groups are present in",
+      "options": [
+        "Leucine",
+        "Glutamate",
+        "Lysine",
+        "Threonine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-151",
+      "question": "Control of urea cycle involves the enzyme",
+      "options": [
+        "Carbamoyl phosphate synthetase",
+        "Ornithine transcarbamoylase",
+        "Argininosuccinase",
+        "Arginase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-152",
+      "question": "Transfer of the carbamoyl moiety of carbamoyl phosphate to ornithine is catalysed by the enzyme:",
+      "options": [
+        "Carbamoyl phosphate synthetase",
+        "Ornithine transcarbamoylase",
+        "Argininosuccinase",
+        "Arginase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-153",
+      "question": "Essential amino acids",
+      "options": [
+        "are most deficient in proteins",
+        "are most excess in proteins",
+        "increase the growth",
+        "increase the weight gain"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-154",
+      "question": "ATP is required in following reactions of urea cycle:",
+      "options": [
+        "Synthesis of carbamoyl phosphate and citrulline",
+        "Synthesis of citrulline and argininosuccinate",
+        "Synthesis of argininosuccinate and arginine",
+        "Synthesis of carbamoyl phosphate and argininosuccinate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-155",
+      "question": "The compound having the formula H2N—CO—NH—(CH2)3—CH—COOH is | NH2",
+      "options": [
+        "Lysine",
+        "Glutamine",
+        "Citrulline",
+        "Arginine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-156",
+      "question": "Uremia occurs in",
+      "options": [
+        "Cirrhosis of the liver",
+        "Nephritis",
+        "Diabetes mellitus",
+        "Coronary thrombosis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-157",
+      "question": "The milk protein in the stomach in an adult is digested by",
+      "options": [
+        "Pepsin",
+        "Rennin",
+        "HCl",
+        "Chymotrypsinogen"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-158",
+      "question": "This compound of urea cycle is:",
+      "options": [
+        "urea",
+        "carbamoyl phosphate",
+        "ornithine",
+        "citrulline"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-159",
+      "question": "This compound of urea cycle is:",
+      "options": [
+        "urea",
+        "carbamoyl phosphate",
+        "ornithine",
+        "citrulline"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-160",
+      "question": "This compound of urea cycle is:",
+      "options": [
+        "arginine",
+        "glutamine",
+        "ornithine",
+        "citrulline"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-161",
+      "question": "This compound of urea cycle is:",
+      "options": [
+        "arginine",
+        "glutamine",
+        "ornithine",
+        "citrulline"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-162",
+      "question": "This compound in urea cycle is synthesized from:",
+      "options": [
+        "arginine and fumarate",
+        "glutamate and ornithine",
+        "ornithine and aspartate",
+        "citrulline and aspartate"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-163",
+      "question": "This compound in urea cycle is cleaved to:",
+      "options": [
+        "arginine and fumarate",
+        "glutamate and ornithine",
+        "ornithine and fumarate",
+        "citrulline and aspartate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-164",
+      "question": "This compound in urea cycle is synthesized from:",
+      "options": [
+        "ornithine and carbamoyl phosphate",
+        "glutamate and ornithine",
+        "ornithine and aspartate",
+        "citrulline and aspartate"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-165",
+      "question": "This compound in urea cycle is formed from:",
+      "options": [
+        "arginine",
+        "arginosuccinate",
+        "ornithine",
+        "citrulline"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-166",
+      "question": "This reaction of amino acids turnover is:",
+      "options": [
+        "oxidative deamination",
+        "transamination",
+        "decarboxylation",
+        "non-oxidative deamination"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-167",
+      "question": "This compound is:",
+      "options": [
+        "tyrosine",
+        "dopamine",
+        "norepinephrine",
+        "epinephrine"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-168",
+      "question": "This compound is:",
+      "options": [
+        "methionine",
+        "cysteine",
+        "cystine",
+        "arginine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-169",
+      "question": "Decarboxylation of this substance gives rise to:",
+      "options": [
+        "histamine",
+        "serotonin",
+        "epinephrine",
+        "γ-amino butiric acid"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-170",
+      "question": "Decarboxylation of this substance gives rise to:",
+      "options": [
+        "histamine",
+        "serotonin",
+        "epinephrine",
+        "γ-amino butiric acid"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-171",
+      "question": "Decarboxylation of this substance gives rise to:",
+      "options": [
+        "histamine",
+        "serotonin",
+        "epinephrine",
+        "γ-amino butiric acid"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-172",
+      "question": "Defective enzyme at hyperammonemia type I is:",
+      "options": [
+        "carbamoyl phosphate synthase",
+        "ornithine transcarbamoylase",
+        "arginase",
+        "arginosuccinate synthase"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "protein-173",
+      "question": "Defective enzyme at hyperammonemia type II is:",
+      "options": [
+        "carbamoyl phosphate synthase",
+        "ornithine transcarbamoylase",
+        "arginase",
+        "arginosuccinate synthase"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}
