@@ -1,0 +1,16 @@
+{
+  "id": "biochem-structure-1",
+  "question": "Identify the following chemical structure:",
+  "image": "data/structures/vitamin-b1.jpg",
+  "structureLabel": "Vitamin B1 structure",
+  "options": [
+    "Vitamin D",
+    "Vitamin B12",
+    "Vitamin H",
+    "Vitamin B2",
+    "Vitamin B9",
+    "Vitamin B1"
+  ],
+  "correctAnswers": [5],
+  "explanation": "This structure is Vitamin B1 (thiamine)."
+}
